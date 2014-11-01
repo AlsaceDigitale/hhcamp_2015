@@ -148,7 +148,13 @@ section.intro
     text-shadow: 2px 2px $brand-primary-darker
 
 section
-  &.discover, &.contact
+  &.discover
+    background: url($asset-path + '/img/bg1.jpg') no-repeat center center
+  &.contact
+    background: url($asset-path + '/img/bg3.jpg') no-repeat center center
+  &.event-intro
+    background: url($asset-path + '/img/bg4.jpg') no-repeat center center
+  &.discover, &.contact, &.event-intro
     -webkit-background-size: cover
     -moz-background-size: cover
     -o-background-size: cover
@@ -163,10 +169,6 @@ section
       width: 100%
       height: 100%
       background-color: rgba(0, 0, 0, 0.7)
-  &.discover
-    background: url($asset-path + '/img/bg1.jpg') no-repeat center center
-  &.contact
-    background: url($asset-path + '/img/bg3.jpg') no-repeat center center
 
 section.events
   @each $event in $events
@@ -344,3 +346,6 @@ section.partners
         -webkit-filter: none
         -moz-filter: none
         filter: none
+
+section.event-intro
+  color: white
