@@ -32,7 +32,7 @@
               </p>
               <div class="row">
                 <div class="col-xs-7">
-                  {% assign event_url = event[1] | downcase | replace:' ','-' | append:'.html' %}
+                  {% assign event_url = mnemonic | append:'.html' %}
                   <a href='{{ event_url }}' class="btn btn-white btn-block">
                     Know more
                   </a>
