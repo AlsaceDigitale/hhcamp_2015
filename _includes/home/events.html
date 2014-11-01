@@ -22,8 +22,18 @@
               {% assign img_url = "/img/" | append: event[0] | append: ".png" | prepend: site.baseurl %}
               <img src="{{ img_url }}" />
             </div>
-            {% assign event_name = event[0] %}
-            {% include home/event_{{ event_name }}.html %}
+            <div class="col-xs-6">
+              {% assign event_name = event[0] %}
+              {% include home/event_{{ event_name }}.html %}
+              <div class="row">
+                <div class="col-xs-7">
+                  {% assign event_url = event[1] | downcase | replace:' ','-' | append:'.html' %}
+                  <a href='{{ event_url }}' class="btn btn-white btn-block">
+                    Know more
+                  </a>
+                </div>
+              </div>
+            </div>
           </div>
         {% endfor %}
       </div>
