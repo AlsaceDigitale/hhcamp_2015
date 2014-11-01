@@ -8,7 +8,7 @@
       </div>
     </div>
     {% for category in site.partners %}
-      <div class="row">
+      <div class="row category">
         <h3 class="h5">{% if category[0] != "regular" %}{{ category[0] }} {% endif %}Partners</h3>
         <ul class="list-inline">
         {% for partner in category[1] %}
