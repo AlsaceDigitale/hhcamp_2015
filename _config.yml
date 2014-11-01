@@ -14,10 +14,26 @@ github_username:  jekyll
 markdown: kramdown
 
 events:
-  future: Future of Health
-  pitch: Health Pitch Challenge
-  dataday: Health Data Day
-  hackathon: Health Hackathon
+  - name: Future of Health
+    verb: Inspire
+    date: "Thursday, March 19th, 9:30 AM - 5 PM"
+    venue:
+    description: A entire day of inspiring and forward-thinking conferences on the future of health by a line up of internationally-recognized health mentors.
+  - name: Health Pitch Challenge
+    verb: Bonus
+    date: "Thursday, March 19th, 7:00 PM - 10:00 PM"
+    venue:
+    description: "A festive event dedicated to health startups, complete with the presence of investors. Early-stage startups will pitch; attendees will vote by investing in their favorite startups with fake banknotes. The winner will be the one who raises the most money."
+  - name: Health Data Day
+    verb: Learn
+    date: "Friday, March 20th, 9:00 AM - 5:00 PM"
+    venue:
+    description: "A full day of workshops and conferences centered around the technical, medical, privacy and legal aspects of producing, consuming and analyse health data."
+  - name: Health Hackathon
+    verb: "Learn"
+    date: "Friday, March 20th, 5:00 PM to Sunday, March 8:00 PM"
+    venue:
+    description: "The second annual hackathon will run from Friday evening to Sunday evening. Health professionals, developers and designers will create prototypes based on challenges submitted before the event."
 social_links:
   facebook: http://facebook.com/digitalhealthcamp
   twitter: https://twitter.com/digitalhealthcp

@@ -12,7 +12,7 @@
       $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
         var node = $(e.target);
         var event_name = node.attr("href").substring(1);
-        node.closest("section").removeClass("future pitch dataday hackathon").addClass(event_name);
+        node.closest("section").removeClass("future-of-health health-pitch-challenge health-data-day health-hackathon").addClass(event_name);
       });
     </script>
   </body>
