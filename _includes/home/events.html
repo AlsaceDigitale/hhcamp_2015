@@ -1,0 +1,28 @@
+<section class="events future">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="h2 text-center">Inspire, Learn, Act, 4 days to build the future of health.</div>
+      </div>
+    </div>
+    <div class="row">
+      <ul class="nav nav-tabs" role="tablist">
+        {% for event in site.events %}
+        <li role="presentation" class="col-xs-3">
+          <a href="#{{ event[0] }}" role="tab" data-toggle="tab">{{ event[1] }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="row">
+      <div class="tab-content">
+        {% for event in site.events %}
+          <div role="tabpanel" class="tab-pane" id="{{ event[0] }}">
+            {% assign event_name = event[0] %}
+            {% include home/event_{{ event_name }}.html %}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>

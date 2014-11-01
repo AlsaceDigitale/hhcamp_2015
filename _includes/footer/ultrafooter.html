@@ -1,0 +1,28 @@
+<section class="ultrafooter">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-4 links">
+        {% for link in site.social_links %}
+          <a href="{{ link[1] }}" target="_blank">
+            <span class="fa-stack fa-lg">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-{{ link[0] }} fa-stack-1x fa-inverse"></i>
+            </span>
+          </a>
+        {% endfor %}
+      </div>
+      <div class="col-xs-12 col-md-4">
+        <button class="btn btn-primary btn-block">
+          Mailing List
+        </button>
+      </div>
+      <div class="col-xs-12 col-md-4 text-right">
+        <a href="/privacy.html" class="h5">Privacy Policy</a>
+        |
+        <a href="/terms.html" class="h5">Terms of use</a>
+        <br/>
+        <span class="text-muted">Design by <a href="http://goodmorningmajor.com/" target="_blank">goodmorningmajor</a></span>
+      </div>
+    </div>
+  </div>
+</section>

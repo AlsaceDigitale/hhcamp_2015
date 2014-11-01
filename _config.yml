@@ -1,0 +1,71 @@
+# Site settings
+title: Hacking Health Camp
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.hackinghealth.camp"
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+
+events:
+  future: Future of Health
+  pitch: Health Pitch Challenge
+  dataday: Health Data Day
+  hackathon: Health Hackathon
+social_links:
+  facebook: https://www.facebook.com/HHCamp
+  twitter: https://twitter.com/HHCamp
+  linkedin: https://www.linkedin.com/HHCamp
+  google-plus: https://plus.google.com/HHCamp
+  youtube: https://www.youtube.com/HHCamp
+team_members:
+  - name: Sébastien Letélié
+    twitter: sebmade
+    linkedin: in/sebmade
+  - name: Johan Moreau
+    linkedin: profile/view?id=8416769
+  - name: Lionel Brosius
+    linkedin: profile/view?id=10032998
+  - name: Anna Ferrere
+    linkedin: profile/view?id=89971225
+  - name: Dan Del Baso
+    linkedin: profile/view?id=115316082
+  - name: Stéphane Becker
+    twitter: whirly
+    linkedin: profile/view?id=6334744
+  - name: Emeline Hahn
+    linkedin: profile/view?id=116408008
+  - name: Bruno Rakotozafy
+  - name: Jeremy Kieger
+  - name: Caroline Boehrer
+  - name: Marilyne Oswald
+  - name: Imen Chaabouni
+  - name: Yann Klis
+    twitter: yannski
+    linkedin: yannklis
+  - name: Sandrine Hilaire
+    linkedin: profile/view?id=48205645
+  - name: Yannick Jost
+    linkedin: profile/view?id=27757141
+  - name: Emmanuelle Ebel
+    linkedin: profile/view?id=47963402
+  - name: Catherine Mosser
+  - name: Sébastien Lorentz
+  - name: Clara Reb
+    linkedin: pub/clara-reb/58/935/4b2
+  - name: Léa Frickert
+    linkedin: pub/clara-reb/58/935/4b2
+  - name: Elodie Marchand
+    linkedin: pub/elodie-marchand/5a/334/a7b
+  - name: Marion Ripplinger
+    linkedin: pub/marion-ripplinger/a4/772/6a3
+  - name: Isabelle Lusseyrand
+    linkedin: profile/view?id=45618053
+  - name: Chloé Peccatte
+

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    {{ content }}
+    {% include footer.html %}
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script>
+      $('.events .nav-tabs > li:first-child > a').tab('show');
+      $('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {
+        var node = $(e.target);
+        var event_name = node.attr("href").substring(1);
+        node.closest("section").removeClass("future pitch dataday hackathon").addClass(event_name);
+      });
+    </script>
+  </body>
+
+</html>

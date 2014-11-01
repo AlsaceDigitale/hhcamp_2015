@@ -1,0 +1,37 @@
+<section class="team">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="h2 text-center">
+          Team Hacking Health
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <ul class="list-inline">
+      {% for member in site.team_members %}
+        <li class="col-xs-3 col-md-2 text-center member">
+          <div class="img-container">
+            <img src="/img/team/{{ member.name | downcase | replace:" ","-" | replace:"é","e" }}.jpg" />
+            <div class="overlay">
+              <div class="social">
+                {% if member.twitter %}
+                  <a href="https://twitter.com/{{ member.twitter }}" target="_blank">
+                    <i class="fa fa-twitter"></i>
+                  </a>
+                {% endif %}
+                {% if member.linkedin %}
+                  <a href="http://www.linkedin.com/{{ member.linkedin }}" target="_blank">
+                    <i class="fa fa-linkedin"></i>
+                  </a>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+          <h3 class="h5 text-center">{{ member.name }}</h3>
+        </li>
+      {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,261 @@
+---
+---
+$future-color: #ea2f38
+$pitch-color: #00c2d1
+$dataday-color: #ffaa3c
+$hackathon-color: #00bc61
+
+$events: future $future-color, pitch $pitch-color, dataday $dataday-color, hackathon $hackathon-color
+
+$brand-primary: #ea2f38
+$brand-primary-darker: #d11c23
+
+$font-family-sans-serif:    Lato, Arial, Helvetica, sans-serif
+$body-bg:                   black
+$text-color:                white
+$link-color:                $text-color
+
+
+$navbar-default-color:      white
+$navbar-default-bg:         black
+$navbar-default-border:     $navbar-default-bg
+
+$navbar-inverse-color:      $navbar-default-color
+$navbar-inverse-bg:         $navbar-default-bg
+$navbar-inverse-border:     $navbar-default-border
+
+$navbar-default-link-color: white
+$navbar-inverse-link-color: $navbar-default-link-color
+
+@import "bootstrap"
+
+.hhlogo
+  font-family: 'Roboto Condensed', sans-serif
+  font-size: 26px
+  line-height: 1
+  height: 26px
+  letter-spacing: 4px
+  img
+    height: 26px
+    margin-top: -4px
+
+.navbar
+  height: auto
+  margin-bottom: 0
+
+.navbar-nav > li > a
+  text-transform: uppercase
+  font-weight: 800
+
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus
+  background-color: $brand-primary
+
+.navbar-brand
+  text-transform: uppercase
+  height: auto
+  .logo, .subtitle, .city
+    display: block
+  .subtitle
+    margin-top: 20px
+    font-weight: 300
+  .day, .city
+    font-weight: 800
+  .day
+    font-size: 140%
+  .city
+    font-size: 24px
+    margin-top: 10px
+.btn
+  font-weight: 800
+  text-transform: uppercase
+  padding: 10px
+
+.btn-white
+  background-color: white
+
+h2, .h2
+  font-weight: 300
+  font-size: 24px
+  margin-top: 0
+  margin-bottom: 30px
+
+h5, .h5
+  font-weight: 800
+  text-transform: uppercase
+  font-style: italic
+
+section
+  padding: 30px 0
+
+section.intro
+  h1
+    background-color: $brand-primary
+    color: white
+    display: inline-block
+    font-weight: 800
+    padding: 15px
+    font-style: italic
+
+section
+  &.discover, &.contact
+    -webkit-background-size: cover
+    -moz-background-size: cover
+    -o-background-size: cover
+    background-size: cover
+    background-color: transparent
+    zoom: 1
+    position: relative
+    .layer
+      position: absolute
+      top: 0
+      left: 0
+      width: 100%
+      height: 100%
+      background-color: rgba(0, 0, 0, 0.7)
+  &.discover
+    background: url('/img/bg1.jpg') no-repeat center center
+  &.contact
+    background: url('/img/bg3.jpg') no-repeat center center
+
+section.events
+  @each $event in $events
+    $event-name: nth($event, 1)
+    $event-color: nth($event, 2)
+    &.#{$event-name}
+      background-color: $event-color
+      .nav > li.active a, .nav-tabs > li > a:hover
+        color: $event-color
+      .btn-white
+        color: $event-color
+  .nav > li
+    padding-left: 0
+    padding-right: 0
+    font-weight: 800
+    text-transform: uppercase
+    text-align: center
+  .nav-tabs
+    border: 0
+  .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus
+    background-color: white
+  .nav-tabs > li > a
+    border-radius: 0
+    padding: 15px
+    color: white
+    background-color: transparent
+    border: 1px solid white
+    margin-right: 0
+    &:hover, &:focus
+      background-color: white
+    &:focus
+      outline: none
+      outline-style: none
+  .nav-tabs > li:nth-child(-n+3) a
+    border-right: 0
+  .tab-pane
+    h2
+      margin-top: 20px
+      margin-bottom: 0
+    button
+      margin-top: 20px
+
+section.join
+  background: white url('/img/bg.png') repeat
+  color: black
+  h3
+    text-align: center
+    color: $brand-primary
+
+section.quote
+  color: black
+  -webkit-background-size: cover
+  -moz-background-size: cover
+  -o-background-size: cover
+  background-size: cover
+  background-color: transparent
+  zoom: 1
+  background: white url('/img/bg2.jpg') no-repeat center center
+  position: relative
+  .layer
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+    background-color: rgba(255, 255, 255, 0.7)
+  blockquote footer:before, blockquote small:before, blockquote .small:before
+    content: none
+  blockquote
+    margin-bottom: 0
+    cite
+      color: black
+      display: block
+      margin-top: 10px
+      margin-bottom: 0
+
+section.support
+  background-color: #1a1b1d
+  color: white
+
+section.partners
+  background-color: white
+  color: black
+
+section.team
+  background-color: $brand-primary
+  color: white
+  .member
+    margin-bottom: 20px
+    margin-top: 20px
+    .img-container
+      position: relative
+      margin: 0 auto
+      width: 108px
+      height: 108px
+      img
+        border: 4px solid $brand-primary-darker
+        width: 100px
+        height: 100px
+        border-radius: 50px
+        -webkit-border-radius: 50px
+        -moz-border-radius: 50px
+        // box-shadow: 0 0 8px $brand-primary-darker
+        // -webkit-box-shadow: 0 0 8px $brand-primary-darker
+        // -moz-box-shadow: 0 0 8px $brand-primary-darker
+        margin: 0 auto
+      .overlay
+        border: 4px solid $brand-primary-darker
+        width: 100px
+        height: 100px
+        border-radius: 50px
+        -webkit-border-radius: 50px
+        -moz-border-radius: 50px
+        position: absolute
+        top: 0
+        left: 4px
+        background-color: rgba(0, 0, 0, 0.7)
+        color: black
+        display: none
+        .social
+          margin-top: 35px
+          a:hover
+            text-decoration: none
+          > a + a
+            margin-left: 5px
+      &:hover
+        .overlay
+          display: block
+
+section.ultrafooter
+  background-color: #ececec
+  color: black
+  .links
+    a
+      color: #c5c5c5
+      font-size: 120%
+      margin-right: 5px
+  .text-muted
+    font-size: 80%
+    font-style: italic
+    a
+      color: inherit
+      font-weight: bold
