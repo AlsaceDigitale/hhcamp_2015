@@ -79,4 +79,57 @@ team_members:
     linkedin: profile/view?id=45618053
   - name: Chloé Peccatte
     linkedin: profile/view?id=29282572
-
+partners:
+  gold:
+    - name: iHealth
+      url:
+    - name: Allianz
+      url:
+    - name: Strasbourg
+      url: http://strasbourg.eu
+  silver:
+    - name: GE Healthcare
+      url:
+    - name: ASIP Santé
+      url:
+    - name: Inforoute Santé Canada
+      url:
+    - name: Région Alsace
+      url: http://www.region-alsace.eu
+  bronze:
+    - name: icanopée
+      url:
+    - name: IHU
+      url:
+  regular:
+    - name: ARS
+      url:
+    - name: Alsace Biovalley
+      url:
+    - name: Alsace eSanté
+      url:
+    - name: Health 2.0
+      url:
+    - name: Epitech
+      url:
+    - name: Hack your phd
+      url:
+    - name: VIDAL
+      url:
+    - name: wellfundr
+      url:
+    - name: TheFamily
+      url: http://thefamily.co/
+    - name: bwcon
+      url:
+    - name: FI-Ware
+      url: ECHAlliance
+    - name: etalab
+      url:
+  media:
+    - name: BUZZ-ESANTE
+      url:
+    - name: DNA
+      url: http://www.dna.fr
+    - name: France3 Alsace
+      url:

@@ -7,5 +7,23 @@
         </div>
       </div>
     </div>
+    {% for category in site.partners %}
+      <div class="row">
+        <h3 class="h5">{% if category[0] != "regular" %}{{ category[0] }} {% endif %}Partners</h3>
+        <ul class="list-inline">
+        {% for partner in category[1] %}
+          <li>
+            <div class="img-container">
+              {% assign partner_name = partner.name | downcase | replace:" ","-" | replace:"é","e" | append:".jpg" %}
+              {% assign img_url = "/img/partner/" | append: partner_name | prepend: site.baseurl %}
+              <a href="{{ partner.url }}" target="_blank">
+                <img src="{{ img_url }}" alt="{{ partner.name }}" />
+              </a>
+            </div>
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    {% endfor %}
   </div>
 </section>
