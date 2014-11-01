@@ -44,10 +44,32 @@ $asset-path: 'http://alsacedigitale.github.io/hhcamp_wip'
 .navbar
   height: auto
   margin-bottom: 0
+  .social-links
+    margin: 8px 0
+    a
+      color: rgb(255, 255, 255)
+      color: rgba(255, 255, 255, 0.3)
+      margin-left: 5px
+      font-size: 80%
+      .fa-inverse
+        color: black
+      &:hover
+        text-decoration: none
+      &.facebook:hover
+        color: #3B5998
+      &.twitter:hover
+        color: #4099FF
+      &.linkedin:hover
+        color: #1a85bc
+      &.google-plus:hover
+        color: white
+      &.youtube:hover
+        color: white
 
 .navbar-nav > li > a
   text-transform: uppercase
   font-weight: 800
+  padding: 10px
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus
   background-color: $brand-primary
@@ -71,6 +93,16 @@ $asset-path: 'http://alsacedigitale.github.io/hhcamp_wip'
   font-weight: 800
   text-transform: uppercase
   padding: 10px
+  &.btn-primary
+    &:hover
+      $new-color: rgba(red($brand-primary), green($brand-primary), blue($brand-primary), 0.7)
+      background-color: $new-color
+      border-color: $new-color
+  &.btn-white
+    &:hover
+      $new-color: rgba(255, 255, 255, 0.7)
+      background-color: $new-color
+      border-color: $new-color
 
 .btn-white
   background-color: white
@@ -97,6 +129,7 @@ section.intro
     font-weight: 800
     padding: 15px
     font-style: italic
+    text-shadow: 2px 2px $brand-primary-darker
 
 section
   &.discover, &.contact
@@ -261,7 +294,7 @@ section.team
 section.ultrafooter
   background-color: #ececec
   color: black
-  .links
+  .social-links
     a
       color: #c5c5c5
       font-size: 120%

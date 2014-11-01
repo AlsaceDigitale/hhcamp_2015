@@ -21,7 +21,17 @@
         </span>
       </a>
     </div>
-    <div class="navbar-collapse collapse" id="navbar">
+    <div class="social-links col-xs-12 col-md-6 text-right pull-right">
+      {% for link in site.social_links %}
+        <a href="{{ link[1] }}" class="{{ link[0] }}" target="_blank">
+          <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-{{ link[0] }} fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
+      {% endfor %}
+    </div>
+    <div class="navbar-collapse collapse pull-right" id="navbar">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#">Event</a></li>
         <li><a href="#">Agenda</a></li>

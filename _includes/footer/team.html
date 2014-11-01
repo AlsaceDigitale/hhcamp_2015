@@ -10,7 +10,7 @@
     <div class="row">
       <ul class="list-inline">
       {% for member in site.team_members %}
-        <li class="col-xs-3 col-md-2 text-center member">
+        <li class="col-xs-4 col-md-2 text-center member">
           <div class="img-container">
             {% assign member_name = member.name | downcase | replace:" ","-" | replace:"é","e" | append:".jpg" %}
             {% assign img_url = "/img/team/" | append: member_name | prepend: site.baseurl %}
