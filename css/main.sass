@@ -27,6 +27,8 @@ $navbar-inverse-border:     $navbar-default-border
 $navbar-default-link-color: white
 $navbar-inverse-link-color: $navbar-default-link-color
 
+$asset-path: 'http://alsacedigitale.github.io/hhcamp_wip'
+
 @import "bootstrap"
 
 .hhlogo
@@ -113,9 +115,9 @@ section
       height: 100%
       background-color: rgba(0, 0, 0, 0.7)
   &.discover
-    background: url('/img/bg1.jpg') no-repeat center center
+    background: url($asset-path + '/img/bg1.jpg') no-repeat center center
   &.contact
-    background: url('/img/bg3.jpg') no-repeat center center
+    background: url($asset-path + '/img/bg3.jpg') no-repeat center center
 
 section.events
   @each $event in $events
@@ -159,7 +161,7 @@ section.events
       margin-top: 20px
 
 section.join
-  background: white url('/img/bg.png') repeat
+  background: white url($asset-path + '/img/bg.png') repeat
   color: black
   h3
     text-align: center
@@ -173,7 +175,7 @@ section.quote
   background-size: cover
   background-color: transparent
   zoom: 1
-  background: white url('/img/bg2.jpg') no-repeat center center
+  background: white url($asset-path + '/img/bg2.jpg') no-repeat center center
   position: relative
   .layer
     position: absolute
