@@ -197,13 +197,13 @@ section
     @each $event in $events
       $event-name: nth($event, 1)
       &.#{ $event-name }
+        background: url($asset-path + '/img/banner-' + $event-name +'.jpg') no-repeat center center
         -webkit-background-size: cover
         -moz-background-size: cover
         -o-background-size: cover
         background-size: cover
         background-color: transparent
-        background: url($asset-path + '/img/banner-' + $event-name +'.jpg') no-repeat center center
-  &.discover, &.contact, &.event-intro
+  &.discover, &.contact
     -webkit-background-size: cover
     -moz-background-size: cover
     -o-background-size: cover
