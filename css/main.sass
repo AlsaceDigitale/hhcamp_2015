@@ -210,7 +210,8 @@ section
   &.event-intro
     @each $event in $events
       $event-name: nth($event, 1)
-      background: url($asset-path + '/img/banner' + $event-name +'.jpg') no-repeat center center
+      &.#{ $event-name }
+        background: url($asset-path + '/img/banner' + $event-name +'.jpg') no-repeat center center
   &.discover, &.contact, &.event-intro
     -webkit-background-size: cover
     -moz-background-size: cover
