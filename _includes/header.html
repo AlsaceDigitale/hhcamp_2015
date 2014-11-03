@@ -34,7 +34,8 @@
     </div>
     <div class="navbar-collapse collapse pull-right" id="navbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Event</a></li>
+        {% assign target_url = '/discover.html' | prepend: site.baseurl %}
+        <li><a href="{{ target_url }}">Event</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Agenda</a>
           <ul class="dropdown-menu" role="menu">
@@ -51,9 +52,11 @@
             {% endfor %}
           </ul>
         </li>
-        <li><a href="#">Ticket</a></li>
+        {% assign target_url = '/ticket.html' | prepend: site.baseurl %}
+        <li><a href="{{ target_url }}">Ticket</a></li>
         <li><a href="#">HH Camp & You</a></li>
-        <li><a href="#">Become Sponsor</a></li>
+        {% assign target_url = '/become-sponsor.html' | prepend: site.baseurl %}
+        <li><a href="{{ target_url }}">Become Sponsor</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
     </div><!--/.nav-collapse -->

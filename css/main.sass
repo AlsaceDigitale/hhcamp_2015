@@ -193,16 +193,6 @@ section
     background: url($asset-path + '/img/bg1.jpg') no-repeat center center
   &.contact
     background: url($asset-path + '/img/bg3.jpg') no-repeat center center
-  &.event-intro
-    @each $event in $events
-      $event-name: nth($event, 1)
-      &.#{ $event-name }
-        background: url($asset-path + '/img/banner-' + $event-name +'.jpg') no-repeat center center
-        -webkit-background-size: cover
-        -moz-background-size: cover
-        -o-background-size: cover
-        background-size: cover
-        background-color: transparent
   &.discover, &.contact
     -webkit-background-size: cover
     -moz-background-size: cover
@@ -437,3 +427,15 @@ section.event-intro
       color: white
     &.youtube:hover
       color: white
+
+section
+  &.shared-intro
+    $pages: ticket, become-sponsor, for-developers, for-designers, for-professionals, discover
+    @each $page in $pages
+      &.#{ $page }
+        background: url($asset-path + '/img/banner-' + $page +'.jpg') no-repeat center center
+        -webkit-background-size: cover
+        -moz-background-size: cover
+        -o-background-size: cover
+        background-size: cover
+        background-color: transparent

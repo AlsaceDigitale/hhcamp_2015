@@ -13,6 +13,11 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
+arguments:
+  developer: "Transform everyday healthcare challenges into real solutions. Work on meaningful problems. Help improve healthcare. Get connected, and practice your skills."
+  designer: "Connect to create holistic solutions with patients, not for patients. Work on meaningful problems. Help improve healthcare. Get connected, and practice your skills."
+  professional: "Collaborate with tech experts to solve problems in healthcare. Let your ideas inspire practical solutions."
+
 events:
   - name: Future of Health
     verb: Inspire

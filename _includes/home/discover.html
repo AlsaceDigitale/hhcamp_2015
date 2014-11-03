@@ -14,7 +14,8 @@
     </div>
     <div class="row">
       <div class="col-xs-12 col-sm-4 col-sm-offset-4">
-        <a href='' class="btn btn-primary btn-block">
+        {% assign target_url = '/discover.html' | prepend: site.baseurl %}
+        <a href='{{ target_url }}' class="btn btn-primary btn-block">
           Know more
         </a>
       </div>

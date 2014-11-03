@@ -1,0 +1,8 @@
+{% assign page_class = page.url | remove:'/' | remove:'.html' %}
+<section class="shared-intro {{ page_class }}">
+  <div class="container">
+    <div class="row text-center">
+      <h2>{{ page.title }}</h2>
+    </div>
+  </div>
+</section>
