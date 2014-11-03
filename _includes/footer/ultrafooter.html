@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-xs-12 col-md-4 social-links">
         {% for link in site.social_links %}
-          <a href="{{ link[1] }}" target="_blank">
+          <a href="{{ link[1] }}" class="{{ link[0] }}" target="_blank">
             <span class="fa-stack fa-lg">
               <i class="fa fa-circle fa-stack-2x"></i>
               <i class="fa fa-{{ link[0] }} fa-stack-1x fa-inverse"></i>
