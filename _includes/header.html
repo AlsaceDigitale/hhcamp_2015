@@ -58,4 +58,7 @@
       </ul>
     </div><!--/.nav-collapse -->
   </div>
+  {% if page.url == '/index.html' %}
+  {% include home/intro.html %}
+  {% endif %}
 </nav>

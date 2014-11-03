@@ -61,6 +61,7 @@ $asset-path: 'http://alsacedigitale.github.io/hhcamp_wip'
 .navbar
   height: auto
   margin-bottom: 0
+  border-radius: 0
   .social-links
     margin: 8px 0
     a
@@ -184,15 +185,22 @@ h5, .h5
 section
   padding: 30px 0
 
-section.intro
-  h1
-    background-color: $brand-primary
-    color: white
-    display: inline-block
-    font-weight: 800
-    padding: 15px
-    font-style: italic
-    text-shadow: 2px 2px $brand-primary-darker
+.home
+  .navbar
+    background: black url($asset-path + '/img/slide.png') no-repeat center center
+    height: 653px
+    .intro
+      h1
+        background-color: $brand-primary
+        color: white
+        display: inline-block
+        font-weight: 800
+        padding: 15px
+        font-style: italic
+        text-shadow: 2px 2px $brand-primary-darker
+        margin-top: 40px
+      .buttons
+        margin-top: 250px
 
 section
   &.discover
@@ -200,7 +208,9 @@ section
   &.contact
     background: url($asset-path + '/img/bg3.jpg') no-repeat center center
   &.event-intro
-    background: url($asset-path + '/img/bg4.jpg') no-repeat center center
+    @each $event in $events
+      $event-name: nth($event, 1)
+      background: url($asset-path + '/img/banner' + $event-name +'.jpg') no-repeat center center
   &.discover, &.contact, &.event-intro
     -webkit-background-size: cover
     -moz-background-size: cover
@@ -218,11 +228,14 @@ section
       background-color: rgba(0, 0, 0, 0.7)
 
 section.events
+  padding-bottom: 0
   @each $event in $events
     $event-name: nth($event, 1)
     $event-color: nth($event, 2)
     &.#{ $event-name }
       background-color: $event-color
+      .picto
+        background: url($asset-path + '/img/bg-' + $event-name + '.jpg') no-repeat center center
       .nav > li.active a, .nav-tabs > li > a:hover
         color: $event-color
       .btn-white
@@ -252,8 +265,9 @@ section.events
   .nav-tabs > li:nth-child(-n+3) a
     border-right: 0
   .tab-pane
+    margin-top: 40px
     > div:first-child
-      height: 250px
+      height: 365px
       -webkit-transform-style: preserve-3d
       -moz-transform-style: preserve-3d
       transform-style: preserve-3d
@@ -264,7 +278,7 @@ section.events
         -ms-transform: translateY(-50%)
         transform: translateY(-50%)
     h2
-      margin-top: 20px
+      margin-top: 0
       margin-bottom: 0
     button
       margin-top: 20px
@@ -275,6 +289,8 @@ section.join
   h3
     text-align: center
     color: $brand-primary
+  img
+    margin-bottom: 20px
 
 section.quote
   color: black
@@ -306,6 +322,9 @@ section.quote
 section.support
   background-color: $support-background-color
   color: white
+  .h5
+    margin: 10px
+    margin-right: 15px
 
 section.partners
   background-color: white
