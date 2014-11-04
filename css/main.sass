@@ -164,6 +164,9 @@ h2, .h2
   margin-bottom: 30px
 
 h5, .h5
+
+h3
+  @extend h5
   font-weight: 800
   text-transform: uppercase
   font-style: italic
@@ -201,13 +204,6 @@ section
     background-color: transparent
     zoom: 1
     position: relative
-    .layer
-      position: absolute
-      top: 0
-      left: 0
-      width: 100%
-      height: 100%
-      background-color: rgba(0, 0, 0, 0.7)
 
 section.events
   padding-bottom: 0
@@ -218,6 +214,8 @@ section.events
       background-color: $event-color
       .picto
         background: url($asset-path + '/img/bg-' + $event-name + '.jpg') no-repeat center center
+        img
+          margin: 0 auto
       .nav > li.active a, .nav-tabs > li > a:hover
         color: $event-color
       .btn-white
@@ -321,26 +319,23 @@ section.team
     .img-container
       position: relative
       margin: 0 auto
-      width: 108px
-      height: 108px
+      width: 158px
+      height: 158px
       img
         border: 4px solid $brand-primary-darker
-        width: 100px
-        height: 100px
-        border-radius: 50px
-        -webkit-border-radius: 50px
-        -moz-border-radius: 50px
-        // box-shadow: 0 0 8px $brand-primary-darker
-        // -webkit-box-shadow: 0 0 8px $brand-primary-darker
-        // -moz-box-shadow: 0 0 8px $brand-primary-darker
+        width: 150px
+        height: 150px
+        border-radius: 75px
+        -webkit-border-radius: 75px
+        -moz-border-radius: 75px
         margin: 0 auto
       .overlay
         border: 4px solid $brand-primary-darker
-        width: 100px
-        height: 100px
-        border-radius: 50px
-        -webkit-border-radius: 50px
-        -moz-border-radius: 50px
+        width: 150px
+        height: 150px
+        border-radius: 75px
+        -webkit-border-radius: 75px
+        -moz-border-radius: 75px
         position: absolute
         top: 0
         left: 4px
@@ -348,7 +343,7 @@ section.team
         color: black
         display: none
         .social
-          margin-top: 35px
+          margin-top: 60px
           a:hover
             text-decoration: none
           > a + a
@@ -447,3 +442,65 @@ section
         -o-background-size: cover
         background-size: cover
         background-color: transparent
+
+section.presentation
+  @each $event in $events
+    $event-name: nth($event, 1)
+    $event-color: nth($event, 2)
+    &.#{ $event-name }
+      background-color: $event-color
+      color: white
+
+@media screen and (max-width: 767px)
+  .home
+    .navbar
+      background-image: none
+      height: 540px
+      .intro
+        .buttons
+          margin-top: 0
+          .btn
+            margin-top: 20px
+  section.events .nav > li
+    padding-left: 15px
+    padding-right: 15px
+  section.events .nav-tabs > li:nth-child(-n+3) a
+    border-right: 1px solid white
+  section.events .tab-pane > div:first-child
+    height: 100px
+  section.events
+    .picto
+      margin-bottom: 20px
+      img
+        height: 50px
+    .btn
+      margin-bottom: 40px
+  section.join
+    .developer, .designer, .professional
+      margin-bottom: 40px
+  section.ultrafooter
+    .btn
+      margin: 20px 0
+  .social-links
+    text-align: center !important
+
+  section.team
+    .member
+      .img-container
+        width: 108px
+        height: 108px
+        img
+          width: 100px
+          height: 100px
+          border-radius: 50px
+          -webkit-border-radius: 50px
+          -moz-border-radius: 50px
+          margin: 0 auto
+        .overlay
+          width: 100px
+          height: 100px
+          border-radius: 50px
+          -webkit-border-radius: 50px
+          -moz-border-radius: 50px
+          .social
+            margin-top: 35px

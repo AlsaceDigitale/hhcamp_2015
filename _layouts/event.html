@@ -4,3 +4,5 @@ layout: default
 {% assign event = site.events[page.event_index] %}
 {% assign mnemonic = event.name | downcase | replace:' ','-' %}
 {% include event/intro.html %}
+{% include shared/presentation.html %}
+{{ content }}
