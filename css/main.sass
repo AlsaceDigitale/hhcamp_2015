@@ -410,6 +410,14 @@ section.partners
 
 section.event-intro
   color: white
+  @each $event_name, $event_color in $events
+    &.#{ $event_name }
+      background: $event_color url($asset-path + '/img/banner-' + $event_name +'.jpg') no-repeat center center
+      -webkit-background-size: cover
+      -moz-background-size: cover
+      -o-background-size: cover
+      background-size: cover
+      background-color: transparent
 
 .social-links
   a
