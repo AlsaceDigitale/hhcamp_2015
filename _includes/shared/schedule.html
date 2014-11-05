@@ -21,16 +21,16 @@
             {% assign subtitle = schedule.subtitle %}
             {% assign list = schedule.list %}
             <div class="panel panel-default">
-              <div class="panel-heading" role="tab" id="headingOne">
+              <div class="panel-heading" role="tab">
                 <h4 class="panel-title">
-                  <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                  <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{ forloop.index }}" aria-expanded="true" aria-controls="collapseOne" class="btn-block">
                     <span class="h2">{{ title }}</span>
                     <br/>
                     <span class="h5">{{ subtitle }}</span>
                   </a>
                 </h4>
               </div>
-              <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+              <div id="collapse{{ forloop.index }}" class="panel-collapse collapse {% if forloop.first %}in{% endif %}" role="tabpanel" aria-labelledby="headingOne">
                 <div class="panel-body">
                   <table class="table">
                     {% for item in list %}
