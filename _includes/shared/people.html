@@ -1,0 +1,49 @@
+{% assign sectionKey = include.sectionKey %}
+{% for possible_section in site.people %}
+  {% if possible_section[0] == sectionKey %}
+    {% assign sections = possible_section[1] %}
+  {% endif %}
+{% endfor %}
+<section class="people {{ mnemonic }}">
+  {% for section in sections %}
+    {% assign section_list = section.list %}
+    {% assign section_name = section.name %}
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="h2 text-center">
+            {{ section_name }}
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <ul class="list-inline">
+        {% for person in section_list %}
+          <li class="col-xs-4 col-md-2 text-center person">
+            <div class="img-container">
+              {% assign person_name = person.name | downcase | replace:" ","-" | replace:"é","e" | append:".jpg" %}
+              {% assign img_url = "/img/people/" | append: person_name | prepend: site.baseurl %}
+              <img src="{{ img_url }}" />
+              <div class="overlay">
+                <div class="social">
+                  {% if person.twitter %}
+                    <a href="https://twitter.com/{{ person.twitter }}" target="_blank">
+                      <i class="fa fa-twitter"></i>
+                    </a>
+                  {% endif %}
+                  {% if person.linkedin %}
+                    <a href="http://www.linkedin.com/{{ person.linkedin }}" target="_blank">
+                      <i class="fa fa-linkedin"></i>
+                    </a>
+                  {% endif %}
+                </div>
+              </div>
+            </div>
+            <h3 class="h5 text-center">{{ person.name }}</h3>
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+  {% endfor %}
+</section>

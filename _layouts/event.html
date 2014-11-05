@@ -5,4 +5,6 @@ layout: default
 {% assign mnemonic = event.name | downcase | replace:' ','-' %}
 {% include event/intro.html %}
 {% include shared/presentation.html %}
+{% include shared/people.html sectionKey=mnemonic %}
+{% include shared/schedule.html scheduleKey=mnemonic %}
 {{ content }}

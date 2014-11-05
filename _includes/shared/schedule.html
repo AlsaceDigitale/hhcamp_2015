@@ -1,0 +1,51 @@
+{% assign scheduleKey = include.scheduleKey %}
+{% for possible_schedule in site.schedules %}
+  {% if possible_schedule[0] == scheduleKey %}
+    {% assign schedules = possible_schedule[1] %}
+  {% endif %}
+{% endfor %}
+<section class="schedule {{ mnemonic }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="h2 text-center">
+          Agenda
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+          {% for schedule in schedules %}
+            {% assign title = schedule.title %}
+            {% assign subtitle = schedule.subtitle %}
+            {% assign list = schedule.list %}
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab" id="headingOne">
+                <h4 class="panel-title">
+                  <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    <span class="h2">{{ title }}</span>
+                    <br/>
+                    <span class="h5">{{ subtitle }}</span>
+                  </a>
+                </h4>
+              </div>
+              <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                <div class="panel-body">
+                  <table class="table">
+                    {% for item in list %}
+                      <tr class="item">
+                        <td class="title">{{ item.title }}</td>
+                        <td class="description">{{ item.description }}</td>
+                      </tr>
+                    {% endfor %}
+                  </table>
+                </div>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

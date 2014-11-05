@@ -39,67 +39,160 @@ events:
     date: "Friday, March 20th, 5:00 PM to Sunday, March 8:00 PM"
     venue: Forum de la faculté de médecine - 1 rue Humann - Strasbourg
     description: "The second annual hackathon will run from Friday evening to Sunday evening. Health professionals, developers and designers will create prototypes based on challenges submitted before the event."
+
+people:
+  team:
+    - name: "Team Hacking Health"
+      list:
+        - name: Sébastien Letélié
+          twitter: sebmade
+          linkedin: in/sebmade
+        - name: Johan Moreau
+          twitter: johan_moreau
+          linkedin: profile/view?id=8416769
+        - name: Lionel Brosius
+          twitter: LionelBrosius
+          linkedin: profile/view?id=10032998
+        - name: Anna Ferrere
+          twitter: AnnaFERRERE
+          linkedin: profile/view?id=89971225
+        - name: Dan Del Baso
+          twitter: Dan_DelBalso
+          linkedin: profile/view?id=115316082
+        - name: Stéphane Becker
+          twitter: whirly
+          linkedin: profile/view?id=6334744
+        - name: Emeline Hahn
+          linkedin: profile/view?id=116408008
+        - name: Bruno Rakotozafy
+          twitter: BruRakoto
+        - name: Jeremy Kieger
+          linkedin: profile/view?id=196711421
+        - name: Caroline Boehrer
+        - name: Marilyne Oswald
+          linkedin: profile/view?id=23540355
+        - name: Imen Chaabouni
+          linkedin: profile/view?id=177694139
+        - name: Yann Klis
+          twitter: yannski
+          linkedin: yannklis
+        - name: Sandrine Hilaire
+          linkedin: profile/view?id=48205645
+        - name: Yannick Jost
+          twitter: yanjost
+          linkedin: profile/view?id=27757141
+        - name: Emmanuelle Ebel
+          linkedin: profile/view?id=47963402
+        - name: Catherine Mosser
+        - name: Sébastien Lorentz
+          linkedin: profile/view?id=237706210
+        - name: Clara Reb
+          linkedin: pub/clara-reb/58/935/4b2
+        - name: Léa Frickert
+          linkedin: profile/view?id=325954665
+        - name: Elodie Marchand
+          linkedin: pub/elodie-marchand/5a/334/a7b
+        - name: Marion Ripplinger
+          linkedin: pub/marion-ripplinger/a4/772/6a3
+        - name: Isabelle Lusseyrand
+          linkedin: profile/view?id=45618053
+        - name: Chloé Peccatte
+          linkedin: profile/view?id=29282572
+  future-of-health:
+    - name: "Speakers"
+      list:
+        - name: Uwe Diegel
+          description: iHealth founder
+          twitter: https://twitter.com/uwe
+          linkedin: https://www.linkedin.com/in/uwediegel
+        - name: Pierre-Paul Vidal
+          description: MD PhD
+          linkedin: https://www.linkedin.com/profile/view?id=151969844
+        - name: Jorge Juan Fernandez Garcia
+          description: BHITE polymath (Biomedicine + Healthcare + Innovation + Technology + Entrepreneurship)
+          twitter: http://twitter.com/jorgejuan
+          linkedin: https://www.linkedin.com/profile/view?id=2277954
+        - name: To be announced soon
+        - name: To be announced soon
+        - name: To be announced soon
+        - name: To be announced soon
+        - name: To be announced soon
+  health-data-day:
+    - name: "Speakers"
+      list:
+        - name: Mike Amundsen
+          description: "Director of API Architecture, API Academy at CA Technologies || Working to improve the quality and usability of information on the Web."
+          twitter: https://twitter.com/mamund
+          linkedin: https://www.linkedin.com/in/mamund
+  health-hackathon:
+    - name: "Jury"
+      list:
+        - name: To be announced soon !
+        - name: To be announced soon !
+        - name: To be announced soon !
+        - name: To be announced soon !
+    - name: "Mentors"
+      list:
+        - name: Elalami Lafkih
+          description: Pretotyping expert
+          twitter: https://twitter.com/e_lalami
+          linkedin: https://www.linkedin.com/profile/view?id=36725748
+
+schedules:
+  future-of-health:
+    - title: "20th"
+      subtitle: "FRIDAY, March"
+      list:
+        - title: "09h30 - 10h00"
+          description: "Introduction"
+        - title: "10h00 - 10h30"
+          description: "To be announced soon"
+        - title: "10h30 - 11h00"
+          description: "Uwe Diegel"
+  health-pitch-challenge:
+  health-data-day:
+    - title: "20th"
+      subtitle: "FRIDAY, MARCH"
+      list:
+        - title: "08h45 - 09h15"
+          description: "Admission"
+        - title: "09h15 - 10h00"
+          description: "Keynote"
+  health-hackathon:
+    - title: "20th"
+      subtitle: "FRIDAY, MARCH"
+      list:
+        - title: "17h00"
+          description: "Admission"
+        - title: "17h30 - 18h00"
+          description: "Pitch Clinic : pitch session training"
+        - title: "19h00"
+          description: "Introduction"
+        - title: "19h20"
+          description: "Coachs presentation"
+        - title: "19h30"
+          description: "Pitch : 1' to present your challenge"
+        - title: "20h00"
+          description: "Diner, team building, start working"
+        - title: "21h30"
+          description: "First crazy night"
+    - title: "21st"
+      subtitle: "FRIDAY, MARCH"
+      list:
+        - title: "17h00"
+          description: "Admission"
+    - title: "22nd"
+      subtitle: "FRIDAY, MARCH"
+      list:
+        - title: "17h00"
+          description: "Admission"
+
 social_links:
   facebook: http://facebook.com/digitalhealthcamp
   twitter: https://twitter.com/digitalhealthcp
   linkedin: http://www.linkedin.com/groups/DigitalHealthCamp-6400524
   google-plus: https://plus.google.com/u/1/b/116340191957345593804/116340191957345593804/posts
   youtube: https://www.youtube.com/channel/UCviq99fD7Pu5kuNItesUfEg
-team_members:
-  - name: Sébastien Letélié
-    twitter: sebmade
-    linkedin: in/sebmade
-  - name: Johan Moreau
-    twitter: johan_moreau
-    linkedin: profile/view?id=8416769
-  - name: Lionel Brosius
-    twitter: LionelBrosius
-    linkedin: profile/view?id=10032998
-  - name: Anna Ferrere
-    twitter: AnnaFERRERE
-    linkedin: profile/view?id=89971225
-  - name: Dan Del Baso
-    twitter: Dan_DelBalso
-    linkedin: profile/view?id=115316082
-  - name: Stéphane Becker
-    twitter: whirly
-    linkedin: profile/view?id=6334744
-  - name: Emeline Hahn
-    linkedin: profile/view?id=116408008
-  - name: Bruno Rakotozafy
-    twitter: BruRakoto
-  - name: Jeremy Kieger
-    linkedin: profile/view?id=196711421
-  - name: Caroline Boehrer
-  - name: Marilyne Oswald
-    linkedin: profile/view?id=23540355
-  - name: Imen Chaabouni
-    linkedin: profile/view?id=177694139
-  - name: Yann Klis
-    twitter: yannski
-    linkedin: yannklis
-  - name: Sandrine Hilaire
-    linkedin: profile/view?id=48205645
-  - name: Yannick Jost
-    twitter: yanjost
-    linkedin: profile/view?id=27757141
-  - name: Emmanuelle Ebel
-    linkedin: profile/view?id=47963402
-  - name: Catherine Mosser
-  - name: Sébastien Lorentz
-    linkedin: profile/view?id=237706210
-  - name: Clara Reb
-    linkedin: pub/clara-reb/58/935/4b2
-  - name: Léa Frickert
-    linkedin: profile/view?id=325954665
-  - name: Elodie Marchand
-    linkedin: pub/elodie-marchand/5a/334/a7b
-  - name: Marion Ripplinger
-    linkedin: pub/marion-ripplinger/a4/772/6a3
-  - name: Isabelle Lusseyrand
-    linkedin: profile/view?id=45618053
-  - name: Chloé Peccatte
-    linkedin: profile/view?id=29282572
 partners:
   gold:
     - name: iHealth

@@ -163,9 +163,7 @@ h2, .h2
   margin-top: 0
   margin-bottom: 30px
 
-h5, .h5
-
-h3
+h3, h5, .h5
   @extend h5
   font-weight: 800
   text-transform: uppercase
@@ -310,10 +308,10 @@ section.partners
   background-color: white
   color: black
 
-section.team
+section.people
   background-color: $brand-primary
   color: white
-  .member
+  .person
     margin-bottom: 20px
     margin-top: 20px
     .img-container
@@ -351,6 +349,48 @@ section.team
       &:hover
         .overlay
           display: block
+  @each $event in $events
+    $event-name: nth($event, 1)
+    $event-color: nth($event, 2)
+    &.#{ $event-name }
+      background-color: $event-color
+      .person
+        .img-container
+          img
+            border: 4px solid darken($event-color, 20%)
+            width: 150px
+            height: 150px
+            border-radius: 75px
+            -webkit-border-radius: 75px
+            -moz-border-radius: 75px
+            margin: 0 auto
+          .overlay
+            border: 4px solid darken($event-color, 20%)
+
+section.schedule
+  @each $event in $events
+    $event-name: nth($event, 1)
+    $event-color: nth($event, 2)
+    &.#{ $event-name }
+      .panel-default
+        border-color: #ddd
+        > .panel-heading
+          background-color: $event-color
+          border-color: $event-color
+          color: white
+      .panel-group .panel
+        border: 0
+      .panel
+        .table
+          margin-bottom: 0
+          .item
+            border-top: 1px solid #c9c9c9
+            .title
+              color: $event-color
+            .description
+              color: black
+          > .item:first-child
+            border-top: 0
 
 section.contact
   .block
@@ -484,8 +524,8 @@ section.presentation
   .social-links
     text-align: center !important
 
-  section.team
-    .member
+  section.people
+    .person
       .img-container
         width: 108px
         height: 108px
