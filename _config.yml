@@ -56,7 +56,7 @@ people:
         - name: Anna Ferrere
           twitter: AnnaFERRERE
           linkedin: profile/view?id=89971225
-        - name: Dan Del Baso
+        - name: Dan Del Balso
           twitter: Dan_DelBalso
           linkedin: profile/view?id=115316082
         - name: Stéphane Becker
@@ -103,21 +103,21 @@ people:
       list:
         - name: Uwe Diegel
           description: iHealth founder
-          twitter: https://twitter.com/uwe
-          linkedin: https://www.linkedin.com/in/uwediegel
+          twitter: uwe
+          linkedin: in/uwediegel
         - name: Pierre-Paul Vidal
           description: MD PhD
-          linkedin: https://www.linkedin.com/profile/view?id=151969844
+          linkedin: profile/view?id=151969844
         - name: Jorge Juan Fernandez Garcia
           description: BHITE polymath (Biomedicine + Healthcare + Innovation + Technology + Entrepreneurship)
-          twitter: http://twitter.com/jorgejuan
-          linkedin: https://www.linkedin.com/profile/view?id=2277954
+          twitter: jorgejuan
+          linkedin: profile/view?id=2277954
         - name: Jacques Marescaux
           description: ""
         - name: Zayna Khayat
           description: "At MaRS, Zayna and her rockstar team help smooth the path to adoption of health innovation by healthcare systems in Ontario and around the world. She is also an adjunct faculty with the Rotman School of Management in the Health Sector Strategy stream."
-          twitter: http://twitter.com/ZaynaKhayat
-          linkedin: http://ca.linkedin.com/in/zkhayat
+          twitter: ZaynaKhayat
+          linkedin: in/zkhayat
         - name: To be announced soon
         - name: To be announced soon
         - name: To be announced soon
@@ -126,20 +126,20 @@ people:
       list:
         - name: Mike Amundsen
           description: "Director of API Architecture, API Academy at CA Technologies || Working to improve the quality and usability of information on the Web."
-          twitter: https://twitter.com/mamund
-          linkedin: https://www.linkedin.com/in/mamund
+          twitter: mamund
+          linkedin: in/mamund
         - name: Pierre Desmarais
           description: "Avocat au Barreau de Paris et Correspondant Informatique et Libertés (CIL), Pierre Desmarais exerce une activité de conseil en droit de la santé et des nouvelles technologies. Il accompagne au quotidien des start-ups développant des produits et services innovants dans le domaine de la santé, de l’opendata et de l’e-santé. Il est également chargé d’enseignement au Conservatoire National des Arts et Métiers (CNAM) et à l'Université Paris VIII."
-          twitter: http://twitter.com/DesmaraisPierre
-          linkedin: http://www.linkedin.com/profile/view?id=88478484
+          twitter: DesmaraisPierre
+          linkedin: profile/view?id=88478484
         - name: Louis Lyu
           description: "iHealthLabs CTO - Head developer of iHealth API"
           twitter:
           linkedin:
         - name: Sofie van der Meulen
           description: "At Axon lawyers Sofie specializes in EU and national legal and regulatory issues relating to medical devices, with a special focus on medical software, big data & data protection."
-          twitter: http://twitter.com/DeltalexLegal
-          linkedin: http://nl.linkedin.com/in/sofievandermeulen
+          twitter: DeltalexLegal
+          linkedin: in/sofievandermeulen
   health-hackathon:
     - name: "Jury"
       list:
@@ -151,16 +151,16 @@ people:
       list:
         - name: Elalami Lafkih
           description: Pretotyping expert
-          twitter: https://twitter.com/e_lalami
-          linkedin: https://www.linkedin.com/profile/view?id=36725748
+          twitter: e_lalami
+          linkedin: profile/view?id=36725748
         - name: Pierre Desmarais
           description: "Avocat au Barreau de Paris et Correspondant Informatique et Libertés (CIL), Pierre Desmarais exerce une activité de conseil en droit de la santé et des nouvelles technologies. Il accompagne au quotidien des start-ups développant des produits et services innovants dans le domaine de la santé, de l’opendata et de l’e-santé. Il est également chargé d’enseignement au Conservatoire National des Arts et Métiers (CNAM) et à l'Université Paris VIII."
-          twitter: http://twitter.com/DesmaraisPierre
-          linkedin: http://www.linkedin.com/profile/view?id=88478484
+          twitter: DesmaraisPierre
+          linkedin: profile/view?id=88478484
         - name: Caroline Zorn
           description: Health lawyer
-          twitter: https://twitter.com/c_zorn
-          linkedin: http://fr.linkedin.com/in/carolinezorn/en
+          twitter: c_zorn
+          linkedin: in/carolinezorn/en
 schedules:
   future-of-health:
     - title: "19th"
@@ -176,7 +176,7 @@ schedules:
           description: "Pierre-Paul Vidal"
         - title: "11:30am - 12am"
           description: "Jorge Juan Fernandez Garcia"
-        - title: "12am - «am"
+        - title: "12am - 2pm"
           description: "Lunch"
         - title: "2pm - 2:30am"
           description: "Zayna Khayat"
@@ -209,7 +209,7 @@ schedules:
         - title: "9:15am - 10am"
           description: "Keynote"
         - title: "10am - 10:30am"
-          description: "Mike Amundsen"
+          description: "Mike Amundsen - demystify API"
         - title: "10:30am - 11am"
           description: "Pierre Desmarais"
         - title: "11am - 11:30am"
@@ -217,13 +217,13 @@ schedules:
         - title: "11:30am - 12am"
           description: "To be announced soon"
         - title: "10am - 11am"
-          description: "Louis Lyu"
+          description: "Louis Lyu - iHealthLabs workshop"
         - title: "11am - 12am"
           description: "To be announced soon"
         - title: "12am - 2pm"
           description: "Lunch"
         - title: "2pm - 2:30pm"
-          description: "To be announced soon"
+          description: "Sofie van der Meulen - Legal aspects of big data analytics in healthcare"
         - title: "2:30pm - 3pm"
           description: "To be announced soon"
         - title: "3pm - 3:30am"
@@ -347,6 +347,8 @@ partners:
       url: http://www.cnr-sante.fr/
     - name: CCI Alsace
       url: http://www.alsace.cci.fr/
+    - name: Club JADE
+      url: http://www.club-jade.fr/
   media:
     - name: BUZZ-ESANTE
       url: http://buzz-esante.com/

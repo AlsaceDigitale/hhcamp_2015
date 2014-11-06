@@ -1,6 +1,4 @@
-## Health Data Day
-
-### A full day of workshops and conferences centered around the technical, medical, privacy and legal aspects of producing, consuming and analyse health data.
+## A full day of workshops and conferences centered around the technical, medical, privacy and legal aspects of producing, consuming and analyse health data.
 
 The event strives to reflect both on the technological aspects and the important questions driving the health sector’s future:
 

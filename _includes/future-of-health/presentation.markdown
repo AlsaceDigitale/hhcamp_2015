@@ -1,6 +1,4 @@
-## Future of Health
-
-### A entire day of inspiring and forward-thinking conferences on the future of health by a line up of internationally-recognized health mentors.
+## A entire day of inspiring and forward-thinking conferences on the future of health by a line up of internationally-recognized health mentors.
 
 Renowned health professionals, entrepreneurs, policy makers and philosophers bring inspiration to us by discussing their vision of future of health.
 
