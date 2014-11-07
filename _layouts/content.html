@@ -11,4 +11,7 @@ layout: default
     </div>
   </div>
 </div>
+{% assign special_pages = ["developer", "designer", "professional" %}
+{% if special_pages contains page_path %}
 {% include shared/testimony.html testimonyKey=page_path %}
+{% endif %}
