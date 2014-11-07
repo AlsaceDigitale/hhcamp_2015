@@ -18,7 +18,7 @@
         <p>
           {{ argument_text }}
         </p>
-        {% assign target_url = '/for-' | append:category | downcase | append:'s.html' | prepend: site.baseurl %}
+        {% assign target_url = '/' | append:category | downcase | append:'.html' | prepend: site.baseurl %}
         <a href='{{ target_url }}' class="btn btn-primary btn-block">
           Know More
         </a>

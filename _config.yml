@@ -40,6 +40,25 @@ events:
     venue: Forum de la faculté de médecine - 1 rue Humann - Strasbourg
     description: "The second annual hackathon will run from Friday evening to Sunday evening. Health professionals, developers and designers will create prototypes based on challenges submitted before the event."
 
+testimonies:
+  developer:
+    name: Yann Klis
+    title: Developer since 4 years in novembre agency
+    body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec rutrum nunc. Vestibulum venenatis posuere est eget tincidunt. Donec eleifend justo et lacus convallis mollis. Vivamus eget ultricies ante. Suspendisse potenti. Cras in metus sit amet sapien luctus dapibus non sed tortor."
+    quote: "Cras nec mollis tellus. Sed eget ultricies mi. Fusce ex ante, iaculis ac lectus vel, dignissim ornare sem."
+    twitter: yannski
+    linkedin: in/yannklis
+  designer:
+    name: Franck Bevaudan
+    title: Developer since 4 years in novembre agency
+    body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec rutrum nunc. Vestibulum venenatis posuere est eget tincidunt. Donec eleifend justo et lacus convallis mollis. Vivamus eget ultricies ante. Suspendisse potenti. Cras in metus sit amet sapien luctus dapibus non sed tortor."
+    quote: "Cras nec mollis tellus. Sed eget ultricies mi. Fusce ex ante, iaculis ac lectus vel, dignissim ornare sem."
+  professional:
+    name: Franck Bevaudan
+    title: Developer since 4 years in novembre agency
+    body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec rutrum nunc. Vestibulum venenatis posuere est eget tincidunt. Donec eleifend justo et lacus convallis mollis. Vivamus eget ultricies ante. Suspendisse potenti. Cras in metus sit amet sapien luctus dapibus non sed tortor."
+    quote: "Cras nec mollis tellus. Sed eget ultricies mi. Fusce ex ante, iaculis ac lectus vel, dignissim ornare sem."
+
 people:
   team:
     - name: "Team Hacking Health"

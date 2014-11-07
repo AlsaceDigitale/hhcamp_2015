@@ -2,3 +2,13 @@
 layout: default
 ---
 {% include shared/intro.html %}
+{% assign page_path = page.path | remove:'.html' %}
+{% capture content %}{% include {{ page_path }}/content.markdown %}{% endcapture %}
+<section class="content">
+  <div class="container">
+    <div class="row">
+      {{ content | markdownify }}
+    </div>
+  </div>
+</div>
+{% include shared/testimony.html testimonyKey=page_path %}

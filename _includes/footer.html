@@ -1,7 +1,12 @@
+{% if page.with_expanded_footer == true %}
+{% include footer/quote.html %}
+{% endif %}
 {% include footer/support.html %}
-{% if page.url == '/index.html' %}
+{% if page.with_expanded_footer == true %}
 {% include footer/partners.html %}
+{% if page.url == '/index.html' %}
 {% include shared/people.html sectionKey="team" %}
+{% endif %}
 {% endif %}
 {% include footer/contact.html %}
 {% include footer/ultrafooter.html %}
