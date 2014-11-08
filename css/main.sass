@@ -7,17 +7,19 @@ $hackathon-color: #00bc61
 
 $events: future-of-health $future-color, health-pitch-challenge $pitch-color, health-data-day $dataday-color, health-hackathon $hackathon-color
 
+$default-background-color: #1a1b1d
+
 $brand-primary: #ea2f38
 $brand-primary-darker: #d01b22
 
 $font-family-sans-serif:    Lato, Arial, Helvetica, sans-serif
-$body-bg:                   black
+$body-bg:                   $default-background-color
 $text-color:                white
 $link-color:                $text-color
 
 
 $navbar-default-color:      white
-$navbar-default-bg:         black
+$navbar-default-bg:         $default-background-color
 $navbar-default-border:     $navbar-default-bg
 
 $navbar-inverse-color:      $navbar-default-color
@@ -28,7 +30,6 @@ $navbar-default-link-color: white
 $navbar-inverse-link-color: $navbar-default-link-color
 
 $dropdown-menu-background-color: #343537
-$support-background-color:       #1a1b1d
 
 $asset-path: 'http://alsacedigitale.github.io/hhcamp_wip'
 
@@ -174,7 +175,7 @@ section
 
 .home
   .navbar
-    background: $support-background-color url($asset-path + '/img/slide.jpg') no-repeat center center
+    background: $default-background-color url($asset-path + '/img/slide.jpg') no-repeat center center
     height: 653px
     .intro
       h1
@@ -322,14 +323,14 @@ cite
     margin-bottom: 0
 
 section.support
-  background-color: $support-background-color
+  background-color: $default-background-color
   color: white
   .h5
     margin: 10px
     margin-right: 15px
 
 section.testimony
-  background-color: $support-background-color
+  background-color: $default-background-color
   color: white
   .person
     .img-container
@@ -382,6 +383,14 @@ section.partners
     &:hover
       .overlay
         display: block
+
+section.complement
+  @each $event in $events
+    $event-name: nth($event, 1)
+    $event-color: nth($event, 2)
+    &.#{ $event-name }
+      h3
+        color: $event-color
 
 section.people
   background-color: $brand-primary
@@ -439,7 +448,7 @@ section.contact
   .block
     padding: 20px
     margin: 10px
-    background-color: $support-background-color
+    background-color: $default-background-color
     text-align: center
     .h2
       margin-top: 0
