@@ -284,6 +284,10 @@ section.quote
   background: white url($asset-path + '/img/bg2.jpg') no-repeat center center
   position: relative
 
+.thumbnail
+  background-color: transparent
+  border: 0 none
+
 blockquote footer:before, blockquote small:before, blockquote .small:before
   content: none
 blockquote
@@ -530,7 +534,14 @@ section.presentation
       background-color: $event-color
       color: white
 
+@media screen and (min-width: 768px) and (max-width: 1199px)
+  #navbar
+    margin-top: -40px
+
+
 @media screen and (max-width: 767px)
+  .navbar-brand
+    padding: 15px 0 15px 15px
   .home
     .navbar
       background-image: none
@@ -565,6 +576,8 @@ section.presentation
 
   section.people
     .person
+      padding-left: 0
+      padding-right: 0
       .img-container
         width: 108px
         height: 108px
@@ -583,3 +596,30 @@ section.presentation
           -moz-border-radius: 50px
           .social
             margin-top: 35px
+
+  section.people
+    @each $event in $events
+      $event-name: nth($event, 1)
+      $event-color: nth($event, 2)
+      &.#{ $event-name }
+        .person
+          .img-container
+            width: 108px
+            height: 108px
+            img
+              width: 100px
+              height: 100px
+              border-radius: 50px
+              -webkit-border-radius: 50px
+              -moz-border-radius: 50px
+              margin: 0 auto
+            .overlay
+              width: 100px
+              height: 100px
+              border-radius: 50px
+              -webkit-border-radius: 50px
+              -moz-border-radius: 50px
+              .social
+                margin-top: 35px
+            .h5
+              font-size: 80%

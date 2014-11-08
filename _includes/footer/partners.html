@@ -18,7 +18,7 @@
                 {% assign partner_name = partner.name | downcase | replace:" ","-" | replace:"é","e" | append:".jpg" %}
                 {% assign img_url = "/img/partner/" | append: partner_name | prepend: site.baseurl %}
                 <a href="{{ partner.url }}" target="_blank">
-                  <img src="{{ img_url }}" alt="{{ partner.name }}" />
+                  <img src="{{ img_url }}" alt="{{ partner.name }}" class="img-responsive" />
                 </a>
               </div>
             </li>
