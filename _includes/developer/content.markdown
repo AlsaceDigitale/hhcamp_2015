@@ -1,7 +1,7 @@
 <div class="col-xs-12 col-md-6" markdown="1">
 ## Why do the Hacking Health Camp?
 
-### Hackers, developers, markers
+### Hackers, developers, makers
 
 Medicine is going to be disrupted and it’s just the beginning.
 
