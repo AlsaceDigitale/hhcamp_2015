@@ -29,6 +29,10 @@ This year join a team and create innovation in health with us
 
 Attend Hacking Health Camp 2015, largest european hackathon in healthcare
 
+<a href="http://hhcamp.eventbrite.fr" class="btn btn-primary btn-block">
+          Regiter now !
+        </a>
+
 </div>
 
 <div class="col-xs-12 col-md-6" markdown="1">
@@ -74,5 +78,9 @@ During this 50h hackathon, we provide the best environment ever for your team to
 To join a team:
 
 follow [sparkboard](http://hhcamp.sparkboard.com) activity and find the project you want. Get in touch with project owner to know more about him and his project.
+
+<a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
+          Join a team !
+        </a>
 
 </div>

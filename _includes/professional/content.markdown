@@ -25,6 +25,14 @@ and for project owner
 - meet people involved with skills you need
 - create prototype together with the best environment you need
 
+<a href="http://hhcamp.eventbrite.fr" class="btn btn-primary btn-block">
+          Regiter now !
+        </a>
+<a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
+                  Promote you idea !
+                </a>
+
+
 </div>
 
 <div class="col-xs-12 col-md-6" markdown="1">
@@ -84,5 +92,11 @@ Attend a preparation workshop. You will find better understanding of skills pres
 
 follow sparkboard activity and find the project you want. Get in touch with project owner to know more about him and his project.
 
+<a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
+          Join a team !
+        </a>
+<a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
+          Submit you problem / idea !
+        </a>
 
 </div>
