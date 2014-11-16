@@ -16,7 +16,7 @@ Attend Hacking Health Camp 2015, largest european hackathon in healthcare
 
 This year Hacking Health Camp give you :
 
-- a better vision of tomorrow digital health : understand changing that come, new xxxxxxxx, improve your knowledge in digital health.
+- a better vision of tomorrow digital health : understand changing that come, new challenges, improve your knowledge in digital health.
 - experiment a unique moment : creation process of health innovation
 - in just 4 days
 

@@ -188,7 +188,7 @@ schedules:
         - title: "9:30am - 10am"
           description: "Introduction"
         - title: "10am - 10:30am"
-          description: "Jacques Marescaux"
+          description: "Zayna Khayat"
         - title: "10:30am - 11am"
           description: "Uwe Diegel"
         - title: "11am - 11:30am"
@@ -198,7 +198,7 @@ schedules:
         - title: "12am - 2pm"
           description: "Lunch"
         - title: "2pm - 2:30am"
-          description: "Zayna Khayat"
+          description: "Jacques Marescaux"
         - title: "2:30pm - 3pm"
           description: "To be announced soon"
         - title: "3pm - 3:30pm"
@@ -324,6 +324,8 @@ partners:
   silver:
     - name: GE Healthcare
       url: http://www3.gehealthcare.com/en/global_gateway
+    - name: Doctissimo
+      url: http://www.doctissimo.fr
     - name: ASIP Santé
       url: http://esante.gouv.fr/asip-sante
     - name: Inforoute Santé Canada
@@ -368,6 +370,14 @@ partners:
       url: http://www.alsace.cci.fr/
     - name: Club JADE
       url: http://www.club-jade.fr/
+    - name: Alsace Innovation
+      url: http://www.alsaceinnovation.eu/
+    - name: TICBioMed
+      url: http://www.ticbiomed.org/
+    - name: Samsung
+      url: http://www.samsung.com
+    - name: LeaderHealth
+      url: http://www.leaderhealth.ch
   media:
     - name: BUZZ-ESANTE
       url: http://buzz-esante.com/
@@ -381,3 +391,5 @@ partners:
       url: http://www.ehealthnews.eu/
     - name: OSOZ
       url: http://www.osoz.pl/
+    - name: TIC Santé
+      url: http://www.tic-sante.fr
