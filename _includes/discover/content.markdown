@@ -42,9 +42,9 @@ During the first edition, health professionals and designers, developers, UX res
 Hacking Health Camp is a place of innovation in action and we are on the fast track to become Europe’s biggest and most important event in healthcare innovation.
 
 ###Past events and outcomes
-Hacking Health is an international movement: since 2012, over 12 hackathons and dozens of healthcare events took place in Canada and across the world. “[Hacking Health @ DigitalHealthCamp](http://digitalhealthcamp.eu)”, the first French edition of the Health hackathon took place in march 2014 in Strasbourg  and more hackathons are scheduled to take place in Hong Kong, Saskatoon, New York and Berlin to name a few.
+Hacking Health is an international movement: since 2012, over 12 hackathons and dozens of healthcare events took place in Canada and across the world. “**[Hacking Health @ DigitalHealthCamp](http://digitalhealthcamp.eu)**”, the first French edition of the Health hackathon took place in march 2014 in Strasbourg  and more hackathons are scheduled to take place in Hong Kong, Saskatoon, New York and Berlin to name a few.
 
-About the creative energy of [Hacking Health @ DigitalHealthCamp](http://digitalhealthcamp.eu) :
+About the creative energy of **[Hacking Health @ DigitalHealthCamp](http://digitalhealthcamp.eu)** :
 
 > “We all regret we were not in Steve Jobs’ garage in the 80’s, but in 30 years, you will be able to say that you were here in Strasbourg, today…”
 
@@ -54,7 +54,7 @@ Uwe Diegel, iHealth founder, march 30th 2014
 
 50 hours event in which the “users” (health professionals) and the "makers" (designers, developers, UX researchers and engineers) collaborate around challenges submitted before the event. The last day, they present a functional prototype to the jury and the assembly.
 
-The first edition of [Hacking Health @ DigitalHealthCamp](http://digitalhealthcamp.eu) was a huge success thanks to its ability to cater directly to the needs expressed by healthcare professional:
+The first edition of **[Hacking Health @ DigitalHealthCamp](http://digitalhealthcamp.eu)** was a huge success thanks to its ability to cater directly to the needs expressed by healthcare professional:
 
  - participation : 200 attendees came from all over France. Among them :  45 health professionals  (nurses, pharmacists, psychiatrists, physiotherapist,...) and about 100 hackers.
  - for 35 challenges submitted there were 19 quality prototypes created, ex: Flashmed, MedMatch, ContAAct, Lifealth, with some of them now having graduated to fully functioning start ups.
