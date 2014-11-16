@@ -180,6 +180,11 @@ people:
           description: Health lawyer
           twitter: c_zorn
           linkedin: in/carolinezorn/en
+        - name: Guillaume Lours
+          description: Agile coach
+          twitter: glours
+          linkedin: profile/view?id=45301585
+
 schedules:
   future-of-health:
     - title: "19th"
