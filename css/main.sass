@@ -15,7 +15,7 @@ $brand-primary-darker: #d01b22
 $font-family-sans-serif:    Lato, Arial, Helvetica, sans-serif
 $body-bg:                   $default-background-color
 $text-color:                white
-$link-color:                $text-color
+$link-color:                black
 
 
 $navbar-default-color:      white
@@ -278,8 +278,8 @@ section.join, section.content
     color: $brand-primary
 
 section.content
-  a
-    color: black
+  a:not(.btn)
+    text-decoration: underline
 
 section.join
   h3
@@ -301,6 +301,9 @@ section.quote
 .thumbnail
   background-color: transparent
   border: 0 none
+  .social
+    a
+      color: white
 
 blockquote footer:before, blockquote small:before, blockquote .small:before
   content: none
