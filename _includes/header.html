@@ -74,7 +74,8 @@
         </li>
         {% assign target_url = '/sponsors.html' | prepend: site.baseurl %}
         <li><a href="{{ target_url }}">Become Sponsor</a></li>
-        <li><a href="#">Contact</a></li>
+        {% assign target_url = '/contact.html' | prepend: site.baseurl %}
+        <li><a href="{{ target_url }}">Contact</a></li>
       </ul>
     </div><!--/.nav-collapse -->
   </div>
