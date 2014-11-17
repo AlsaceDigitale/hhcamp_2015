@@ -17,9 +17,11 @@
         </a>
       </div>
       <div class="col-xs-12 col-md-4 text-right">
-        <a href="/privacy.html" class="h5 privacy">Privacy Policy</a>
+        {% assign target_url = '/privacy.html' | prepend: site.baseurl %}
+        <a href="{{ target_url }}" class="h5 privacy">Privacy Policy</a>
         |
-        <a href="/terms.html" class="h5 privacy">Terms of use</a>
+        {% assign target_url = '/terms.html' | prepend: site.baseurl %}
+        <a href="{{ target_url }}" class="h5 privacy">Terms of use</a>
         <br/>
         <span class="text-muted">Design by <a href="http://goodmorningmajor.com/" target="_blank">goodmorningmajor</a></span>
       </div>
