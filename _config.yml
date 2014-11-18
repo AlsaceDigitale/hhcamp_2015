@@ -383,6 +383,8 @@ partners:
       url: http://www.samsung.com
     - name: LeaderHealth
       url: http://www.leaderhealth.ch
+    - name: Syntec Numérique
+      url: http://www.syntec-numerique.fr/
   media:
     - name: BUZZ-ESANTE
       url: http://buzz-esante.com/
@@ -398,3 +400,5 @@ partners:
       url: http://www.osoz.pl/
     - name: TIC Santé
       url: http://www.tic-sante.fr
+    - name: SIH Solutions
+      url: http://www.sih-solutions.fr/
