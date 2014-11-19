@@ -2,3 +2,5 @@ _site
 .sass-cache
 .idea
 hhcamp_wip.iml
+
+.project

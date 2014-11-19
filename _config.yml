@@ -402,3 +402,41 @@ partners:
       url: http://www.tic-sante.fr
     - name: SIH Solutions
       url: http://www.sih-solutions.fr/
+
+last_event_videos:
+  - name: shazam du medicament
+    url: http://www.youtube.com/embed/JroXpVOFXho
+  - name: project1 
+    url: http://www.youtube.com/embed/vlOuNpgrGd8
+  - name: project3 
+    url: http://www.youtube.com/embed/pQGF-ts2gAw
+  - name: project6 
+    url: http://www.youtube.com/embed/_6OUmMgoZPw
+  - name: project7 
+    url: http://www.youtube.com/embed/petu8o3NnvA
+  - name: project8
+    url: http://www.youtube.com/embed/jOjgvoQPlFg
+  - name: project12
+    url: http://www.youtube.com/embed/dOZXIsyfpyw
+  - name: project14
+    url: http://www.youtube.com/embed/mu4kwEcF7LA
+  - name: project19
+    url: http://www.youtube.com/embed/E2HLwXOmRGk
+  - name: project20
+    url: http://www.youtube.com/embed/PYcbs817M8w
+  - name: project23
+    url: http://www.youtube.com/embed/k7DWYWvQ0rc
+  - name: project24
+    url: http://www.youtube.com/embed/rnPABtGyfc4
+  - name: project25
+    url: http://www.youtube.com/embed/L2SVd4DRF34
+  - name: project29
+    url: http://www.youtube.com/embed/MiFo_HOcWoA
+  - name: project31
+    url: http://www.youtube.com/embed/EFhyYTip72E
+  - name: project34
+    url: http://www.youtube.com/embed/5plX2H6QC7A
+  - name: project35
+    url: http://www.youtube.com/embed/TAwbkZeI1FA
+  - name: project36
+    url: http://www.youtube.com/embed/zGT2RxA7jAU
