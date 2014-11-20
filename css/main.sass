@@ -166,6 +166,8 @@ $asset-path: 'http://alsacedigitale.github.io/hhcamp_wip'
         $new-color: rgba(red($event-color), green($event-color), blue($event-color), 0.7)
         background-color: $new-color
         border-color: $new-color
+    h3
+      color: $event-color
 
 .btn-white
   background-color: white
@@ -294,6 +296,16 @@ section.join, section.content
   color: black
   h3
     color: $brand-primary
+
+section.hardware-software
+  background: white url($asset-path + '/img/bg.png') repeat
+  color: black
+  .h2, .h5, p
+    margin-bottom: 20px
+  a
+    text-decoration: underline
+    font-weight: 800
+    font-style: italic
 
 section.content
   a:not(.btn)

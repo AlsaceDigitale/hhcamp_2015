@@ -1,0 +1,43 @@
+<section class="hardware-software {{ mnemonic }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="h2">
+          Hardware & Software
+        </div>
+        <div class="h5">
+          Lorem Ipsum Dolor Sit Amet
+        </div>
+        <p>
+          Partners provides...
+        </p>
+      </div>
+    </div>
+    <div class="row">
+      {% for item in site.hardwaresoftware %}
+      {% assign image = item.image %}
+      {% assign title = item.title %}
+      {% assign description = item.description %}
+      {% assign link = item.link %}
+      {% assign link_title = item.link_title %}
+      <div class="col-xs-12 col-sm-6">
+        {% assign img_url = "/img/" | append:image | append:'.jpg' | prepend: site.baseurl %}
+        <div class="row">
+          <div class="col-xs-12 col-sm-3">
+            <img src="{{ img_url }}"/>
+          </div>
+          <div class="col-xs-12 col-sm-9">
+            <h3 class="h5">{{ title }}</h3>
+            <p>
+              {{ description }}
+            </p>
+            <a href='{{ link }}'>
+              {{ link_title }}
+            </a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
