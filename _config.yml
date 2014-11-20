@@ -312,6 +312,20 @@ schedules:
           description: "Prizes"
         - title: "8pm"
           description: "Last drink"
+
+question_and_answers:
+  health-hackathon:
+    - question: "Donec dapibus id massa"
+      answer: "Une superbe réponse"
+    - question: "Donec dapibus id massa"
+      answer: "Une superbe réponse"
+    - question: "Donec dapibus id massa"
+      answer: "Une superbe réponse"
+    - question: "Donec dapibus id massa"
+      answer: "Une superbe réponse"
+    - question: "Donec dapibus id massa"
+      answer: "Une superbe réponse"
+
 social_links:
   facebook: http://facebook.com/digitalhealthcamp
   twitter: https://twitter.com/digitalhealthcp
@@ -406,13 +420,13 @@ partners:
 last_event_videos:
   - name: shazam du medicament
     url: http://www.youtube.com/embed/JroXpVOFXho
-  - name: project1 
+  - name: project1
     url: http://www.youtube.com/embed/vlOuNpgrGd8
-  - name: project3 
+  - name: project3
     url: http://www.youtube.com/embed/pQGF-ts2gAw
-  - name: project6 
+  - name: project6
     url: http://www.youtube.com/embed/_6OUmMgoZPw
-  - name: project7 
+  - name: project7
     url: http://www.youtube.com/embed/petu8o3NnvA
   - name: project8
     url: http://www.youtube.com/embed/jOjgvoQPlFg
