@@ -157,6 +157,16 @@ $asset-path: 'http://alsacedigitale.github.io/hhcamp_wip'
       background-color: $new-color
       border-color: $new-color
 
+@each $event_name, $event_color in $events
+  .#{ $event_name }
+    .btn-primary
+      background-color: $event-color
+      border-color: $event-color
+      &:hover
+        $new-color: rgba(red($event-color), green($event-color), blue($event-color), 0.7)
+        background-color: $new-color
+        border-color: $new-color
+
 .btn-white
   background-color: white
 
