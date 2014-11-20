@@ -16,19 +16,19 @@
     </div>
     <div class="row">
       <div class="col-xs-12">
-        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+        <div class="panel-group" id="accordion-qa" role="tablist" aria-multiselectable="true">
           {% for question_and_answer in question_and_answers %}
             {% assign question = question_and_answer.question %}
             {% assign answer = question_and_answer.answer %}
             <div class="panel panel-default">
               <div class="panel-heading" role="tab">
                 <h4 class="panel-title">
-                  <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{ forloop.index }}" aria-expanded="true" aria-controls="collapseOne" class="btn-block">
+                  <a data-toggle="collapse" data-parent="#accordion-qa" href="#collapse-qa-{{ forloop.index }}" aria-expanded="true" aria-controls="collapseOne" class="btn-block">
                     {{ question }}
                   </a>
                 </h4>
               </div>
-              <div id="collapse{{ forloop.index }}" class="panel-collapse collapse {% if forloop.first %}in{% endif %}" role="tabpanel" aria-labelledby="headingOne">
+              <div id="collapse-qa-{{ forloop.index }}" class="panel-collapse collapse {% if forloop.first %}in{% endif %}" role="tabpanel" aria-labelledby="headingOne">
                 <div class="panel-body">
                     {{ answer }}
                 </div>
