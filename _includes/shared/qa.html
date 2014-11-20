@@ -1,0 +1,43 @@
+{% assign qaKey = include.qaKey %}
+{% for possible_question_and_answer in site.question_and_answers %}
+  {% if possible_question_and_answer[0] == qaKey %}
+    {% assign question_and_answers = possible_question_and_answer[1] %}
+  {% endif %}
+{% endfor %}
+{% if question_and_answers %}
+<section class="schedule {{ mnemonic }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="h2 text-center">
+          Q & A
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="panel-group" id="accordion-qa" role="tablist" aria-multiselectable="true">
+          {% for question_and_answer in question_and_answers %}
+            {% assign question = question_and_answer.question %}
+            {% assign answer = question_and_answer.answer %}
+            <div class="panel panel-default">
+              <div class="panel-heading" role="tab">
+                <h4 class="panel-title">
+                  <a data-toggle="collapse" data-parent="#accordion-qa" href="#collapse-qa-{{ forloop.index }}" aria-expanded="true" aria-controls="collapseOne" class="btn-block">
+                    {{ question }}
+                  </a>
+                </h4>
+              </div>
+              <div id="collapse-qa-{{ forloop.index }}" class="panel-collapse collapse {% if forloop.first %}in{% endif %}" role="tabpanel" aria-labelledby="headingOne">
+                <div class="panel-body">
+                    {{ answer }}
+                </div>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}

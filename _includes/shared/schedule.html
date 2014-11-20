@@ -15,7 +15,7 @@
     </div>
     <div class="row">
       <div class="col-xs-12">
-        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+        <div class="panel-group" id="accordion-schedule" role="tablist" aria-multiselectable="true">
           {% for schedule in schedules %}
             {% assign title = schedule.title %}
             {% assign subtitle = schedule.subtitle %}
@@ -23,7 +23,7 @@
             <div class="panel panel-default">
               <div class="panel-heading" role="tab">
                 <h4 class="panel-title">
-                  <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{ forloop.index }}" aria-expanded="true" aria-controls="collapseOne" class="btn-block">
+                  <a data-toggle="collapse" data-parent="#accordion-schedule" href="#collapse{{ forloop.index }}" aria-expanded="true" aria-controls="collapseOne" class="btn-block">
                     <span class="h2">{{ title }}</span>
                     <br/>
                     <span class="h5">{{ subtitle }}</span>

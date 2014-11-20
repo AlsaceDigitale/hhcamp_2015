@@ -312,6 +312,35 @@ schedules:
           description: "Prizes"
         - title: "8pm"
           description: "Last drink"
+
+question_and_answers:
+  main:
+    - question: "Donec dapibus id massa"
+      answer: "Une superbe réponse"
+  health-hackathon:
+    - question: "Donec dapibus id massa"
+      answer: "Une superbe réponse"
+    - question: "Donec dapibus id massa"
+      answer: "Une superbe réponse"
+    - question: "Donec dapibus id massa"
+      answer: "Une superbe réponse"
+    - question: "Donec dapibus id massa"
+      answer: "Une superbe réponse"
+    - question: "Donec dapibus id massa"
+      answer: "Une superbe réponse"
+
+hardwaresoftware:
+  - image: "pipo.jpg"
+    title: "Lorem Ipsum"
+    description: "Parnters provides..."
+    link: "http://www.google.fr"
+    link_title: "Download documentation"
+  - image: "pipo2.jpg"
+    title: "Lorem Ipsum 2"
+    description: "Parnters provides..."
+    link: "http://www.google2.fr"
+    link_title: "View website"
+
 social_links:
   facebook: http://facebook.com/digitalhealthcamp
   twitter: https://twitter.com/digitalhealthcp
