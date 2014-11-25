@@ -159,6 +159,15 @@ people:
           description: "At Axon lawyers Sofie specializes in EU and national legal and regulatory issues relating to medical devices, with a special focus on medical software, big data & data protection."
           twitter: DeltalexLegal
           linkedin: in/sofievandermeulen
+        - name: Nicolas Cauvet
+          description: "Responsable des développements des produits interfacés chez Vidal depuis 7 ans. Évangéliste API Vidal et plus généralement enthousiaste de Web APIs"
+          twitter:
+          linkedin: profile/view?id=72598950
+        - name: Charles Metivier
+          description: ""
+          twitter:
+          linkedin:
+
   health-hackathon:
     - name: "Jury"
       list:
