@@ -14,9 +14,15 @@ github_username:  jekyll
 markdown: kramdown
 
 arguments:
-  developer: "Transform everyday healthcare challenges into real solutions. Work on meaningful problems. Help improve healthcare. Get connected, and practice your skills."
-  designer: "Connect to create holistic solutions with patients, not for patients. Work on meaningful problems. Help improve healthcare. Get connected, and practice your skills."
-  professional: "Collaborate with tech experts to solve problems in healthcare. Let your ideas inspire practical solutions. Get connected, and practice your skills."
+  - name: health-professional-patient
+    title: Health professional / Patient
+    description: "Collaborate with tech experts to solve problems in healthcare. Let your ideas inspire practical solutions. Share your experience and daily life usability."
+  - name: developer-designer
+    title: Hacker / Designer
+    description: "Transform everyday healthcare challenges into real solutions. Work on meaningful problems. Help improve healthcare. Get connected, and practice your skills."
+  - name: entrepreneur-health-involved
+    title: Entrepreneur / Health involved
+    description: "Collaborate with health professional and tech experts to solve problems in healthcare. Give us your business skills to build a powerful and viable solutions on the market. Get connected and practice your skills."
 
 events:
   - name: Future of Health

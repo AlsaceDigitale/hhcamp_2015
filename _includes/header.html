@@ -62,11 +62,10 @@
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">HH Camp & You</a>
           <ul class="dropdown-menu" role="menu">
             {% for argument in site.arguments %}
-              {% assign category = argument[0] %}
               <li>
-                {% assign target_url = '/' | append:category | downcase | append:'.html' | prepend: site.baseurl %}
+                {% assign target_url = '/' | append:argument.name | downcase | append:'.html' | prepend: site.baseurl %}
                 <a href="{{ target_url }}">
-                  {{ category | capitalize }}
+                  {{ argument.title }}
                 </a>
               </li>
             {% endfor %}
@@ -74,8 +73,8 @@
         </li>
         {% assign target_url = '/sponsors.html' | prepend: site.baseurl %}
         <li><a href="{{ target_url }}">Become Sponsor</a></li>
-        {% assign target_url = '/contact.html' | prepend: site.baseurl %}
-        <li><a href="{{ target_url }}">Contact</a></li>
+        {% assign target_url = '/venue.html' | prepend: site.baseurl %}
+        <li><a href="{{ target_url }}">Venue</a></li>
         {% assign target_url = '/last-edition.html' | prepend: site.baseurl %}
         <li><a href="{{ target_url }}">Last Edition</a></li>
       </ul>

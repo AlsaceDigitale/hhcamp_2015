@@ -1,19 +1,19 @@
 <div class="col-xs-12 col-md-6" markdown="1">
 ## Why do the Hacking Health Camp?
 
-### Designers, UX researchers,
+### Entrepreneurs, health involved,
 
 Medicine is going to be disrupted and it’s just the beginning.
 
 Medicine need your skills to be improved.
 
-Design is a fondamental aspect for prototype creation and user experience improvements in healthcare, more if users are the patient.
+All energies are required to bring ideas to life and make viable solution for healthcare.
 
 It’s time to live a 4 day experience in this meaningful and useful domain, with a lot of perspectives.
 
-At Hacking Health Camp transform and improve healthcare by rising health professionals challenges (physician, pharmacist, nurse, physiotherapist, …)
+At Hacking Health Camp transform and improve healthcare by rising health professionals (physician, pharmacist, nurse, physiotherapist, …) or patient challenges
 
-You didn’t know ? health professionals have lot of needs an imagination
+You didn’t know ? health professionals and patient have lot of needs and imagination
 
 For example las year they submit challenge like :
 
@@ -22,7 +22,7 @@ For example las year they submit challenge like :
 - [mobile serious game prevent kids nutrition to obesity](http://projects.digitalhealthcamp.eu/serious-games-sur-la-nutrition/)
 - [self medication application to help people consume drugs safety](http://projects.digitalhealthcamp.eu/29-flash-med/)
 
-Designers rises this challenges and others and present their prototypes to the assembly, it was amazing :
+Entrepreneurs and health involved rises this challenges and others and present their prototypes to the assembly, it was amazing :
 « it works, it’s incredible !! » Uwe Diegel
 
 Some of this projects is now early stage startups.
@@ -32,7 +32,7 @@ This year join a team and create innovation in health with us
 Attend Hacking Health Camp 2015, largest european hackathon in healthcare
 
 <a href="http://hhcamp.eventbrite.fr" class="btn btn-primary btn-block">
-          Regiter now !
+          Register now !
         </a>
 
 </div>
@@ -81,7 +81,7 @@ During this 50h hackathon, we provide the best environment ever for your team to
 
 To join a team:
 
-follow [sparkboard](http://hhcamp.sparkboard.com) activity and find the project you want. Get in touch with project owner to know more about him and his project.
+Follow [sparkboard](http://hhcamp.sparkboard.com) activity and find the project you want. Get in touch with project owner to know more about him and his project.
 
 <a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
           Join a team !

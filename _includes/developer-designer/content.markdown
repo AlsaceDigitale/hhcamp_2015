@@ -1,7 +1,7 @@
 <div class="col-xs-12 col-md-6" markdown="1">
 ## Why do the Hacking Health Camp?
 
-### Hackers, developers, makers
+### Hackers, developers, makers, designers, UX professionals
 
 Medicine is going to be disrupted and it’s just the beginning.
 
@@ -9,9 +9,11 @@ Medicine need your skills to be improved.
 
 It’s time to live a 4 day experience in this meaningful and useful domain, with a lot of perspectives.
 
-At Hacking Health Camp transform and improve healthcare by rising health professionals challenges (physician, pharmacist, nurse, physiotherapist, …)
+Design and development are important aspect for prototype creation and user experience improvements in healthcare, more if users are the patient.
 
-You didn’t know ? health professionals have lot of needs an imagination
+At Hacking Health Camp transform and improve healthcare by rising health professionals (physician, pharmacist, nurse, physiotherapist, …) or patient challenges
+
+You didn’t know ? health professionals and patient have lot of needs and imagination
 
 For example las year they submit challenge like :
 
@@ -20,7 +22,7 @@ For example las year they submit challenge like :
 - [mobile serious game prevent kids nutrition to obesity](http://projects.digitalhealthcamp.eu/serious-games-sur-la-nutrition/)
 - [self medication application to help people consume drugs safety](http://projects.digitalhealthcamp.eu/29-flash-med/)
 
-Hackers rises this challenges and others and present their prototypes to the assembly, it was amazing :
+Hackers, developers, makers, designers, engineers rises this challenges and others and present their prototypes to the assembly, it was amazing :
 « it works, it’s incredible !! » Uwe Diegel
 
 Some of this projects is now early stage startups.
@@ -30,7 +32,7 @@ This year join a team and create innovation in health with us
 Attend Hacking Health Camp 2015, largest european hackathon in healthcare
 
 <a href="http://hhcamp.eventbrite.fr" class="btn btn-primary btn-block">
-          Regiter now !
+          Register now !
         </a>
 
 </div>

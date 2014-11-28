@@ -1,16 +1,16 @@
 <div class="col-xs-12 col-md-6" markdown="1">
 ## Why do the Hacking Health Camp?
 
-### Physicians, nurses, specialist, pharmacist, ...
+### Physicians, nurses, specialist, pharmacist, ... or patient
 
 Let improve healthcare by innovation with new and simple ideas.
 
 It’s just the beginning of a digital health era, there’s a lot of needs. Be part of this and discover the opportunities of this amazing
 
-Health professional, attend Hacking Health Camp in 2 ways :
+Health professional and patient, attend Hacking Health Camp in 2 ways :
 
-- bring your idea to life : you have an idea to help you resolve a problem you have in your day job with tele health, serious game, mobile app, etc … all ideas are good !!
-- join a team and bring your medical skills to a project to create a health innovation. Live a unique human and creative experience. Discover new way to use your experience and skills ...
+- bring your idea to life : you have an idea to help you resolve a problem you have in your day job/life with tele health, serious game, mobile app, etc … all ideas are good !!
+- join a team and bring your medical skills or patient knowledge to a project to create a health innovation. Live a unique human and creative experience. Discover new way to use your experience and skills ...
 
 Attend Hacking Health Camp 2015, largest european hackathon in healthcare
 
@@ -26,7 +26,7 @@ and for project owner
 - create prototype together with the best environment you need
 
 <a href="http://hhcamp.eventbrite.fr" class="btn btn-primary btn-block">
-          Regiter now !
+          Register now !
         </a>
 <a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
                   Promote you idea !
@@ -84,19 +84,22 @@ During this 50h hackathon, we provide the best environment ever for your team to
 
 #### You are a project owner :
 
-describe your project on [sparkboard](http://hhcamp.sparkboard.com) as soon as possible. Your project have to be known. Start exchange with people interested.
+Describe your project on [sparkboard](http://hhcamp.sparkboard.com) as soon as possible. Your project have to be known. Start exchange with people interested.
 
 Attend a preparation workshop. You will find better understanding of skills presents during the hackathon (designer, developers). Identify skills you need and precise your project to fit the hackathon.
 
 #### You want to join a team :
 
-follow sparkboard activity and find the project you want. Get in touch with project owner to know more about him and his project.
+Follow sparkboard activity and find the project you want. Get in touch with project owner to know more about him and his project.
 
 <a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
           Join a team !
         </a>
 <a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
-          Submit you problem / idea !
+          Submit your problem / idea !
+        </a>
+<a href="http://www.get-ehealth.eu/fill-the-gap" class="btn btn-primary btn-block">
+          Be focus on unmet needs in healthcare
         </a>
 
 </div>
