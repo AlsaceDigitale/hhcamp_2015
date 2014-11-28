@@ -29,7 +29,7 @@ events:
     verb: Inspire
     date: "Thursday, March 19th, 9:30 AM - 5 PM"
     venue: Auditorium du conservatoire de musique - 1 place Dauphine - Strasbourg
-    description: A entire day of inspiring and forward-thinking conferences on the future of health by a line up of internationally-recognized health mentors.
+    description: A entire day of inspiring and forward-thinking conferences on the future of health by a line up of internationally-recognized health mentors. Jacques Marescaux (first surgeon apply remote surgery with robot), Uwe Diegel (president of iHealth Labs), Jorge Juan Fernandez Garcia (leading Spanish children's hospital in Spain) and many more will give their vision on future of healthcare.
   - name: Health Pitch Challenge
     verb: Bonus
     date: "Thursday, March 19th, 7:00 PM - 10:00 PM"
@@ -39,12 +39,12 @@ events:
     verb: Learn
     date: "Friday, March 20th, 9:00 AM - 5:00 PM"
     venue: Forum de la faculté de médecine - 1 rue Humann - Strasbourg
-    description: "A full day of workshops and conferences centered around the technical, medical, privacy and legal aspects of producing, consuming and analyse health data."
+    description: "A full day of workshops and conferences centered around the technical, medical, and legal aspects of producing, consuming and analyse health data."
   - name: Health Hackathon
     verb: "Learn"
     date: "Friday, March 20th, 5:00 PM to Sunday, March 8:00 PM"
     venue: Forum de la faculté de médecine - 1 rue Humann - Strasbourg
-    description: "The second annual hackathon will run from Friday evening to Sunday evening. Health professionals, developers and designers will create prototypes based on challenges submitted before the event."
+    description: "The second annual hackathon will run from Friday evening to Sunday evening. Health professionals, patients, hackers, developers and designers will create prototypes based on challenges submitted before the event."
 
 testimonies:
   developer:
@@ -195,6 +195,7 @@ people:
         - name: To be announced soon !
         - name: To be announced soon !
         - name: To be announced soon !
+        - name: To be announced soon !
     - name: "Mentors"
       list:
         - name: Elalami Lafkih
@@ -220,7 +221,7 @@ people:
         - name: Pascal Bastien
           description: "team coaching"
           twitter:
-          linkedin: 
+          linkedin:
 
 schedules:
   future-of-health:
