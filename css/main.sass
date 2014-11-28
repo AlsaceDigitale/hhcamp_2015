@@ -332,7 +332,11 @@ section.join
   h3
     text-align: center
   img
+    border-radius: $border-radius-base
     margin-bottom: 20px
+    &.img-responsive
+      margin-left: auto
+      margin-right: auto
 
 section.quote
   color: white
@@ -650,6 +654,8 @@ section.presentation
     .btn
       margin-bottom: 40px
   section.join
+    .col-join + .col-join
+      margin-top: 40px
     .developer, .designer, .professional
       margin-bottom: 40px
   section.ultrafooter
