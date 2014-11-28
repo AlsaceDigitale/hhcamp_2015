@@ -179,6 +179,10 @@ people:
           description: ""
           twitter:
           linkedin:
+        - name: Werner Bachmann
+          description: ""
+          twitter:
+          linkedin:
 
   health-hackathon:
     - name: "Jury"
