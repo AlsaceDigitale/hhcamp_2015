@@ -156,34 +156,42 @@ people:
     - name: "Speakers"
       list:
         - name: Mike Amundsen
+          label: technical
           description: "Director of API Architecture, API Academy at CA Technologies || Working to improve the quality and usability of information on the Web."
           twitter: mamund
           linkedin: in/mamund
         - name: Pierre Desmarais
+          label: legal
           description: "Avocat au Barreau de Paris et Correspondant Informatique et Libertés (CIL), Pierre Desmarais exerce une activité de conseil en droit de la santé et des nouvelles technologies. Il accompagne au quotidien des start-ups développant des produits et services innovants dans le domaine de la santé, de l’opendata et de l’e-santé. Il est également chargé d’enseignement au Conservatoire National des Arts et Métiers (CNAM) et à l'Université Paris VIII."
           twitter: DesmaraisPierre
           linkedin: profile/view?id=88478484
         - name: Louis Lyu
+          label: technical
           description: "iHealthLabs CTO - Head developer of iHealth API"
           twitter:
           linkedin:
         - name: Sofie van der Meulen
+          label: legal
           description: "At Axon lawyers Sofie specializes in EU and national legal and regulatory issues relating to medical devices, with a special focus on medical software, big data & data protection."
           twitter: DeltalexLegal
           linkedin: in/sofievandermeulen
         - name: Nicolas Cauvet
+          label: technical
           description: "He has been in charge of 'interfaced products' development at Vidal for 7 seven years. Web API-lover and Vidal's API evangelist."
           twitter:
           linkedin: profile/view?id=72598950
         - name: Charles Metivier
+          label: "medical"
           description: ""
           twitter:
           linkedin:
         - name: Werner Bachmann
+          label: legal
           description: "German Health lawyer - Partner in der Kanzlei Friedrich Graf von Westphalen&Partner"
           twitter:
           linkedin: profile/view?id=19779877
         - name: Pascal Zellner
+          label: "medical"
           description: "Hospital worker at SAMU 73. Emergency doctor and mountain rescuer since 1996"
           twitter: pzellner
           linkedin: profile/view?id=87349943
