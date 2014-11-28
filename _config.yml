@@ -336,6 +336,17 @@ question_and_answers:
   main:
     - question: "Donec dapibus id massa"
       answer: "Une superbe réponse"
+  health-hackathon:
+    - question: "Donec dapibus id massa"
+      answer: "Une superbe réponse"
+    - question: "Donec dapibus id massa"
+      answer: "Une superbe réponse"
+    - question: "Donec dapibus id massa"
+      answer: "Une superbe réponse"
+    - question: "Donec dapibus id massa"
+      answer: "Une superbe réponse"
+    - question: "Donec dapibus id massa"
+      answer: "Une superbe réponse"
 
 hardwaresoftware:
   - image: "pipo.jpg"
