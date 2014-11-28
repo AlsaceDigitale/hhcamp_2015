@@ -183,6 +183,10 @@ people:
           description: ""
           twitter:
           linkedin:
+        - name: Pascal Zellner
+          description: "Hospital worker at SAMU 73. Emergency doctor and mountain rescuer since 1996"
+          twitter: pzellner
+          linkedin: /profile/view?id=87349943
 
   health-hackathon:
     - name: "Jury"
