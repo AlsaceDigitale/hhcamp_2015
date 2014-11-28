@@ -35,6 +35,16 @@
               <p>
                 {{ event.description }}
               </p>
+              {% if event.name == 'Health Hackathon' %}
+              <div class="row">
+                <div class="col-xs-12 col-sm-12">
+                  <a href="http://hhcamp.sparkboard.com" class="btn btn-white btn-block">
+                    Look at challenges and submit your own !
+                  </a>
+                </div>
+              </div>
+              <br/>
+              {% endif %}
               <div class="row">
                 <div class="col-xs-12 col-sm-7">
                   {% assign event_url = mnemonic | append:'.html' %}
