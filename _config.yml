@@ -180,13 +180,13 @@ people:
           twitter:
           linkedin:
         - name: Werner Bachmann
-          description: ""
+          description: "German Health lawyer - Partner in der Kanzlei Friedrich Graf von Westphalen&Partner"
           twitter:
-          linkedin:
+          linkedin: profile/view?id=19779877
         - name: Pascal Zellner
           description: "Hospital worker at SAMU 73. Emergency doctor and mountain rescuer since 1996"
           twitter: pzellner
-          linkedin: /profile/view?id=87349943
+          linkedin: profile/view?id=87349943
 
   health-hackathon:
     - name: "Jury"
