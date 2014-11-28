@@ -1,4 +1,4 @@
-### The second annual hackathon will run from Friday evening to Sunday evening. Health professionals, developers and designers will create prototypes based on challenges submitted before the event.
+## The second annual hackathon will run from Friday evening to Sunday evening. Health professionals, developers and designers will create prototypes based on challenges submitted before the event.
 
 We use a “hacker” inspired approach that combines front-line user experience with talent from diverse fields to generate innovative concepts that can be rapidly prototyped and refined. While the term “hacker” has had inappropriately negative connotation, “hacking” simply means to challenge seemingly entrenched problems by testing innovative concepts and ideas through the rapid building and testing of low-cost prototypes.
 
