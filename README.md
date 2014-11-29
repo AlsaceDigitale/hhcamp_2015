@@ -1,7 +1,7 @@
-hhcamp_wip
+Hacking Health Camp website
 ==========
 
-This website is built by [Github Pages](https://pages.github.com/) which is built on [Jekyll](http://jekyllrb.com).
+This website is hosted by [Github Pages](https://pages.github.com/) which is built on [Jekyll](http://jekyllrb.com).
 
 First, install jekyll:
 ```
