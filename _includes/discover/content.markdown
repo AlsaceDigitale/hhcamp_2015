@@ -2,6 +2,18 @@
 
 ##Hacking Health Camp is a 4 day international event dedicated to breaking down the barriers for innovation in healthcare. Each day, an event creates a space for health professionals, designers, hackers, makers and entrepreneurs to collaborate. It’s an event for anyone interested in health innovation as it rallies health and tech professionals around their common interest, helping them discover amazing possibilities for tomorrow’s health.
 
+<div class="row video-container">
+  <div class="col-md-6">
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="//www.youtube.com/embed/01kSXfG_LOs" allowfullscreen></iframe>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="//www.youtube.com/embed/tPeevi8D_04" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
 
 #Event Program
 
