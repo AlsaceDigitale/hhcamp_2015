@@ -54,6 +54,8 @@ During the first edition, health professionals and designers, developers, UX res
 Hacking Health Camp is a place of innovation in action and we are on the fast track to become Europe’s biggest and most important event in healthcare innovation.
 
 ###Past events and outcomes
+<img src="/img/health-hackathon-2.jpg" width="220">
+
 Hacking Health is an international movement: since 2012, over 12 hackathons and dozens of healthcare events took place in Canada and across the world. “**[Hacking Health @ DigitalHealthCamp](http://digitalhealthcamp.eu)**”, the first French edition of the Health hackathon took place in march 2014 in Strasbourg  and more hackathons are scheduled to take place in Hong Kong, Saskatoon, New York and Berlin to name a few.
 
 About the creative energy of **[Hacking Health @ DigitalHealthCamp](http://digitalhealthcamp.eu)** :
@@ -63,6 +65,8 @@ About the creative energy of **[Hacking Health @ DigitalHealthCamp](http://digit
 Uwe Diegel, iHealth founder, march 30th 2014
 
 ####The Hackathon Concept
+
+<img src="/img/health-hackathon-1.jpg" width="220">
 
 50 hours event in which the “users” (health professionals) and the "makers" (designers, developers, UX researchers and engineers) collaborate around challenges submitted before the event. The last day, they present a functional prototype to the jury and the assembly.
 
@@ -90,6 +94,8 @@ Participants had the opportunity to co-create in an exceptional environment fill
  - create a prototype based on consumer requirements and feedback
  - improve your prototype and understanding of the health sector through the advice of industry leaders
 
+<img src="/img/health-hackathon-3.jpg" width="220">
+<img src="/img/health-hackathon-4.jpg" width="220">
 
 #Why ?
 
@@ -100,6 +106,7 @@ At Hacking Health, we aim to create spaces for collaborative, interdisciplinary 
 We define success as making it easier to reach the limit of one’s field and increasing the probability of successfully interfacing with another perspective so it yields an innovative approach. Our underlying mission is learning how to bring pioneers from across diverse fields together through real and meaningful collaborations.
 
 ####WE BELIEVE THAT
+
 Real change comes from the bottom up.
 
 Innovation occurs at the interface of diverse minds and perspectives.
@@ -137,3 +144,5 @@ Alsace Digitale organize other events like Startup Weekends, barcamps, other hac
 Alsace Digitale has created and manage a coworking space in Strasbourg : La Plage.
 
 Alsace Digitale represents Hacking Health locally in Alsace and supports the organizer’s team.
+
+<img src="/img/hacking-health-crowd.jpg">
