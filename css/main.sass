@@ -730,6 +730,23 @@ section.presentation
   left: 0px
   width: 110px
 
+.tooltip
+  background-color: #c0323b
+  color: white
+  border-radius: 5px
+  opacity: 0
+  display: none
+  position: absolute
+  -webkit-transition: opacity 0.5s
+  -moz-transition: opacity 0.5s
+  -ms-transition: opacity 0.5s
+  -o-transition: opacity 0.5s
+  transition: opacity 0.5s
+
+.hover-description:hover .tooltip
+  display: block
+  opacity: 1
+
 #map_canvas
   height: 400px
 
