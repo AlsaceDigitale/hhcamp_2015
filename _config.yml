@@ -180,11 +180,6 @@ people:
           description: "He has been in charge of 'interfaced products' development at Vidal for 7 seven years. Web API-lover and Vidal's API evangelist."
           twitter:
           linkedin: profile/view?id=72598950
-        - name: Charles Metivier
-          label: "medical"
-          description: ""
-          twitter:
-          linkedin:
         - name: Werner Bachmann
           label: legal
           description: "German Health lawyer - Partner in der Kanzlei Friedrich Graf von Westphalen&Partner"
@@ -195,6 +190,11 @@ people:
           description: "Hospital worker at SAMU 73. Emergency doctor and mountain rescuer since 1996"
           twitter: pzellner
           linkedin: profile/view?id=87349943
+        - name: Charles Metivier
+          label: "medical"
+          description: ""
+          twitter:
+          linkedin:
 
   health-hackathon:
     - name: "Jury"
