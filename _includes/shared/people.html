@@ -39,6 +39,11 @@
                         <i class="fa fa-linkedin"></i>
                       </a>
                     {% endif %}
+                    {% if person.website %}
+                      <a href="http://{{ person.website }}" target="_blank">
+                        <i class="fa fa-info-circle"></i>
+                      </a>
+                    {% endif %}
                 </div>
                </div>
               </div>
