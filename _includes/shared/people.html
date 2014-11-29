@@ -18,7 +18,7 @@
       </div>
       <div class="row">
         {% for person in section_list %}
-          <div class="col-xs-6 col-md-4 text-center person">
+          <div class="col-xs-4 col-md-3 {% if sectionKey == 'future-of-health' %}col-lg-3{% endif %} {% if sectionKey != 'future-of-health' %}col-lg-2{% endif %} text-center person">
             <div class="hover-description thumbnail">
               {% if sectionKey == 'health-data-day' %}
               <div class="speaker-caption {{person.label}}">{{person.label | upcase }}</div>
