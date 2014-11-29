@@ -14,3 +14,10 @@ We suggest different levels of support, please [contact us](mailto:s.letelie@hac
           See our sponsorships offers !
         </a>
 
+> Outstanding organization, enthusiastic project teams and highly inspiring entrepreneurs. A unique blend that makes hackathon a true innovation hot spot.
+
+Jean-Luc Dimarcq - IHU
+
+> It was fun, interesting and professional to participate as member of the Jury at the first French Hackathon in Strasbourg. I was inspired by the imagination of all the teams and for Leader Health my company it was a great value to understand new needs of the French health system.
+
+Thierry Courbis - Leader Health
