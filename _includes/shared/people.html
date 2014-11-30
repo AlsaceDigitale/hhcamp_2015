@@ -49,8 +49,7 @@
               </div>
 	  	   	  <div class="h5 text-center">{{ person.name }}</div>
 	           	{% if person.description %}
-	           	{% assign tooltip_content = person.description | markdownify %}
-               <div class="tooltip">{{ tooltip_content }}</div>
+               <div class="tooltip">{{ person.description | markdownify }}</div>
 	            {% endif %}
 			</div>
           </div>
