@@ -11,3 +11,6 @@ The event strives to reflect both on the technological aspects and the important
 
 We want to provide health tech companies with the opportunity to present their products and explain how developers and users can benefit from them. We want to help the health industry understand the value of adopting an open data policy, as we believe the health sector needs a paradigm shift if it wants to develop more sustainable and actionable solutions.
 
+<a href="https://docs.google.com/forms/d/1fom6Foe2OZWkijKve5QQNf6b9SgMCRGP_e00lHstJZk/viewform?usp=send_form" class="btn btn-primary btn-block">
+                  > Call for speakers ! <
+                </a>
