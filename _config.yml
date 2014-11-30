@@ -242,8 +242,7 @@ people:
           linkedin: profile/view?id=114073742
         - name: Pascal Bastien
           description: "team coaching"
-          twitter:
-          linkedin:
+        - name: Délia Drahal-Lofskog
 
 schedules:
   future-of-health:
