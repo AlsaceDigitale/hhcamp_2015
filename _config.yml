@@ -123,6 +123,7 @@ people:
           linkedin: profile/view?id=45618053
         - name: Armand Dupuis
           linkedin: /profile/view?id=216751962
+          twitter: DupuisArmand
   future-of-health:
     - name: "Speakers"
       list:
@@ -144,15 +145,12 @@ people:
           twitter: ZaynaKhayat
           linkedin: in/zkhayat
         - name: To be announced soon
-          description: ""
           twitter:
           linkedin:
         - name: To be announced soon
-          description: ""
           twitter:
           linkedin:
         - name: To be announced soon
-          description: ""
           twitter:
           linkedin:
   health-pitch-challenge:
@@ -208,7 +206,6 @@ people:
           linkedin: profile/view?id=87349943
         - name: Charles Metivier
           label: "medical"
-          description: ""
           twitter:
           linkedin:
 
@@ -218,13 +215,9 @@ people:
         - name: Gilles Bontemps
           description: doctor and associate director at ANAP. [Learn More](http://www.anap.fr/).
         - name: To be announced soon !
-          description: ""
         - name: To be announced soon !
-          description: ""
         - name: To be announced soon !
-          description: ""
         - name: To be announced soon !
-          description: ""
     - name: "Mentors"
       list:
         - name: Elalami Lafkih
