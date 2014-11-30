@@ -382,11 +382,11 @@ question_and_answers:
     - question: "Why a hackathon dedicated to healthcare ?"
       answer: "Health professionals have problems but don't have technical skills to reslove them. Patient need solutions for their health problems, sometimes there's a good way to find with new technologies."
     - question: "Who's come ?"
-      answer: "Health professionals (clinicians, nurse, admin, ...), software engineers, UX experts, designers, entrepreneur, etc want to collaborate on health problems and find new solutions."
+      answer: "Health professionals (clinicians, nurse, admin, ...), patients, hackers, makers, software engineers, UX experts, designers, entrepreneurs, etc want to collaborate on health problems and find new solutions."
     - question: "Who can submit a challenge ?"
       answer: "Anyone who brings a healthcare-related idea will have the opportunity to pitch it to the group, and try to assemble the right team to move it forward."
     - question: "When could I submit a challenge ?"
-      answer: "As soon as the sparkboard is open. Subscribe to <a href='http://eepurl.com/Gbes1' target='_blank'>mailing-list</a> to be notified."
+      answer: "Add your challenge on the <a href='http://hhcamp.sparkboard.com'>sparkboard</a>."
     - question: "Until when could I submit a challenge ?"
       answer: "Until event start, march 22nd midnight."
     - question: "How to build a team ?"
@@ -400,11 +400,11 @@ question_and_answers:
     - question: "Can I get a refund once I've purchased a ticket ?"
       answer: "Yes, but the deadline for refunds is a week prior to the start of the event. With only a week left until the event starts, we can only exchange your ticket if you're able to find another participant."
     - question: "Where can we sleep ?"
-      answer: "In hotels around. Partnership is in the box, stay tuned !"
+      answer: "Find all information on <a href='venue.html'>venue</a> page."
     - question: "Who organize ?"
       answer: "<a href='http://www.hackinghealth.ca' target='_blank'>Hacking Health</a> and <a href='http://www.alsacedigitale.org' target='_blank'>Alsace Digitale</a>"
     - question: "How many attendees will be there ?"
-      answer: "300"
+      answer: "500 during full event, 300 on Future of Health, 300 on Health Data Day and Hackathon"
     - question: "Don't find your answer ?"
       answer: "<a href='mailto:s.letelie@hackinghealth.ca' target='_blank'>Contact us</a>"
 
@@ -551,6 +551,8 @@ partners:
       url: http://www.syntec-numerique.fr/
     - name: Arrow
       url: http://www.arrowecs.fr/
+    - name: Interaction Healthcare
+      url: http://www.interaction-healthcare.com/
   media:
     - name: BUZZ-ESANTE
       url: http://buzz-esante.com/

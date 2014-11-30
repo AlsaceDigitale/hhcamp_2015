@@ -1,3 +1,41 @@
+<div class="row">
+  <div class="col-md-6">
+
+<h3>Future of Health and Health Pitch Challenge location</h3>
+
+<p>Auditorium du conservatoire de musique</p>
+
+<p>Place de l'étoile</p>
+
+<p>67000 Strasbourg</p>
+
+<h3>Health Data Day and Health Hackathon</h3>
+
+<p>Faculté de médecine</p>
+
+<p>1, rue Humann</p>
+
+<p>67000 Strasbourg</p>
+
+  </div>
+  <div class="col-md-6">
+
+<h3>Hotels suggestions</h3>
+
+<p><a href="http://www.ibis.com/fr/hotel-1428-ibis-strasbourg-centre-ponts-couverts/index.shtml" target="_blank">Hôtel ibis Strasbourg Centre Ponts Couverts</a></p>
+
+<p>7 RUE DE MOLSHEIM - 67000 - STRASBOURG</p>
+
+<p>TEL : +33 (0)3 90 22 48 70 - FAX : +33 (0)3 90 22 48 60</p>
+
+<p><a href="http://www.les-haras-hotel.com/" target="_blank">Hôtel Les Haras ****</a></p>
+
+<p>23, rue des Glacières - 67000 - STRASBOURG</p>
+
+<p>Tel. : +33 (0)3 90 20 50 00 - Fax : +33 (0)3 90 20 50 10</p>
+
+  </div>
+</div>
 
 <div id="legend">
     <div>
