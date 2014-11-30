@@ -1,19 +1,17 @@
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Hacking Health Camp{% if page.title %} - {{ page.title }}{% endif %}</title>
-    <meta name="description" content="{{ site.description }}">
-    <link href='http://fonts.googleapis.com/css?family=Lato:400,100,100italic,300italic,300,400italic,700,700italic,900italic,900' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400' rel='stylesheet' type='text/css'>
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
-  <meta property="og:title" content="Hacking Health Camp : healthcare innovation in action"/>
+  <title>Hacking Health Camp{% if page.title %} - {{ page.title }}{% endif %}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link href='http://fonts.googleapis.com/css?family=Lato:400,100,100italic,300italic,300,400italic,700,700italic,900italic,900' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400' rel='stylesheet' type='text/css'>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:title" content="{% if page.og_title %}{{ page.og_title }}{% else %}Hacking Health Camp : healthcare innovation in action{% endif %}"/>
   <meta property="og:type" content="website"/>
-  <meta property="og:description" content="march 19th to 22nd 2014, Hacking Health Camp is a global event for all people interested in health innovation, inspiring health professionals, patients, developers, hackers, designers and UX researchers about their common amazing possibilities in tomorrow's health."/>
-  <meta property="og:image" content="http://hackinghealth.camp/img/hacking-health-crowd.jpg"/>
-
+  <meta property="og:description" content="{% if page.og_description %}{{ page.og_description }}{% else %}march 19th to 22nd 2014, Hacking Health Camp is a global event for all people interested in health innovation, inspiring health professionals, patients, developers, hackers, designers and UX researchers about their common amazing possibilities in tomorrow's health.{% endif %}"/>
+  <meta property="og:image" content="{{ site.url }}/img/{% if page.og_image %}{{ page.og_image }}{% else %}hacking-health-crowd.jpg{% endif %}"/>
 </head>
