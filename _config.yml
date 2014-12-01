@@ -158,7 +158,8 @@ people:
       list:
         - name: Visible Patient
           website: www.visiblepatient.com
-        - name: To be announced soon
+        - name: i-Nside
+          website: www.i-nside.com
         - name: To be announced soon
         - name: To be announced soon
         - name: To be announced soon
@@ -514,7 +515,7 @@ partners:
     - name: Alsace eSanté
       url: https://www.sante-alsace.fr/cms
     - name: Health 2.0
-      url: http://www.health2con.com/
+      url: http://www.health2con.com/events/conferences/spring-fling-barcelona-2015/
     - name: Epitech
       url: http://www.epitech.eu/
     - name: Hack your phd
