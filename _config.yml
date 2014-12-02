@@ -124,6 +124,10 @@ people:
         - name: Armand Dupuis
           linkedin: /profile/view?id=216751962
           twitter: DupuisArmand
+        - name: Nicolas Griselle
+          linkedin: /profile/view?id=314102671
+          twitter: nicolasgriselle
+        - name: Joris Muller
   future-of-health:
     - name: "Speakers"
       list:
@@ -570,6 +574,8 @@ partners:
       url: http://med.unistra.fr/
     - name: semia
       url: http://www.semia-incal.fr/
+    - name: bress healthcare
+      url: http://bress.healthcare/
   media:
     - name: BUZZ-ESANTE
       url: http://buzz-esante.com/
