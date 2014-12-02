@@ -472,9 +472,14 @@ hardwaresoftware:
     link_title: "Learn More"
   - image: "arrow"
     title: "Virtual Machines \ Arrow ECS"
-    description: "Health and private Data"
+    description: "Health and private Data hosting"
     link: "http://www.arrowecs.fr/actualites/article.php?id=1932"
     link_title: "Learn More"
+  - image: "atlasante"
+    title: "atlaSanté"
+    description: "public health data geomapping all health establishment in france could be combined with any other information on demand"
+    link: "http://www.atlasante.fr/accueil/geoservice"
+    link_title: "Documentation"
 
 
 social_links:
