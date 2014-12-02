@@ -480,6 +480,11 @@ hardwaresoftware:
     description: "public health data geomapping all health establishment in france could be combined with any other information on demand"
     link: "http://www.atlasante.fr/accueil/geoservice"
     link_title: "Documentation"
+  - image: "muse"
+    title: "Muse HeadBand"
+    description: "Muse: the brain sensing headband."
+    link: "http://www.choosemuse.com/developer-kit/"
+    link_title: "Documentation"
 
 
 social_links:
