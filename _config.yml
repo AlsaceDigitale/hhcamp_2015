@@ -213,7 +213,7 @@ people:
         - name: Charles Metivier
           label: "medical"
           twitter:
-          linkedin:
+          linkedin: /profile/view?id=11785464
 
   health-hackathon:
     - name: "Jury"
