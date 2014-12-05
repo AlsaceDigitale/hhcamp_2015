@@ -522,6 +522,10 @@ partners:
       url: http://www.icanopee.fr/index.php/fr/
     - name: IHU
       url: http://www.ihu-strasbourg.eu/ihu/
+    - name: insimo
+      url: http://www.insimo.fr/
+    - name: visible patient
+      url: http://www.visiblepatient.com/
   regular:
     - name: ARS
       url: http://www.ars.alsace.sante.fr/Internet.alsace.0.html
@@ -577,8 +581,6 @@ partners:
       url: http://www.semia-incal.fr/
     - name: bress healthcare
       url: http://bress.healthcare/
-    - name: insimo
-      url: http://www.insimo.fr/
   media:
     - name: BUZZ-ESANTE
       url: http://buzz-esante.com/
