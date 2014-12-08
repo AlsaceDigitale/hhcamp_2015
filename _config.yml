@@ -214,6 +214,11 @@ people:
           label: "medical"
           twitter:
           linkedin: /profile/view?id=11785464
+        - name: Nicolas Vayatis
+          description: "Director of CMLA at École Normale Supérieure de Cachan. [Website](http://nvayatis.perso.math.cnrs.fr/)"
+          label: "technical"
+          twitter:
+          linkedin: /pub/nicolas-vayatis/b/495/510
 
   health-hackathon:
     - name: "Jury"
