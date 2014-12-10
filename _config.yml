@@ -219,6 +219,11 @@ people:
           label: "technical"
           twitter:
           linkedin: /pub/nicolas-vayatis/b/495/510
+        - name: Délia Drahal-Lofskog
+          description: 
+          label: "legal"
+          twitter:
+          linkedin: 
 
   health-hackathon:
     - name: "Jury"
