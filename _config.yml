@@ -236,10 +236,10 @@ people:
           twitter:
           linkedin: /pub/nicolas-vayatis/b/495/510
         - name: Délia Drahal-Lofskog
-          description: 
+          description:
           label: "legal"
           twitter:
-          linkedin: 
+          linkedin:
 
   health-hackathon:
     - name: "Jury"
@@ -536,8 +536,6 @@ partners:
     - name: Samsung
       url: http://www.samsung.com
   silver:
-    - name: GE Healthcare
-      url: http://www3.gehealthcare.com/en/global_gateway
     - name: Doctissimo
       url: http://www.doctissimo.fr
     - name: ASIP Santé
@@ -555,13 +553,13 @@ partners:
       url: http://www.ihu-strasbourg.eu/ihu/
     - name: insimo
       url: http://www.insimo.fr/
+    - name: fac medecine strasbourg
+      url: http://med.unistra.fr/
   regular:
-    - name: ARS
-      url: http://www.ars.alsace.sante.fr/Internet.alsace.0.html
+    - name: IRCAD
+      url: http://www.ircad.fr
     - name: Alsace Biovalley
       url: http://www.alsace-biovalley.com/
-    - name: Alsace eSanté
-      url: https://www.sante-alsace.fr/cms
     - name: Health 2.0
       url: http://www.health2con.com/events/conferences/spring-fling-barcelona-2015/
     - name: Epitech
@@ -586,6 +584,8 @@ partners:
       url: http://www.alsace.cci.fr/
     - name: Club JADE
       url: http://www.club-jade.fr/
+    - name: Alsace eSanté
+      url: https://www.sante-alsace.fr/cms
     - name: Alsace Innovation
       url: http://www.alsaceinnovation.eu/
     - name: TICBioMed
@@ -600,8 +600,8 @@ partners:
       url: http://www.interaction-healthcare.com/
     - name: healthstartup
       url: http://www.healthstartup.eu/
-    - name: fac medecine strasbourg
-      url: http://med.unistra.fr/
+    - name: ARS
+      url: http://www.ars.alsace.sante.fr/Internet.alsace.0.html
     - name: semia
       url: http://www.semia-incal.fr/
     - name: bress healthcare
