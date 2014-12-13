@@ -533,6 +533,8 @@ partners:
       url: http://www.allianz.com/
     - name: Strasbourg
       url: http://strasbourg.eu
+    - name: Samsung
+      url: http://www.samsung.com
   silver:
     - name: GE Healthcare
       url: http://www3.gehealthcare.com/en/global_gateway
@@ -544,6 +546,8 @@ partners:
       url: https://www.infoway-inforoute.ca/index.php
     - name: Région Alsace
       url: http://www.region-alsace.eu
+    - name: VIDAL
+      url: http://www.vidal.fr/
   bronze:
     - name: icanopée
       url: http://www.icanopee.fr/index.php/fr/
@@ -564,8 +568,6 @@ partners:
       url: http://www.epitech.eu/
     - name: Hack your phd
       url: http://hackyourphd.org/
-    - name: VIDAL
-      url: http://www.vidal.fr/
     - name: wellfundr
       url: http://wellfundr.com/
     - name: TheFamily
@@ -588,8 +590,6 @@ partners:
       url: http://www.alsaceinnovation.eu/
     - name: TICBioMed
       url: http://www.ticbiomed.org/
-    - name: Samsung
-      url: http://www.samsung.com
     - name: LeaderHealth
       url: http://www.leaderhealth.ch
     - name: Syntec Numérique
