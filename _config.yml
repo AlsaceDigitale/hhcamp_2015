@@ -639,7 +639,12 @@ blogPost:
   - name: EuroNetMRPH
     title: "Hacking Health Camp, March 19 – 22, Strasbourg"
     url: http://euronetmrph.org/?p=616
+  - name: DNA
+    title: "Le militant de l’e-santé donne rendez-vous "
+    url: http://www.dna.fr/sante/2014/12/13/le-militant-de-l-e-sante-donne-rendez-vous
+  - name: Congres Medical
+    title: "Hacking Health Camp"
+    url: "http://www.congres-medical.com/modules.php?name=3c01_Event&op=plancap_detail&id_plancap=5895"
   - name: Club Digital Santé
     title: "Hacking Health Camp : rendez-vous incontournable de la e-santé en 2015"
     url: http://club-digital-sante.info/2014/12/hacking-health-camp-rendez-vous-incontournable-de-la-e-sante-en-2015/
-
