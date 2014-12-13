@@ -150,7 +150,7 @@ people:
           twitter: ZaynaKhayat
           linkedin: in/zkhayat
         - name: Béatrice Falise-Mirat
-          description: "directeur des affaires publiques et reglementaires chez Orange healthcare"
+          description: "Director of Public and Regulatory Affairs at Orange Healthcare"
           twitter:
           linkedin: pub/beatrice-falise-mirat/93/5b/733
         - name: Thomas Landrain
@@ -158,7 +158,7 @@ people:
           twitter:
           linkedin: pub/thomas-landrain/2a/a48/366
         - name: Cédric O'Neil
-          description: "President at  [1001Pharmacies.com](http://1001Pharmacies.com)" 
+          description: "President at  [1001Pharmacies.com](http://1001Pharmacies.com)"
           twitter:
           linkedin: in/cedriconeill
         - name: Robert Riener
@@ -229,14 +229,14 @@ people:
         - name: Charles Metivier
           label: "medical"
           twitter:
-          linkedin: /profile/view?id=11785464
+          linkedin: profile/view?id=11785464
         - name: Nicolas Vayatis
-          description: "Director of CMLA at École Normale Supérieure de Cachan. [Website](http://nvayatis.perso.math.cnrs.fr/)"
+          description: "Director of CMLA at École Normale Supérieure de Cachan. [Website](http://nvayatis.perso.math.cnrs.fr/). Machine Learning and Massive Data Analisys"
           label: "technical"
           twitter:
-          linkedin: /pub/nicolas-vayatis/b/495/510
+          linkedin: pub/nicolas-vayatis/b/495/510
         - name: Délia Drahal-Lofskog
-          description:
+          description: Head of Health Privacy at [CNIL](http://www.cnil.fr)
           label: "legal"
           twitter:
           linkedin:
