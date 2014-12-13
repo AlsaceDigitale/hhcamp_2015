@@ -150,15 +150,19 @@ people:
           twitter: ZaynaKhayat
           linkedin: in/zkhayat
         - name: Béatrice Falise-Mirat
+          description: "directeur des affaires publiques et reglementaires chez Orange healthcare"
           twitter:
-          linkedin:
+          linkedin: pub/beatrice-falise-mirat/93/5b/733
         - name: Thomas Landrain
+          description: "Co-founder/President of 1st french biotech community lab 'La Paillasse' - PhD student in Synthetic Biology at iSSB"
           twitter:
           linkedin: pub/thomas-landrain/2a/a48/366
         - name: Cédric O'Neil
+          description: "President at  [1001Pharmacies.com](http://1001Pharmacies.com)" 
           twitter:
           linkedin: in/cedriconeill
         - name: Robert Riener
+          description: "Professor at ETH and University of Zurich"
           twitter:
           linkedin: pub/riener-robert/28/434/316
         - name: To be announced soon
