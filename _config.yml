@@ -235,6 +235,12 @@ people:
           label: "legal"
           twitter:
           linkedin:
+        - name: Christophe RICHARD
+          description: "directeur médical chez Santeos (Filiale santé d'Atos Worldline), il est membre du comité santé d
+u Syntec au sein duquel il anime le groupe de travail Open Data/Big Data en Santé. Il est secrétaire général du Collège des médecins des hébergeurs de données de santé (CNMH)."
+          label: "medical"
+          twitter:
+          linkedin:
 
   health-hackathon:
     - name: "Jury"
