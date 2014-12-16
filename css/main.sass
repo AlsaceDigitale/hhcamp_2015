@@ -38,6 +38,9 @@ $asset-path: ''
 
 @import "bootstrap"
 
+.clear
+  clear: both
+
 .hhlogo
   font-family: 'Roboto Condensed', sans-serif
   font-size: 26px
@@ -645,6 +648,29 @@ section.presentation
   #navbar
     margin-top: -40px
 
+@media screen and (min-width: $screen-sm-min) and (max-width: $screen-sm-max)
+  #navbar
+    margin-top: 0
+    padding-left: 0
+  .navbar-header
+    float: left
+  .navbar-brand
+    display: block
+    width: 450px
+    .subtitle,
+    .city
+      display: inline
+  .hhlogo
+    display: block
+    margin-bottom: 15px
+  .navbar-inverse
+    .navbar-collapse
+      float: left !important
+  .home
+    .navbar
+      .intro
+        h1
+          margin-top: 18px
 
 @media screen and (max-width: 767px)
   .navbar-brand
@@ -652,7 +678,7 @@ section.presentation
   .home
     .navbar
       background-image: none
-      height: 540px
+      height: 570px
       .intro
         .buttons
           margin-top: 0
