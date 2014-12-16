@@ -25,3 +25,7 @@ Jean-Luc Dimarcq - IHU
 > It was fun, interesting and professional to participate as member of the Jury at the first French Hackathon in Strasbourg. I was inspired by the imagination of all the teams and for Leader Health my company it was a great value to understand new needs of the French health system.
 
 Thierry Courbis - Leader Health
+
+> Un moment d'exception au sens propre du terme, beaucoup d'échanges, de créativité et des résultats étonnamment aboutis à la fin du Hackathon
+
+Xavier Bonfils - Arrows
