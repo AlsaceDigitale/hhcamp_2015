@@ -14,6 +14,10 @@ We suggest different levels of support, please [contact us](mailto:s.letelie@hac
           See our sponsorships offers !
         </a>
 
+> Le hackathon Hacking Health est l'image même du dynamisme français en matière d'innovation en santé. Le hackathon c'est de l'énergie, de l'innovation et du talent.
+
+Fabrice Nabet - WellFundr
+
 > Outstanding organization, enthusiastic project teams and highly inspiring entrepreneurs. A unique blend that makes hackathon a true innovation hot spot.
 
 Jean-Luc Dimarcq - IHU
