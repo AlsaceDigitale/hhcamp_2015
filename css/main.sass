@@ -5,6 +5,9 @@ $pitch-color: #00c2d1
 $dataday-color: #ffaa3c
 $hackathon-color: #00bc61
 
+$slide-bg: #4fa3cf
+$slide-title-bg: #3584ad
+
 $events: future-of-health $future-color, health-pitch-challenge $pitch-color, health-data-day $dataday-color, health-hackathon $hackathon-color
 
 $default-background-color: #1a1b1d
@@ -213,17 +216,19 @@ section
 
 .home
   .navbar
-    background: $default-background-color url($asset-path + '/img/slide.jpg') no-repeat center center
+    background: $slide-bg url($asset-path + '/img/slide-2.jpg') no-repeat center 80px
+    border-color: $slide-bg
+    border-bottom-color: $navbar-inverse-border
     height: 653px
     .intro
       h1
-        background-color: $brand-primary
+        background-color: $slide-title-bg
         color: white
         display: inline-block
         font-weight: 800
         padding: 15px
         font-style: italic
-        text-shadow: 2px 2px $brand-primary-darker
+        text-shadow: 2px 2px darken($slide-title-bg, 10%)
         margin-top: 40px
       .buttons
         margin-top: 250px
@@ -628,7 +633,15 @@ section.presentation
       background-color: $event-color
       color: white
 
+@media screen and (min-width: $screen-lg-min)
+  .home
+    .navbar
+      background-position: center center
+
 @media screen and (min-width: 768px) and (max-width: 1199px)
+  .home
+    .navbar
+      background-position: 66% 80px
   #navbar
     margin-top: -40px
 
