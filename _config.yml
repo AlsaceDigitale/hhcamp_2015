@@ -236,9 +236,13 @@ people:
           twitter:
           linkedin:
         - name: Christophe RICHARD
-          description: "directeur médical chez Santeos (Filiale santé d'Atos Worldline), il est membre du comité santé d
-u Syntec au sein duquel il anime le groupe de travail Open Data/Big Data en Santé. Il est secrétaire général du Collège des médecins des hébergeurs de données de santé (CNMH)."
+          description: "directeur médical chez Santeos (Filiale santé d'Atos Worldline), il est membre du comité santé du Syntec au sein duquel il anime le groupe de travail Open Data/Big Data en Santé. Il est secrétaire général du Collège des médecins des hébergeurs de données de santé (CNMH)."
           label: "medical"
+          twitter:
+          linkedin:
+        - name: Peter Ohnemus
+          description: "Peter Ohnemus is the founder of the dacadoo Health Score/dacadoo ag, Zurich/Switzerland. Peter has been involved in high-tech and bio-techinvestments over the last 25 years and this had led to four IPO’s andmultiple trade sells."
+          label: "technical"
           twitter:
           linkedin:
 
