@@ -137,7 +137,7 @@ people:
           twitter: uwe
           linkedin: in/uwediegel
         - name: Pierre-Paul Vidal
-          description: MD PhD
+          description: MD PhD, Head of Department [COGNAC-G (COGNition and ACtion Group)](http://www.biomedicale.parisdescartes.fr/~cognac/cognac/) - Université Paris Descartes - CNRS UMR-MD - SSA
           linkedin: profile/view?id=151969844
         - name: Jorge Juan Fernandez Garcia
           description: BHITE polymath (Biomedicine + Healthcare + Innovation + Technology + Entrepreneurship)
@@ -166,7 +166,7 @@ people:
           twitter:
           linkedin: pub/riener-robert/28/434/316
         - name: To be announced soon
-          description: 
+          description:
           twitter:
           linkedin:
   health-pitch-challenge:
@@ -176,7 +176,8 @@ people:
           website: www.visiblepatient.com
         - name: i-Nside
           website: www.i-nside.com
-        - name: To be announced soon
+        - name: Umanlife
+          website: www.umanlife.com
         - name: To be announced soon
         - name: To be announced soon
         - name: To be announced soon
@@ -294,7 +295,7 @@ schedules:
         - title: "10:30am - 11am"
           description: "Uwe Diegel"
         - title: "11am - 11:30am"
-          description: "Pierre-Paul Vidal"
+          description: "Pierre-Paul Vidal - Bodies, networks, digital identities"
         - title: "11:30am - 12am"
           description: "Jorge Juan Fernandez Garcia"
         - title: "12am - 2pm"
@@ -302,7 +303,7 @@ schedules:
         - title: "2pm - 2:30am"
           description: "Jacques Marescaux"
         - title: "2:30pm - 3pm"
-          description: "To be announced soon"
+          description: "Cédric O'Neil - Pharmacist in the digital world"
         - title: "3pm - 3:30pm"
           description: "To be announced soon"
         - title: "3:30pm - 4pm"
