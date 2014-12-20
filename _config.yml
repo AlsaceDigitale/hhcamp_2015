@@ -246,7 +246,16 @@ people:
           label: "technical"
           twitter:
           linkedin:
-
+        - name: Rodolphe Thiebaut
+          description: "Médecin de santé publique, MCU-PH à l'ISPED, Bordeaux [More infos](http://www.isped.u-bordeaux2.fr/FR_HTM_annuaire.aspx?CLE_PERSONNE=314)"
+          label: "medical"
+          twitter:
+          linkedin:
+        - name: Mathias Herberts
+          description: "Disruptive Engineer, Chief Technology Officer, Cofounder at Cityzen Data"
+          label: "technical"
+          twitter: herberts
+          linkedin: in/herberts
   health-hackathon:
     - name: "Jury"
       list:
@@ -279,10 +288,18 @@ people:
           twitter: VeroColligence
           linkedin: profile/view?id=114073742
         - name: Pascal Bastien
-          description: "team coaching"
+          description: "Team coaching"
           linkedin: profile/view?id=11810442
         - name: Délia Drahal-Lofskog
-
+          description: "Legal and privacy"
+        - name: To be announced soon !
+        - name: To be announced soon !
+        - name: To be announced soon !
+        - name: To be announced soon !
+        - name: To be announced soon !
+        - name: To be announced soon !
+        - name: To be announced soon !
+        - name: To be announced soon !
 schedules:
   future-of-health:
     - title: "19th"
