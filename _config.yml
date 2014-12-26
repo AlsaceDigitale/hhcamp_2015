@@ -168,6 +168,10 @@ people:
           description: "Professor at ETH and University of Zurich"
           twitter:
           linkedin: pub/riener-robert/28/434/316
+        - name: Nicolas Colin
+          description: "Co-founder & Partner, TheFamily, with Alice Zagury and Oussama Ammar. Commissioner, Commission nationale de l'informatique et des libertés (CNIL) (nominated by Claude Bartolone, Speaker of the Assemblée nationale). Co-author, with Henri Verdier, of \"L'Âge de la multitude, Entreprendre et gouverner après la révolution numérique\"."
+          twitter: nicolas_colin
+          linkedin: /pub/nicolas-colin/4/5a3/b16
         - name: To be announced soon
           description:
           twitter:
