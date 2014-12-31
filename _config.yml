@@ -15,6 +15,7 @@ markdown: kramdown
 
 fr:
   subtitle: du <span class="day">19</span> au <span class="day">22</span> mars 2015
+  know_more: "TODO Know more"
   nav:
     event: A propos
     agenda: Agenda
@@ -28,8 +29,13 @@ fr:
     ticket_link: TODO Register now !
     newsletter_link: TODO Keep in touch !
     challenge_link: TODO Submit your challenge !
+  discover_home:
+    title: "TODO Discover Hacking Health Camp"
+    description: "TODO <strong>Hacking Health Camp</strong> Hacking Health Camp is a global event for all people interested in health innovation, inspiring health professionals, patients, developers, hackers, designers and UX researchers about their common amazing possibilities in tomorrow's health."
+
 en:
   subtitle: March <span class="day">19</span><sup>th</sup> to <span class="day">22</span><sup>nd</sup> 2015
+  know_more: "Know more"
   nav:
     event: Event
     agenda: Agenda
@@ -43,6 +49,9 @@ en:
     ticket_link: Register now !
     newsletter_link: Keep in touch !
     challenge_link: Submit your challenge !
+  discover_home:
+    title: "Discover Hacking Health Camp"
+    description: "<strong>Hacking Health Camp</strong> Hacking Health Camp is a global event for all people interested in health innovation, inspiring health professionals, patients, developers, hackers, designers and UX researchers about their common amazing possibilities in tomorrow's health."
 
 arguments:
   - name: health-professional-patient

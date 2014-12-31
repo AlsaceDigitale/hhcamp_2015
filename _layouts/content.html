@@ -2,7 +2,7 @@
 layout: default
 ---
 {% include shared/intro.html %}
-{% assign page_path = page.path | remove:'.html' %}
+{% assign page_path = page.path | remove:'.html' | remove:'fr/' %}
 {% capture content %}{% include {{ page_path }}/content.markdown %}{% endcapture %}
 <section class="content">
   <div class="container">

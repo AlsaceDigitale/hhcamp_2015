@@ -3,10 +3,10 @@
     <div class="row">
       <div class="col-xs-12 text-center">
         <h2 class="text-center">
-          Discover Hacking Health Camp
+          {{ site[page.locale].discover_home.title }}
         </h2>
         <p>
-          <strong>Hacking Health Camp</strong> Hacking Health Camp is a global event for all people interested in health innovation, inspiring health professionals, patients, developers, hackers, designers and UX researchers about their common amazing possibilities in tomorrow's health.
+          {{ site[page.locale].discover_home.description }}
         </p>
       </div>
     </div>
@@ -19,9 +19,8 @@
     </div>
     <div class="row">
       <div class="col-xs-12 col-sm-4 col-sm-offset-4">
-        {% assign target_url = "/" | append:page.locale | append:'/discover.html' | prepend: site.baseurl %}
-        <a href='{{ target_url }}' class="btn btn-primary btn-block">
-          Know more
+        <a href='{% if page.locale == "fr" %}/fr/{% else %}/{% endif %}discover.html' class="btn btn-primary btn-block">
+          {{ site[page.locale].know_more }}
         </a>
       </div>
     </div>
