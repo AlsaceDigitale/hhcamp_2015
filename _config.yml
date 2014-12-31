@@ -23,7 +23,11 @@ fr:
     become_sponsor: Devenir sponsor
     venue: Lieu
     last_edition: Édition 2014
-
+  intro:
+    title: "TODO Create the future<br/>of healthcare"
+    ticket_link: TODO Register now !
+    newsletter_link: TODO Keep in touch !
+    challenge_link: TODO Submit your challenge !
 en:
   subtitle: March <span class="day">19</span><sup>th</sup> to <span class="day">22</span><sup>nd</sup> 2015
   nav:
@@ -34,6 +38,11 @@ en:
     become_sponsor: Become Sponsor
     venue: Venue
     last_edition: Last Edition
+  intro:
+    title: "Create the future<br/>of healthcare"
+    ticket_link: Register now !
+    newsletter_link: Keep in touch !
+    challenge_link: Submit your challenge !
 
 arguments:
   - name: health-professional-patient
