@@ -13,6 +13,28 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
+fr:
+  subtitle: du <span class="day">19</span> au <span class="day">22</span> mars 2015
+  nav:
+    event: A propos
+    agenda: Agenda
+    ticket: Ticket
+    hhcamp_and_you: "HH Camp & moi"
+    become_sponsor: Devenir sponsor
+    venue: Lieu
+    last_edition: Édition 2014
+
+en:
+  subtitle: March <span class="day">19</span><sup>th</sup> to <span class="day">22</span><sup>nd</sup> 2015
+  nav:
+    event: Event
+    agenda: Agenda
+    ticket: Ticket
+    hhcamp_and_you: "HH Camp & You"
+    become_sponsor: Become Sponsor
+    venue: Venue
+    last_edition: Last Edition
+
 arguments:
   - name: health-professional-patient
     title: Health professional / Patient

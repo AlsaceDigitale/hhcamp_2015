@@ -19,7 +19,7 @@
           <span class="slant-text">Camp</span>
         </span>
         <span class="subtitle">
-          March <span class="day">19</span><sup>th</sup> to <span class="day">22</span><sup>nd</sup> 2015,
+          {{ site[page.locale].subtitle }},
         </span>
         <span class="city">
           Strasbourg
@@ -40,9 +40,9 @@
     <div class="navbar-collapse collapse pull-right col-xs-12" id="navbar">
       <ul class="nav navbar-nav navbar-right">
         {% assign target_url = '/discover.html' | prepend: site.baseurl %}
-        <li><a href="{{ target_url }}">Event</a></li>
+        <li><a href="{{ target_url }}">{{ site[page.locale].nav.event }}</a></li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Agenda</a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ site[page.locale].nav.agenda }}</a>
           <ul class="dropdown-menu" role="menu">
             {% for event in site.events %}
               {% assign mnemonic = event.name | downcase | replace:' ','-' %}
@@ -58,9 +58,9 @@
           </ul>
         </li>
         {% assign target_url = '/ticket.html' | prepend: site.baseurl %}
-        <li><a href="{{ target_url }}">Ticket</a></li>
+        <li><a href="{{ target_url }}">{{ site[page.locale].nav.ticket }}</a></li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">HH Camp & You</a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ site[page.locale].nav.hhcamp_and_you }}</a>
           <ul class="dropdown-menu" role="menu">
             {% for argument in site.arguments %}
               <li>
@@ -73,15 +73,15 @@
           </ul>
         </li>
         {% assign target_url = '/sponsors.html' | prepend: site.baseurl %}
-        <li><a href="{{ target_url }}">Become Sponsor</a></li>
+        <li><a href="{{ target_url }}">{{ site[page.locale].nav.become_sponsor }}</a></li>
         {% assign target_url = '/venue.html' | prepend: site.baseurl %}
-        <li><a href="{{ target_url }}">Venue</a></li>
+        <li><a href="{{ target_url }}">{{ site[page.locale].nav.venue }}</a></li>
         {% assign target_url = '/last-edition.html' | prepend: site.baseurl %}
-        <li><a href="{{ target_url }}">Last Edition</a></li>
+        <li><a href="{{ target_url }}">{{ site[page.locale].nav.last_edition }}</a></li>
       </ul>
     </div><!--/.nav-collapse -->
   </div>
-  {% if page.url == '/index.html' %}
+  {% if page.url == '/index.html' or page.url == '/fr/index.html' %}
   {% include home/intro.html %}
   {% endif %}
 </nav>
