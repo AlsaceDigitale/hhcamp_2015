@@ -244,11 +244,11 @@ people:
           description: "Avocat au Barreau de Paris et Correspondant Informatique et Libertés (CIL), Pierre Desmarais exerce une activité de conseil en droit de la santé et des nouvelles technologies. Il accompagne au quotidien des start-ups développant des produits et services innovants dans le domaine de la santé, de l’opendata et de l’e-santé. Il est également chargé d’enseignement au Conservatoire National des Arts et Métiers (CNAM) et à l'Université Paris VIII."
           twitter: DesmaraisPierre
           linkedin: profile/view?id=88478484
-        - name: Louis Lyu
+        - name: Louie Lyu
           label: technical
-          description: "iHealthLabs CTO - Head developer of iHealth API"
+          description: "Chief Integration Officer Project Manager of Enterprise Solutions iHealthLabs EUROPE SARL. I come from the background of optical-electronic engineering and biological sensing, and my current work in iHealthLabs EUROPE is concentrating on medical data integration, enterprise solution development and eco-system analysis in mobile health industry. I believe people deserve better health treatment and life condition by using the most advanced technology."
           twitter:
-          linkedin:
+          linkedin: /in/louielyu
         - name: Sofie van der Meulen
           label: legal
           description: "At Axon lawyers Sofie specializes in EU and national legal and regulatory issues relating to medical devices, with a special focus on medical software, big data & data protection."
