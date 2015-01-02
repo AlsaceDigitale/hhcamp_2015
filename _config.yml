@@ -16,6 +16,10 @@ markdown: kramdown
 fr:
   subtitle: du <span class="day">19</span> au <span class="day">22</span> mars 2015
   know_more: "TODO Know more"
+  submit_challenge_link: "TODO Submit your challenge!"
+  challenge_list_link: "TODO Look at challenges!"
+  cfp_link: "TODO Call for speakers!"
+  submit_startup_link: "TODO Submit your startup!"
   nav:
     event: A propos
     agenda: Agenda
@@ -32,10 +36,49 @@ fr:
   discover_home:
     title: "TODO Discover Hacking Health Camp"
     description: "TODO <strong>Hacking Health Camp</strong> Hacking Health Camp is a global event for all people interested in health innovation, inspiring health professionals, patients, developers, hackers, designers and UX researchers about their common amazing possibilities in tomorrow's health."
+  arguments_block:
+    title: "TODO Join the largest european hackathon on healthcare"
+  arguments:
+    - name: health-professional-patient
+      title: TODO Health professional / Patient
+      description: "TODO Collaborate with tech experts to solve problems in healthcare. Let your ideas inspire practical solutions. Share your experience and daily life usability."
+    - name: developer-designer
+      title: TODO Hacker / Designer
+      description: "TODO Transform everyday healthcare challenges into real solutions. Work on meaningful problems. Help improve healthcare. Get connected, and practice your skills."
+    - name: entrepreneur-health-involved
+      title: TODO Entrepreneur / Health involved
+      description: "TODO Collaborate with health professional and tech experts to solve problems in healthcare. Give us your business skills to build a powerful and viable solutions on the market."
+  events_block:
+    title: "TODO Inspire, Learn, Act, 4 days to build the future of health."
+  events:
+    - name: Future of Health
+      verb: TODO Inspire
+      date: "Jeudi 19 mars 2015, de 9h30 à 17h"
+      venue: Auditorium du conservatoire de musique - 1 place Dauphine - Strasbourg
+      description: "TODO A entire day of inspiring and forward-thinking conferences on the future of health by a line up of internationally-recognized health mentors. Jacques Marescaux (first surgeon apply remote surgery with robot), Uwe Diegel (president of iHealth Labs), Jorge Juan Fernandez Garcia (leading Spanish children's hospital in Spain) and many more will give their vision on future of healthcare. If you like TED conference you will like to come there especially if you're interested in healthcare."
+    - name: Health Pitch Challenge
+      verb: TODO Bonus
+      date: "Jeudi 19 mars 2015, de 19h à 22h"
+      venue: Auditorium du conservatoire de musique - 1 place Dauphine - Strasbourg
+      description: "TODO A festive event dedicated to health startups, complete with the presence of investors. Early-stage startups will pitch; attendees will vote by investing in their favorite startups with fake banknotes. The winner will be the one who raises the most money."
+    - name: Health Data Day
+      verb: TODO Learn
+      date: "Vendredi 20 mars 2015, de 9h à 17h"
+      venue: Forum de la faculté de médecine - 1 rue Humann - Strasbourg
+      description: "TODO A full day of workshops and conferences centered around the technical, medical and legal aspects of producing, consuming and analyse health data. International speakers will come to help you better understand healthcare ecosystem and opportunity. Big Data and API will be demystified with concrete experience."
+    - name: Health Hackathon
+      verb: TODO Act
+      date: "Du vendredi 20 mars 17h au dimanche 22 mars à 17h"
+      venue: Forum de la faculté de médecine - 1 rue Humann - Strasbourg
+      description: "TODO The second annual hackathon will run from Friday evening to Sunday evening. Health professionals, patients, hackers, developers and designers will create prototypes based on challenges submitted before the event."
 
 en:
   subtitle: March <span class="day">19</span><sup>th</sup> to <span class="day">22</span><sup>nd</sup> 2015
   know_more: "Know more"
+  submit_challenge_link: "Submit your challenge!"
+  challenge_list_link: "Look at challenges!"
+  cfp_link: "Call for speakers!"
+  submit_startup_link: "Submit your startup!"
   nav:
     event: Event
     agenda: Agenda
@@ -52,39 +95,41 @@ en:
   discover_home:
     title: "Discover Hacking Health Camp"
     description: "<strong>Hacking Health Camp</strong> Hacking Health Camp is a global event for all people interested in health innovation, inspiring health professionals, patients, developers, hackers, designers and UX researchers about their common amazing possibilities in tomorrow's health."
-
-arguments:
-  - name: health-professional-patient
-    title: Health professional / Patient
-    description: "Collaborate with tech experts to solve problems in healthcare. Let your ideas inspire practical solutions. Share your experience and daily life usability."
-  - name: developer-designer
-    title: Hacker / Designer
-    description: "Transform everyday healthcare challenges into real solutions. Work on meaningful problems. Help improve healthcare. Get connected, and practice your skills."
-  - name: entrepreneur-health-involved
-    title: Entrepreneur / Health involved
-    description: "Collaborate with health professional and tech experts to solve problems in healthcare. Give us your business skills to build a powerful and viable solutions on the market."
-
-events:
-  - name: Future of Health
-    verb: Inspire
-    date: "Thursday, March 19th, 9:30 AM - 5 PM"
-    venue: Auditorium du conservatoire de musique - 1 place Dauphine - Strasbourg
-    description: "A entire day of inspiring and forward-thinking conferences on the future of health by a line up of internationally-recognized health mentors. Jacques Marescaux (first surgeon apply remote surgery with robot), Uwe Diegel (president of iHealth Labs), Jorge Juan Fernandez Garcia (leading Spanish children's hospital in Spain) and many more will give their vision on future of healthcare. If you like TED conference you will like to come there especially if you're interested in healthcare."
-  - name: Health Pitch Challenge
-    verb: Bonus
-    date: "Thursday, March 19th, 7:00 PM - 10:00 PM"
-    venue: Auditorium du conservatoire de musique - 1 place Dauphine - Strasbourg
-    description: "A festive event dedicated to health startups, complete with the presence of investors. Early-stage startups will pitch; attendees will vote by investing in their favorite startups with fake banknotes. The winner will be the one who raises the most money."
-  - name: Health Data Day
-    verb: Learn
-    date: "Friday, March 20th, 9:00 AM - 5:00 PM"
-    venue: Forum de la faculté de médecine - 1 rue Humann - Strasbourg
-    description: "A full day of workshops and conferences centered around the technical, medical and legal aspects of producing, consuming and analyse health data. International speakers will come to help you better understand healthcare ecosystem and opportunity. Big Data and API will be demystified with concrete experience."
-  - name: Health Hackathon
-    verb: "Act"
-    date: "Friday, March 20th, 5:00 PM to Sunday, March 8:00 PM"
-    venue: Forum de la faculté de médecine - 1 rue Humann - Strasbourg
-    description: "The second annual hackathon will run from Friday evening to Sunday evening. Health professionals, patients, hackers, developers and designers will create prototypes based on challenges submitted before the event."
+  arguments_block:
+    title: "Join the largest european hackathon on healthcare"
+  arguments:
+    - name: health-professional-patient
+      title: Health professional / Patient
+      description: "Collaborate with tech experts to solve problems in healthcare. Let your ideas inspire practical solutions. Share your experience and daily life usability."
+    - name: developer-designer
+      title: Hacker / Designer
+      description: "Transform everyday healthcare challenges into real solutions. Work on meaningful problems. Help improve healthcare. Get connected, and practice your skills."
+    - name: entrepreneur-health-involved
+      title: Entrepreneur / Health involved
+      description: "Collaborate with health professional and tech experts to solve problems in healthcare. Give us your business skills to build a powerful and viable solutions on the market."
+  events_block:
+    title: "Inspire, Learn, Act, 4 days to build the future of health."
+  events:
+    - name: Future of Health
+      verb: Inspire
+      date: "Thursday, March 19th, 9:30 AM - 5 PM"
+      venue: Auditorium du conservatoire de musique - 1 place Dauphine - Strasbourg
+      description: "A entire day of inspiring and forward-thinking conferences on the future of health by a line up of internationally-recognized health mentors. Jacques Marescaux (first surgeon apply remote surgery with robot), Uwe Diegel (president of iHealth Labs), Jorge Juan Fernandez Garcia (leading Spanish children's hospital in Spain) and many more will give their vision on future of healthcare. If you like TED conference you will like to come there especially if you're interested in healthcare."
+    - name: Health Pitch Challenge
+      verb: Bonus
+      date: "Thursday, March 19th, 7:00 PM - 10:00 PM"
+      venue: Auditorium du conservatoire de musique - 1 place Dauphine - Strasbourg
+      description: "A festive event dedicated to health startups, complete with the presence of investors. Early-stage startups will pitch; attendees will vote by investing in their favorite startups with fake banknotes. The winner will be the one who raises the most money."
+    - name: Health Data Day
+      verb: Learn
+      date: "Friday, March 20th, 9:00 AM - 5:00 PM"
+      venue: Forum de la faculté de médecine - 1 rue Humann - Strasbourg
+      description: "A full day of workshops and conferences centered around the technical, medical and legal aspects of producing, consuming and analyse health data. International speakers will come to help you better understand healthcare ecosystem and opportunity. Big Data and API will be demystified with concrete experience."
+    - name: Health Hackathon
+      verb: "Act"
+      date: "Friday, March 20th, 5:00 PM to Sunday, March 8:00 PM"
+      venue: Forum de la faculté de médecine - 1 rue Humann - Strasbourg
+      description: "The second annual hackathon will run from Friday evening to Sunday evening. Health professionals, patients, hackers, developers and designers will create prototypes based on challenges submitted before the event."
 
 testimonies:
   developer:
