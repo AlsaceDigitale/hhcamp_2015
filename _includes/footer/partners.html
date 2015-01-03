@@ -4,9 +4,9 @@
       <div class="col-xs-12">
         <div class="h2 text-center">
           {% if page.path == "sponsors.html" %}
-          They already support us
+          {{ site[page.locale].sponsors_page_title }}
           {% else %}
-          Partners
+          {{ site[page.locale].partner }}s
           {% endif %}
         </div>
       </div>
@@ -14,7 +14,13 @@
     {% for category in site.partners %}
       <div class="row category">
         <div class="col-xs-12">
-          <h3 class="h5">{% if category[0] != "regular" %}{{ category[0] }} {% endif %}Partners</h3>
+          <h3 class="h5">
+            {% if page.locale == "fr" %}
+              {{ site[page.locale].partner }}s {% if category[0] != "regular" %}{{ category[0] }} {% endif %}
+            {% else %}
+              {% if category[0] != "regular" %}{{ category[0] }} {% endif %}{{ site[page.locale].partner }}s
+            {% endif %}
+          </h3>
           <ul class="list-inline">
           {% for partner in category[1] %}
             <li>
