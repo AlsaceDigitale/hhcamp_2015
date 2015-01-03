@@ -20,6 +20,9 @@ fr:
   challenge_list_link: "Consultez les défis!"
   cfp_link: "Appel au speakers!"
   submit_startup_link: "Proposez votre startup !"
+  quote:
+    blockquote: "TODO We all regret we were not in Steve Job's garage in the 70's, but in 30 days, you will be able to say that you were here in Strasbourg today..."
+    cite: "TODO Uwe Diegel, iHealth Founder, March 30th 2014"
   nav:
     event: A propos
     agenda: Agenda
@@ -79,6 +82,9 @@ en:
   challenge_list_link: "Look at challenges!"
   cfp_link: "Call for speakers!"
   submit_startup_link: "Submit your startup!"
+  quote:
+    blockquote: "We all regret we were not in Steve Job's garage in the 70's, but in 30 days, you will be able to say that you were here in Strasbourg today..."
+    cite: "Uwe Diegel, iHealth Founder, March 30th 2014"
   nav:
     event: Event
     agenda: Agenda
