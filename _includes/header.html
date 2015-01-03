@@ -62,10 +62,10 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ site[page.locale].nav.hhcamp_and_you }}</a>
           <ul class="dropdown-menu" role="menu">
-            {% for argument in site.arguments %}
+            {% for argument in site[page.locale].arguments %}
               <li>
-                {% assign target_url = '/' | append:argument.name | downcase | append:'.html' | prepend: site.baseurl %}
-                <a href="{{ target_url }}">
+                {% assign target_url = '/' | append:argument.name | downcase | append:'.html' %}
+                <a href="{% if page.locale == "fr" %}/fr{% else %}{% endif %}{{ target_url }}">
                   {{ argument.title }}
                 </a>
               </li>
