@@ -7,7 +7,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </a>
-      <a href="{{ site.baseurl | prepend: site.url }}" class="navbar-brand">
+      <a href="{% if page.locale == "fr" %}/fr/{% else %}/{% endif %}" class="navbar-brand">
         <span class="hhlogo">
           {% assign img_url = "/img/hhlogo.svg" | prepend: site.baseurl %}
           <img src="{{ img_url }}" />
