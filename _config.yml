@@ -25,6 +25,20 @@ fr:
   quote:
     blockquote: "TODO We all regret we were not in Steve Job's garage in the 70's, but in 30 days, you will be able to say that you were here in Strasbourg today..."
     cite: "TODO Uwe Diegel, iHealth Founder, March 30th 2014"
+  contact_block:
+    title: TODO Contact us
+    general_information:
+      title: TODO General Information
+      description: TODO Keep inform on event
+      button_link: TODO Contact
+    sponsorship:
+      title: TODO Sponsorship
+      description: TODO Take part in health innovation
+      button_link: TODO Contact
+    volunteering:
+      title: TODO Volunteering
+      description: TODO We need you!
+      button_link: TODO Contact
   nav:
     event: A propos
     agenda: Agenda
@@ -89,6 +103,20 @@ en:
   quote:
     blockquote: "We all regret we were not in Steve Job's garage in the 70's, but in 30 days, you will be able to say that you were here in Strasbourg today..."
     cite: "Uwe Diegel, iHealth Founder, March 30th 2014"
+  contact_block:
+    title: Contact us
+    general_information:
+      title: General Information
+      description: Keep inform on event
+      button_link: Contact
+    sponsorship:
+      title: Sponsorship
+      description: Take part in health innovation
+      button_link: Contact
+    volunteering:
+      title: Volunteering
+      description: We need you!
+      button_link: Contact
   nav:
     event: Event
     agenda: Agenda
