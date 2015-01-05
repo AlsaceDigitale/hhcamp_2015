@@ -3,7 +3,13 @@ layout: default
 ---
 {% include shared/intro.html %}
 {% assign page_path = page.path | remove:'.html' | remove:'fr/' %}
-{% capture content %}{% include {{ page_path }}/content.markdown %}{% endcapture %}
+<code>{{ page_path }}</code>
+{% if page_path == 'press' or page_path == 'privacy' or page_path == 'terms' or page_path == 'ticket' or page_path == 'venue' %}
+{% assign content_file_path = page_path | append:'/content.markdown' %}
+{% else %}
+{% assign content_file_path = page_path | append:'/content.' | append:page.locale | append:'.markdown' %}
+{% endif %}
+{% capture content %}{% include {{ content_file_path }} %}{% endcapture %}
 <section class="content">
   <div class="container">
     <div class="row">
