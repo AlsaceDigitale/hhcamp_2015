@@ -1,10 +1,10 @@
 {% assign webPageProject = "http://projects.digitalhealthcamp.eu/"%}
-#Last event videos and websites projects
+# Vidéos de l'évènement précédent et sites web des projets
 
-##In March 2014, 19 projects have been realized. Review videos of pitches and look at [web page project]({{webPageProject}}). It will give you an idea of which amazing things you can do in one week end with your team.
+## En mars 2014, 19 projets ont été réalisés. Regardez les vidéos des pitchs and les [sites web des projets]({{webPageProject}}). Cela vous donnera une idée des choses fantastiques que l'on peut réaliser en un weekend avec une équipe.
 
 <a href="{{webPageProject}}" class="btn btn-primary btn-block">
-          See projects from last event !
+          Regardez les projets de l'évènement précédent !
         </a>
 
 <div class="embed-responsive embed-responsive-16by9">

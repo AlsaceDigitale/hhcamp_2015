@@ -42,27 +42,31 @@ Hacking Health Camp 2015, 4 days in 3 steps : inspire, learn, act
 
 ### Inspire
 
-#### Future of Health (thursday)
+#### [Future of Health](future-of-health.html) (thursday)
 
 A entire day of inspiring and forward-thinking conferences on the future of health by a line up of internationally-recognized health mentors. It will help you understand future ways in healthcare and give you support to choose your team.
-Health Pitch Challenge (thursday evening)
 
-#### Health Pitch Challenge (thursday evening)
+For example this year speaker are : Uwe Diegel (iHealth), Juan Fernandez Garcia (Médecin Hopital St Juan de Déu à Barcelone), Jacques Marescaux (IRCAD), Cédric O'Neil (1001pharmacies), Nicolas Colin (The Family), Zayna Khayat (Médecin MaRS EXCITE Toronto)...
+
+#### [Health Pitch Challenge](health-pitch-challenge.html) (thursday evening)
 
 Take a look at health startup already at work and choose your favorite.
 
 ### Learn
 
-#### Health Data Day (friday)
+#### [Health Data Day](health-data-day.html) (friday)
 
 Produce or consume health data needs knowledge in legal, medical and technical aspects.
+
 Understand strategic challenges by attending conferences and workshop on health data privacy, health APIs manipulation, datastore presentation
-For example this year speakers are : Louis LYU (iHealth API), Pierre Desmarais (French lawyer in healthcare) ...
+
+For example this year speakers are : Louis LYU (iHealth API), Pierre Desmarais (Avocat en santé), Nicolas Cauvet (VIDAL), Pascal Zellner (Médecin Ugentiste et geek), Pete Ohnemus (entrepreneur en santé), Mike Amundsen (API evangelist), Nicolas Vayatis (Machine Learning), Délia Drahal-Lofskog (CNIL), Rodolphe Thiébaut (Médecin de santé publique)...
 
 ### Act
 
-#### Hackathon : let’s create (from friday to sunday evening)
+#### [Hackathon](health-hackathon.html) : let’s create (from friday to sunday evening)
 
+- pitch your idea, be persuasive !!
 - meet developers, designers, build your team
 - create !
 

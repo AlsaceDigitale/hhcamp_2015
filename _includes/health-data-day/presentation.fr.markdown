@@ -1,16 +1,17 @@
-## A full day of workshops and conferences centered around the technical, medical, privacy and legal aspects of producing, consuming and analyse health data.
+## Une journée de conférences et d’ateliers sur la production, la consommation et l’analyse de données de santé sur le plan technique, médical et légal.
 
-The event strives to reflect both on the technological aspects and the important questions driving the health sector’s future:
+L'événement vise à refléter à la fois es aspects technologiques et les questions importantes sur l'avenir du secteur de la santé :
 
- -  What changes will big data and data analysis bring to healthcare ?
- -  What changes can we expect for patient and healthcare services ?
- -  Where to find health data and how to use it to improve healthcare?
- -  All this accumulated data has a value, how and where we can find this value to improve healthcare ?
- -  Cloud based storage: how to balance access and privacy ?
- -  What about legal aspects, how does each country secure its health data ?
+ - Quels sont les changements que le big data et l'analyse de données apporteront aux soins de santé ?
+ - Quels changements peut-on s'attendre pour les services aux patients et de la santé ?
+ - Où trouver des données sur la santé et la façon de l'utiliser pour améliorer les soins de santé ?
+ - Toutes ces données accumulées ont une valeur, comment et où pouvons-nous trouver cette valeur pour améliorer les soins de santé ?
+ - Stockage dans le cloud: comment combiner la nécessité du partage et la vie privée ?
+ - Qu'en est-il des aspects juridiques, comment chaque pays sécurise ses données de santé ?
 
-We want to provide health tech companies with the opportunity to present their products and explain how developers and users can benefit from them. We want to help the health industry understand the value of adopting an open data policy, as we believe the health sector needs a paradigm shift if it wants to develop more sustainable and actionable solutions.
+Health Data Day est l’évènement idéal pour partager et acquérir de nouvelles connaissances pratiques, il permet aux participants d’affiner leurs compétences à travers des discussions et des ateliers.
+
 
 <a href="https://docs.google.com/forms/d/1fom6Foe2OZWkijKve5QQNf6b9SgMCRGP_e00lHstJZk/viewform?usp=send_form" class="btn btn-primary btn-block">
-                  > Call for speakers ! <
+                  > Appel à speakers ! <
                 </a>

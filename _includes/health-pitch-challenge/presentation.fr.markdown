@@ -1,13 +1,11 @@
-## A festive event dedicated to health startups, complete with the presence of investors.
+## Soirée dédiée aux startups du domaine de la santé en présence d’investisseurs.
 
-An evening party dedicated to health startups already created with investors present.
+Une soirée dédiée aux startups de la santé déjà créées avec des investisseurs présents. Une sélection de startups présenteront leurs idées sous forme de pitch. Le public pourra voter avec des billets de banque virtuels. Le gagnant étant celui qui aura levé le plus d’argent.
 
-Let’s not forget that one of our key goal is to create concrete solutions that improve healthcare. The only way to follow through with our intention is by creating startups. We have to support startups and help them grow. This event provides to selected startups the opportunity to pitch their idea to VIP guests, invited investors and participants.
+Nous ne devons pas oublier que l’objectif est de créer des solutions concrètes pour améliorer la santé. Le seul moyen de donner suite à nos idées est de créer des startups. Nous devons les aider à se créer et à grandir. Cet évènement donne l’opportunité aux startups sélectionnées de pitcher leur idée aux participants et particulièrement aux VIP et investisseurs présents. En donnant des billets virtuels de 500€, 200€ et 100€ à tous les participants, chacun pourra voter pour sa startup préférée, en se posant une question “si j’avais cet argent sur quelle équipe j’investirais ?”. Le résultat sera présenté à la fin de la soirée pour savoir laquelle des startups aura levée le plus d’argent.
 
-Just like crowdfunding, each member of the audience will be given 3 fake banknotes of 500€, 200€ and 100€ and will be asked to put their money on their favorite startups. The results will be presented at the end of the event to see which startup raised more funds.
-
-####Besides providing a fun way to promote startups, the Health Pitch Challenge is great place for creating meaningful connections and engaging in great conversations.
+#####Un manière originale de promouvoir les startups dans un espace approprié pour développer son réseau.
 
 <a href="https://docs.google.com/forms/d/1Ji936xMg1x2D8BV-lpaFQYILoEx8f2PjdWtVbaaskt8/viewform" class="btn btn-primary btn-block">
-                  > Submit your startup ! <
+                  > Je présente ma startup ! <
                 </a>

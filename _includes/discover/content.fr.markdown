@@ -1,6 +1,6 @@
-#Event description
+#Description de l'évènement
 
-##Hacking Health Camp is a 4 day international event dedicated to breaking down the barriers for innovation in healthcare. Each day, an event creates a space for health professionals, designers, hackers, makers and entrepreneurs to collaborate. It’s an event for anyone interested in health innovation as it rallies health and tech professionals around their common interest, helping them discover amazing possibilities for tomorrow’s health.
+##Hacking Health Camp est un évènement international sur 4 jours qui vise à briser les barrières de l’innovation en santé. Chaque jour, un évènement crée un espace collaboratif entre professionnels de santé, designers, hackers, makers et entrepreneurs. Un évènement à destination de toutes les personnes intéressées par l’innovation en santé, inspirant professionnels de santé et professionnels du numérique sur leurs opportunités communes dans l’avenir de la santé.
 
 <div class="row video-container">
   <div class="col-md-6">
@@ -15,134 +15,129 @@
   </div>
 </div>
 
-#Event Program
+#Le Programme
 
-##The event was designed according to the following principles: inspire, learn, act
+##Cet évènement est conçu pour répondre aux principes suivants : s’inspirer, apprendre, passer à l’action
 
 ###[The Future of Health](future-of-health.html)
 
-#####9:30 - 17:00,  Thursday, March 19, 2015
+#####9:30 - 17:00,  Jeudi 19 mars, 2015
 
-A entire day of inspiring and forward-thinking conferences on the future of health by a line up of internationally-recognized health mentors.
+Une journée inspirante de conférences visionnaires sur le futur de la santé par des personnalités internationalement reconnues.
 
-###[Health Pitch Challenge](health-pitch-challenge.html) : health startups kontest party
+###[Health Pitch Challenge](health-pitch-challenge.html) : soirée de compétition de pitch de startups santé
 
-#####19:00 - 22:00, Thursday evening, March 19, 2015
+#####19:00 - 22:00, Jeudi soir 19 mars, 2015
 
-A festive event dedicated to health startups, complete with the presence of investors. Early-stage startups will pitch; attendees will vote by investing in their favorite startups with fake banknotes. The winner will be the one who raises the most money.
+Soirée dédiée aux startups du domaine de la santé en présence d’investisseurs. Une sélection de startups présenteront leurs idées sous forme de pitch. Le public pourra voter avec des billets de banque virtuels. Le gagnant étant celui qui aura levé le plus d’argent.
 
-###[Health Data Day](health-data-day.html) : big Data in Healthcare is here, how can we use it ?
+###[Health Data Day](health-data-day.html) : le Big Data en santé est là, comment l’utiliser ?
 
-#####9:00 - 17:00, Friday March 20, 2015
+#####9:00 - 17:00, Vendredi 20 mars, 2015
 
-A full day of workshops and conferences centered around the technical, medical, privacy and legal aspects of producing, consuming and analyse health data.
+Une journée de conférences et d’ateliers sur la production, la consommation et l’analyse de données de santé sur le plan technique, médical et légal.
 
-###[Health Hackathon](health-hackathon.html) : prototyping Weekend
+###[Health Hackathon](health-hackathon.html) : weekend de prototypage
 
-#####17:00, Friday 20 to 22:00, Sunday 22 March, 2015
+#####Vendredi 20 mars 17:00 au Dimanche 22 mars 22:00, 2015
 
-The second annual hackathon will run from Friday evening to Sunday evening. Health professionals, developers and designers will create prototypes based on challenges submitted before the event.
+L’idée est simple : l’inspiration étant l’essence même de la création, quoi de mieux que d’écouter des médecins, entrepreneurs et philosophes visionnaires et de rencontrer des startups qui ont déjà commencé à innover. Puis continuer sur un échange sur les données de santé et apprendre à identifier les opportunités tant techniques que médicales sur le sujet de la santé. Au final transformer tout cela en action en travaillant ensemble pour créer des innovations et inventer le futur.
 
-The idea is simple :  as inspiration is the essence of creation, what’s best than listening to well known and visionary physicians, entrepreneurs and philosophers to be inspired and seeing startups already innovating. Then exchanging about health data and learning about medical and technical opportunities. Finally transform all this in action by working together to create innovation and next big thing.
+Lors de la première édition, professionnels de santé, designers, développeurs, ergonomes et ingénieurs ont exprimés leurs besoins sur des sujets comme : l’éthique, les données de santé, l’intéropérabilité, quelles évolutions au niveau mondial du numérique en santé ? Où sont les limites technologiques ? Quelles solutions à propos des aspects légaux ? Quelles données existent, comment y accéder et les utiliser pour améliorer la santé pour répondre à la promesse du big data ?
 
-During the first edition, health professionals and designers, developers, UX researchers and engineers expressed their expectations about topics such as : ethic, health datas, interoperability, what is the worldwide evolution of digital in healthcare ? Where are the technical limits ? What are legal issues and solutions ? What data exist, how to access it and use it to improve healthcare and deliver on the Big Data promise ?
+###Avec Hacking Health Camp vous trouverez des réponses à ces questions.
 
-###With Hacking Health Camp you will find answers to these questions.
+#Un évènement de grande ampleur
 
-#A High Profile Event
+Hacking Health Camp est le lieu de l’**innovation par l’action** et ambitionne de devenir **le plus important évènement sur l’innovation en santé en Europe**.
 
-Hacking Health Camp is a place of innovation in action and we are on the fast track to become Europe’s biggest and most important event in healthcare innovation.
-
-###Past events and outcomes
+###Évènements précédents et retours
 <img src="/img/health-hackathon-2.jpg" width="220">
 
-Hacking Health is an international movement: since 2012, over 12 hackathons and dozens of healthcare events took place in Canada and across the world. “**[Hacking Health @ DigitalHealthCamp](http://digitalhealthcamp.eu)**”, the first French edition of the Health hackathon took place in march 2014 in Strasbourg  and more hackathons are scheduled to take place in Hong Kong, Saskatoon, New York and Berlin to name a few.
+Plus de 12 hackathons et une douzaine d’évènements en santé au Canada et dans le monde déjà réalisés, premier hackathon en france en mars 2014 à Strasbourg “**[Hacking Health @ DigitalHealthCamp](http://digitalhealthcamp.eu)**”, et plusieurs autres hackathons programmés partout dans le monde  (Hong Kong, Saskatoon, New York, Berlin, ...).
 
-About the creative energy of **[Hacking Health @ DigitalHealthCamp](http://digitalhealthcamp.eu)** :
+A propos de l’énergie créative du **[Hacking Health @ DigitalHealthCamp](http://digitalhealthcamp.eu)** :
 
-> “We all regret we were not in Steve Jobs’ garage in the 80’s, but in 30 years, you will be able to say that you were here in Strasbourg, today…”
+> “On a tous regretté de ne pas avoir été dans le garage de Steve Job dans les années 70, mais dans 30 ans on pourra dire qu'on était à Strasbourg aujourd'hui...”
 
-Uwe Diegel, iHealth founder, march 30th 2014
+Uwe Diegel, président de iHealth, 30 mars 2014
 
-####The Hackathon Concept
+#### Concept du Hackathon
 
 <img src="/img/health-hackathon-1.jpg" width="220">
 
-50 hours event in which the “users” (health professionals) and the "makers" (designers, developers, UX researchers and engineers) collaborate around challenges submitted before the event. The last day, they present a functional prototype to the jury and the assembly.
+Évènement de 50 heures où “ceux qui utilisent” (les professionnels de santé), “ceux qui fabriquent” (les développeurs, designers, ergonomes et ingénieurs) et “ceux qui portent” (les entrepreneurs) collaborent sur des défis soumis avant l’évènement. Le dernier jour chaque équipe présente un prototype fonctionnel à un jury et à toute l’assemblée.
 
-The first edition of **[Hacking Health @ DigitalHealthCamp](http://digitalhealthcamp.eu)** was a huge success thanks to its ability to cater directly to the needs expressed by healthcare professional:
+C’était le premier évènement de ce type en France !
 
- - participation : 200 attendees came from all over France. Among them :  45 health professionals  (nurses, pharmacists, psychiatrists, physiotherapist,...) and about 100 hackers.
- - for 35 challenges submitted there were 19 quality prototypes created, ex: Flashmed, MedMatch, ContAAct, Lifealth, with some of them now having graduated to fully functioning start ups.
-   - “It works, it’s incredible…” about MedMatch, Uwe Diegel, iHealth founder
-   - 10 of them received awards
-   - **[take a look at all projects](http://projects.digitalhealthcamp.eu/)**
-   - **[watch a video presentation of last year’s event](https://www.youtube.com/watch?v=EFhyYTip72E&list=PLKHIK5minrP6NXwHfUF3lD5SbmlbclGhK)**
- - This was the first hackathon in France  to garner interest from national media, both generalist and specialized: Le Figaro, M6,  iTélé, Le quotidien du médecin, DNA, Rue89 Strasbourg,... (**[see our press and media clippings](http://digitalhealthacamp.eu/#presse)**)
+La première édition **[Hacking Health @ DigitalHealthCamp](http://digitalhealthcamp.eu)** a été un énorme succès. À l’évidence c’était une réponse à un besoin des professionnels de santé
 
-Participants had the opportunity to co-create in an exceptional environment filled with worldwide experts who believed in the importance of this hackathon, and came to share their skills with its participants  :
+ - participation : 200 personnes venues de toute la France. Parmi eux :  45 professionnels de santé  (infirmiers, pharmaciens, psychiatres, physiotherapistes,...) et environ 100 hackers.
+ - pour 35 défis soumis,19 prototypes de qualité ont été créés, ex: Flashmed, MedMatch, ContAAct, Lifealth, ... (certains sont actuellement des startups).
+   - “Ça marche, c’est incroyable ...” à propos de  MedMatch, Uwe Diegel, fondateur d’iHealth
+   - 10 d’entre eux ont reçus des récompenses
+   - vous pouvez revoir tous **[les projets](http://projects.digitalhealthcamp.eu/)**
+   - et regarder la **[video récapitulative de l'édition précédente](https://www.youtube.com/watch?v=EFhyYTip72E&list=PLKHIK5minrP6NXwHfUF3lD5SbmlbclGhK)**
+ - pour la première fois en France, un hackathon a généré un intérêt médiatique national (presse généraliste et spécialisée): Le Figaro, M6, iTélé, Le quotidien du médecin, DNA, Rue89 Strasbourg, ,... (**[consulter tous les articles de presse](http://digitalhealthacamp.eu/#presse)**)
 
- - health expert lawyers : Caroline Zorn, Pierre Desmarais,....
- - successful health businessmen  : Uwe Diegel, Luc Sirois, Thierry Courbis,...
- - experienced health designers : Barbara Bay, Christelle Carrier,...
- - group mentors to optimize group cohesion and work : Pascal Bastien, Véronique Campillo, Guillame Lours ...
- - preto typing expert : Elalami Lafkih
+Les participants ont eu l’opportunité de créer dans un environnement exceptionnel, accompagné d’experts internationaux, qui croient en l’importance de ce hackathon et sont venus partager leurs compétences avec les participants :
+ - experts en droit de la santé : Caroline Zorn, Pierre Desmarais,....
+ - entrepreneurs à succès dans la santé  : Uwe Diegel, Luc Sirois, Thierry Courbis,...
+ - experts designers en santé : Barbara Bay, Christelle Carrier,...
+ - coach d’équipe : Pascal Bastien, Véronique Campillo, Guillame Lours...
+ - expert en preto typing : Elalami Lafkih
 
-####Hacking Health camp allows you to:
+#### Hacking Health Camp vous permet de :
 
- - push your collaborative boundaries and problem-solving skills
- - create a prototype based on consumer requirements and feedback
- - improve your prototype and understanding of the health sector through the advice of industry leaders
+ - dépasser vos limites en terme de collaboration et de capacité à résoudre des problématiques
+ - créer des prototypes basé sur les attentes utilisateurs et leurs retours
+ - améliorer votre prototype et comprendre les besoins du secteur de la santé à travers les conseils d’acteurs industriels majeurs
 
 <img src="/img/health-hackathon-3.jpg" width="220">
 <img src="/img/health-hackathon-4.jpg" width="220">
 
-#Why ?
+# Pourquoi ?
 
-Hacking Health is an experiment in collaboration. Our hypothesis is that the collaboration between front-line clinicians and technology experts will yield innovative approaches to some of healthcare’s most entrenched problems. By rapidly building and testing prototypes, on one end we identify the ideas that have the true potential to scale and on the other we allow participants to take the knowledge they acquired and apply it to new ideas. Our goal is to make this experimentation as low risk as possible for everyone involved - the individual participants, organizers, and supporters.
+Hacking Health c’est de l’expérimentation par la collaboration. Notre hypothèse se base sur le fait que la collaboration entre experts médicaux et technologiques amènera des solutions innovantes aux problématiques de santé.
 
-At Hacking Health, we aim to create spaces for collaborative, interdisciplinary experimentation. We bring together health professionals and technologists to work together to prototype and problem-solve new ways to deliver healthcare. It’s a high-energy, messy process with no guarantee of success, but plenty of opportunity for new ideas and to join a team. The outcomes are probabilistic not determinate.
+En concevant et en testant rapidement des prototypes il est possible d’identifier les quelques idées qui ont du potentiel et dans le même temps permettre aux autres d’apprendre plus et de l’appliquer à de nouvelles idées.
 
-We define success as making it easier to reach the limit of one’s field and increasing the probability of successfully interfacing with another perspective so it yields an innovative approach. Our underlying mission is learning how to bring pioneers from across diverse fields together through real and meaningful collaborations.
+Notre objectif est de rendre cette expérimentation la moins risquée possible pour toutes les personnes impliquées - les participants, les organisateurs, les partenaires.
 
-####WE BELIEVE THAT
+#### NOUS PENSONS QUE
 
-Real change comes from the bottom up.
+Le vrai changement part de la base.
 
-Innovation occurs at the interface of diverse minds and perspectives.
+L’innovation survient lorsque des esprits différents avec de nouvelles perspectives se rencontrent.
 
-Collaboration is hard. It requires stepping beyond one’s comfort zone, into the unfamiliar.
+La collaboration est difficile. Elle requiert de sortir de sa zone de confort mais c’est bénéfique.
 
-But it’s worth it.
+## Le thème de cette édition : le Big Data et son impact sur le secteur de la santé
 
-##This year’s theme: Big Data and its Impact on the Health Sector
+C’est une évidence : les produits en santé, existants et futurs, doivent ouvrir leurs données pour mieux s’intégrer au reste du système de santé. En partageant ces données, le secteur de la santé reconnaît le large éventail de compétences requises, la diversité des besoins et des particularités à considérer pour répondre à ces besoins.
 
-It is now essential: existing and future health products must open their data to integrate the global health information system. By sharing this data, the health sector acknowledges the wide array of required skills, diversity of needs and the particularities to consider in response to these needs.
+Il est toutefois important de rester vigilant sur la sécurité des données de santé et leur préservation à l’égard de leur propriétaire. Nous devons évoquer l’ouverture des données dans un système de santé garantissant la sécurité des données de santé personnelles et permettant une amélioration de la prise en charge par une meilleure communication entre les outils. Si toutefois les données doivent être exposées à l’extérieur du système, cela doit être de manière anonyme.
 
-Yet an open data approach requires precautions when it comes to privacy and security: how to protect personal data while using it to improve patient care? How to share data anonymously, yet effectively? What are the best communications tools and infrastructure to achieve this?
+Lors de la première édition, professionnels de santé, designers, développeurs, ergonomes et ingénieurs ont exprimés leurs besoins sur des sujets comme : l’éthique, les données de santé, l’intéropérabilité, quelles évolutions au niveau mondial du numérique en santé ? Où sont les limites technologiques ? Quelles solutions à propos des aspects légaux ? Quelles données existent, comment y accéder et les utiliser pour améliorer la santé pour répondre à la promesse du big data ?
 
-During the first edition, health professionals and designers, developers, UX researchers and engineers expressed their expectations about topics such as : ethics, health data, interoperability. We decided to use the most interesting topics raised by last year’s event to shape this year’s program:
+# Qui organise ?
 
-What is the worldwide evolution of digital in healthcare ? Where are the technical limits ? What are the legal issues and solutions ? What data exist, how to access it and use it to improve healthcare and deliver on the Big Data promise ?
+## [Hacking Health](http://hackinghealth.ca)
 
-#Who organize ?
+Hacking Health est une organisation internationale à but non lucratif dédiée à la transformation de la santé par les technologies numériques. Basée au Canada, Hacking Health fait le lien entre experts du numérique (développeurs et designers) et professionnels de santé (médecins, infirmiers, administrateurs) en partenariat avec des entrepreneurs, des communautés et des partenaires internationaux, des grandes entreprises et des investisseurs pour rapidement développer des solutions numériques et mobile pour la santé.
 
-##[Hacking Health](http://hackinghealth.ca)
+Hacking Health crée des liens à travers les Hacking Health weekend hackathons, Hacking Health Cafés, Hacking Health Clinics et les ateliers partout dans le monde. Durant les 2 dernières années Hacking Health a organisé une douzaine de hackathons, attirant plus de 2500 participants et créant près de 200 projets de santé numérique, ainsi qu’un grand nombre de cafés numérique, d’ateliers, de formations et de conseils. Un bon nombre de nos projets ont eu une couverture médiatique nationale et internationale, acquis une attraction du marché, et ont été rachetés. La plupart des projets créés lors d’évènements Hacking Health portent sur la santé des consommateurs (applications web et mobile), les outils médicaux et logiciels administratifs.
 
-Hacking Health is an international not-for-profit organization dedicated to transforming healthcare delivery and access through digital technology. Based in Canada, Hacking Health pairs technology experts (designers and developers) with healthcare professionals (physicians, nurses, managers) in partnership with entrepreneurs, community and international partners, corporations, and investors to rapidly develop digital and mobile health solutions.
+## [Alsace Digitale](http://alsacedigitale.org)
 
-Hacking Health builds connections through Hacking Health Weekend Hackathons, Hacking Health Cafes, Hacking Health Clinics and workshops across Canada and internationally.
+Alsace Digitale est une association à but non lucratif créée en 2010 par des passionnés des nouvelles technologies. L’association ambitionne de construire un écosystème numérique en Alsace capable de faire émerger des personnes qui porteront des projets de création de nouvelles activités basées sur l’innovation et l’interdisciplinarité.
 
-A number of our projects have received national and international news coverage, gained market traction, and been acquired. Most projects created at Hacking Health events fall under the categories of consumer health (mobile and web-based), medical tools, and administrative software.
+Spécialisée dans les startups et le numérique son travail consiste en un programme d’accélération pour transformer des projets et des idées en entreprises rentables. Ce programme d’accélération inclu Hacking Health comme un process d’attraction pour détecter les bons projets.
 
-##[Alsace Digitale](http://alsacedigitale.org)
+Alsace Digitale organise d’autre évènements comme : Startup Weekends, barcamps, autres hackathons, Devoxx4Kids (sessions d’apprentissage de la programmation aux enfants), EdgeFest (festival à la croisée du numérique, de l’art et de la culture).
 
-Alsace Digitale is a non-profit organization created in 2010 by team of developers and entrepreneurs passionate about technology. Its goal is to build an IT ecosystem in Alsace that can empower people with project and ideas to create new activity based on innovation and interdisciplinarity. Focusing on startup and IT they work on an acceleration program to transform all this projects and ideas in profitable company. Alsace Digitale joined forces with Hacking Health and uses its hackathon as a platform for these startups to emerge.
+Alsace Digitale a créé et gère un espace de coworking à Strasbourg : [La Plage](http://www.laplagedigitale.eu).
 
-Alsace Digitale organize other events like Startup Weekends, barcamps, other hackathons, Devoxx4Kids (program learning sessions for kids), EdgeFest (IT, art & culture festival).
-
-Alsace Digitale has created and manage a coworking space in Strasbourg : La Plage.
-
-Alsace Digitale represents Hacking Health locally in Alsace and supports the organizer’s team.
+Alsace Digitale représente Hacking Health localement en Alsace et gère l’équipe d’organisation.
 
 <img src="/img/hacking-health-crowd.jpg">

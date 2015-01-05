@@ -1,40 +1,39 @@
 <div class="col-xs-12 col-md-6" markdown="1">
-## Submit a challenge
-A challenge is a healthcare problem that could be resolved by a hardware or software digital solution or both.
+## Proposer un défi
 
-Topic could be : medical record, open data, care delivery, hospital-city link, mobile health, quantified-self, aging, patient empowerment, patient engagement
+Le principe du défi est de présenter une problématique médicale susceptible d’être résolue, ou du moins en partie, par une approche numérique (logicielle ou matérielle ou les 2).
 
-Challenge owner presents his project on friday evening in 1 mn and then look for a team.
+Il peut par exemple porter sur les thèmes suivants : dossier patient, open data santé, médico social, imagerie médicale, télémédecine, lien ville-hôpital, DMP, m-santé et le mobile à l’hôpital, formation numérique en santé, quantified-self
 
-You can look for a team before the event by using the sparkboard or recruit yourself attendees.
+Le porteur du défi présente son défi le vendredi soir, trouve un capitaine et une équipe. Il est vivement conseillé de commencer à constituer son équipe en amont de l'évènement. Pour cela une fois votre défi soumis, une page web lui sera dédié sur laquelle vous pourrez échanger avec les personnes intéressés et recruter.
 
-Challenge can be submit whenever you want before event started. More early is better to help attendees understand your project.
+Les défis peuvent être soumis jusqu’au dernier moment.
 
-Partners give us tools, devices, data and services to help you implement your solutions.
+Les partenaires fournissent du matériel, des données et des services pour vous aider à la mise en oeuvre technique, pour en savoir plus consultez la section partenaires
 
-To submit your challenge you need to subscribe to the event and then on the sparkboard.
+Pour soumettre votre défi vous devez vous [inscrire à l'évènement](http://hhcamp.eventbrite.fr) puis sur le site [sparkboard](http://hhcamp.sparkboard.com) : une application web dédiée à la gestion des défis.
 
-This year our partner [GET Funded](http://www.get-ehealth.eu/) identify unmet needs in the Health space that can be solved with the use of technology. That is, "market gaps" where seems there are not enough IT solutions and, therefore, can become business opportunities for eHealth entrepreneurs and companies
+Cette année notre partenaire [GET Funded](http://www.get-ehealth.eu/) a identifié les besoins insatisfait dans le secteur de la santé qui peuvent être résolus par une approche technologique. Ce sont des opportunités de marché pour lesquelles il semble qu'il n'y est pas encore assez de solutions technologiques et qui sont des pistes pour les entrepreneurs en santé et les industriels.
 
 <a href="http://www.get-ehealth.eu/fill-the-gap/" class="btn btn-primary btn-block">
-          List of unmet needs
+          Liste des besoins insatisfaits
         </a>
 <a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
-          Submit a challenge !
+          Je propose mon défi !
         </a>
 </div>
 
 <div class="col-xs-12 col-md-6" markdown="1">
-## Find your team
+## Rejoindre une équipe
 
-Before subscribe you may exchange with challenge owner and other attendees, via the sparkboard or by coming to our Hacking Health Coffee.
+Avant l’inscription vous pouvez échanger avec le porteur de défi qui vous intéresse parmi ceux déjà déposé via le [sparkboard](http://hhcamp.sparkboard.com) ou en venant à nos ateliers d'information et d'appel à défi.
 
-To be informed on next Hacking Health Coffee, subscribe to the [mailing-list](http://eepurl.com/Gbes1)
+Pour être informé des prochains atelier, inscrivez-vous sur la [mailing-list](http://eepurl.com/Gbes1)
 
-It's on friday evening, after challenge's owners pitch, team will be official
+C’est le vendredi soir après les pitchs des porteurs de défis que les équipes se constitueront officiellement. Mais attention les places sont limitées.
 
 <a href="http://hhcamp.eventbrite.fr" class="btn btn-primary btn-block">
-          Register now ! tickets are limited
+          Inscrivez-vous maintenant ! les places sont limitées
         </a>
 
 </div>

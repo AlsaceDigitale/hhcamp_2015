@@ -1,105 +1,119 @@
 <div class="col-xs-12 col-md-6" markdown="1">
-## Why do the Hacking Health Camp?
+## Pourquoi participer au Hacking Health Camp?
 
-### Physicians, nurses, specialist, pharmacist, ... or patient
+### Médecin, infirmier(e), specialiste, pharmacien, ... ou patient
 
-Let improve healthcare by innovation with new and simple ideas.
+Faisons avancer la pratique médicale en innovant dans l’e-santé !
 
-It’s just the beginning of a digital health era, there’s a lot of needs. Be part of this and discover the opportunities of this amazing
+La santé numérique n’en est qu’à ses débuts et elle a de grands besoins : prenez un temps d’avance et découvrez toutes les possibilités de cet univers passionnant.
 
-Health professional and patient, attend Hacking Health Camp in 2 ways :
+Professionnels de santé, participez à HHC de 2 facons possibles :
 
-- bring your idea to life : you have an idea to help you resolve a problem you have in your day job/life with tele health, serious game, mobile app, etc … all ideas are good !!
-- join a team and bring your medical skills or patient knowledge to a project to create a health innovation. Live a unique human and creative experience. Discover new way to use your experience and skills ...
+ - donnez vie à votre idée (vous êtes porteur de projet)  : Vous avez imaginé un logiciel / une application de tout type qui fera évoluer la pratique médicale - par ex :  télémédecine, éducation thérapeutique, serious game, .........toutes vos idées sont bonnes !!
+C’est le moment de vous lancer et de faire naître votre projet dans les meilleures conditions à  HH Camp.
+ - intégrez une équipe qui aura besoin de vos connaissances médicales (dans l’ équipe du projet qui vous intéresse) et prenez part à la naissance d’ une solution de santé.
+Une expérience créative et humaine unique.
+Découvrez une nouvelle façon d’utiliser votre expérience et votre savoir-faire professionnel..
 
-Attend Hacking Health Camp 2015, largest european hackathon in healthcare
+Cette année, HHC vous permettra :
 
-This year Hacking Health Camp give you :
+ - de mieux appréhender la santé numérique de demain  : comprendre la direction qu’elle prend et les mutations qu’elle engendre , enrichir vos connaissances sur l’e-santé. (foh, hdd, hpc)
+ - d’expérimenter un moment unique : le processus de création d’une solution de santé.
+ - en seulement 4 jours.
 
-- a better vision of tomorrow digital health : understand changing that come, new challenges, improve your knowledge in digital health.
-- experiment a unique moment : creation process of health innovation
-- in just 4 days
+et pour les porteurs de projet :
 
-and for project owner
-
-- meet people involved with skills you need
-- create prototype together with the best environment you need
+ - de rencontrer les collaborateurs impliqués qui ont les compétences dont vous avez besoin.
+ - de créer ensemble le prototype de votre projet dans un environnement exceptionnel pour vous épauler.
 
 <a href="http://hhcamp.eventbrite.fr" class="btn btn-primary btn-block">
-          Register now !
+          Inscrivez-vous maintenant !
         </a>
 <a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
-                  Promote you idea !
+                  Proposez votre idée !
                 </a>
-
-
 </div>
 
 <div class="col-xs-12 col-md-6" markdown="1">
-## How ?
+## Comment ?
 
-Hacking Health Camp 2015, 4 days in 3 steps : inspire, learn, act
+Hacking Health Camp 2015, 4 jours et 3 étapes : s'inspirer, apprendre, passer à l'action
 
-### Inspire
+### S'nspirer
 
-#### Future of Health (thursday)
+#### [Future of Health](/fr/future-of-health.html) (jeudi)
 
-A entire day of inspiring and forward-thinking conferences on the future of health by a line up of internationally-recognized health mentors. It will help you understand future ways in healthcare and give you support to choose your team.
-Health Pitch Challenge (thursday evening)
+Les conférences sur l'avenir de la santé: ces personnalités mondialement reconnues vous apporteront leur regard visionnaire sur la santé numérique de demain.
+Votre projet s’inscrira dans ce nouvel environnement, et en tenant compte de cela, il pourrait peut être s’affiner encore...
 
-#### Health Pitch Challenge (thursday evening)
+Parmi les intervenants cette année : Uwe Diegel (iHealth), Juan Fernandez Garcia (Médecin Hopital St Juan de Déu à Barcelone), Jacques Marescaux (IRCAD), Cédric O'Neil (1001pharmacies), Nicolas Colin (The Family), Zayna Khayat (Médecin MaRS EXCITE Toronto)...
 
-Take a look at health startup already at work and choose your favorite.
+#### [Health Pitch Challenge](/fr/health-pitch-challenge.html) (jeudi soir)
 
-### Learn
+Découvrez des Start up santé et évaluez les, sous les yeux attentifs d' investisseurs.
+(Écoutez bien les pitchs, car 24h plus tard, ce sera votre tour de pitcher votre projet au Hackathon....)
 
-#### Health Data Day (friday)
+### Apprendre
 
-Produce or consume health data needs knowledge in legal, medical and technical aspects.
-Understand strategic challenges by attending conferences and workshop on health data privacy, health APIs manipulation, datastore presentation
-For example this year speakers are : Louis LYU (iHealth API), Pierre Desmarais (French lawyer in healthcare) ...
+#### [Health Data Day](/fr/health-data-day.html) (vendredi)
 
-### Act
+Générer ou utiliser des données de santé, nécessite des connaissances fondamentales, tant éthiques que  juridiques ou techniques.
+Comprenez les finesses de votre projet.
 
-#### Hackathon : let’s create (from friday to sunday evening)
+Faites vous votre propre opinion en assistant aux conférences : la protection des données de santé,l' aspect légal , l'open data.
 
-- meet developers, designers, build your team
-- create !
+Parmi les intervenants cette année : Louis LYU (iHealth API), Pierre Desmarais (Avocat en santé), Nicolas Cauvet (VIDAL), Pascal Zellner (Médecin Ugentiste et geek), Pete Ohnemus (entrepreneur en santé), Mike Amundsen (API evangelist), Nicolas Vayatis (Machine Learning), Délia Drahal-Lofskog (CNIL), Rodolphe Thiébaut (Médecin de santé publique)...
 
-or
+### Passer à l'action
 
-- listen to pitches and choose your project
-- meet project owner, be recruited
-- create !
+#### "[Hackathon](health-hackathon.html)" (du vendredi soir au dimanche) : vous avez 2 jours pour créer un prototype fonctionnel de votre solution !
 
-During this 50h hackathon, we provide the best environment ever for your team to help and advise in your creation process :
+- Pitchez votre projet devant l’assemblée : soyez convaincant !!
+- Rencontrez les développeurs, designers interessés par votre projet et constituez votre équipe
+- Créez !!!
 
-- lawyers specialized in healthcare : is your project fit legal aspects by country ?
-- pretotyping experts : create prototype quickly
-- team building and agile coach : be efficient, find the good process, each one have to find his place in the team
-- health entrepreneurs : experiences and skills sharing
-- health companies executives (insurer, laboratory, ...) : partnership and viewpoint from current health actors
+ou
 
-###Our advices
+- Écoutez les pitchs et choisissez votre projet
+- Rencontrez le porteur de projet et faites vous recruter
+- Créez !!!
 
-#### You are a project owner :
+Pendant ces 54 h de hackathon : nous mettons à la disposition de votre équipe un ensemble d’experts les plus qualifiés dans leur domaine (en France ou à l’international), pour vous guider et vous conseiller dans la création de votre projet :
 
-Describe your project on [sparkboard](http://hhcamp.sparkboard.com) as soon as possible. Your project have to be known. Start exchange with people interested.
+- des avocats spécialisés en droit de la santé,
+- des experts en pretotyping
+- des designers expérimentés et réputés dans la santé
+- des coachs  pour gérer la cohésion de groupe, la pression, le temps…
+- des entrepreneurs de startup pour partager leur expérience
+- des ambassadeurs de grandes entreprises de la santé qui peuvent vous encourager, vous donner leur point de vue, et peut être devenir vos partenaires ?...
 
-Attend a preparation workshop. You will find better understanding of skills presents during the hackathon (designer, developers). Identify skills you need and precise your project to fit the hackathon.
+###Nos précieux conseils
 
-#### You want to join a team :
+### Vous êtes porteur d'un projet :
 
-Follow sparkboard activity and find the project you want. Get in touch with project owner to know more about him and his project.
+Décrivez votre projet sur le [sparkboard](http://hhcamp.sparkboard.com) au plus vite (dès votre inscription) afin de :
+
+ - faire connaître votre projet
+ - commencer à échanger avec personnes intéressées ( développeurs, designers, autres professionnels de santé)
+
+Participez à un atelier pour :
+
+- mieux connaître le métier des membres de votre future équipe (designer, developpeur)
+- identifier les compétences particulières éventuellement nécessaires à votre projet.
+
+
+#### Vous souhaitez intégrer une équipe :
+
+suivez l’activité du [sparkboard](http://hhcamp.spaskboard.com) pour trouver LE projet qui vous fait vibrer. Dès que vous l’avez, entrez en contact avec le porteur de projet pour en savoir plus et aussi mieux connaître la personne  (l’aspect humain est important)
 
 <a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
-          Join a team !
+          Rejoindre une équipe !
         </a>
 <a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
-          Submit your problem / idea !
+          Proposez votre projet, idée ou problématique à résoudre !
         </a>
 <a href="http://www.get-ehealth.eu/fill-the-gap" class="btn btn-primary btn-block">
-          Be focus on unmet needs in healthcare
+          Informez-vous sur les besoins insatisfaits
         </a>
 
 </div>
@@ -108,7 +122,7 @@ Follow sparkboard activity and find the project you want. Get in touch with proj
   <hr>
 </div>
 
-<h2 class="col-xs-12 text-center">Interview Dr Schmoll - ORL</h2>
+<h2 class="col-xs-12 text-center">Interview du Dr Schmoll - ORL</h2>
 
 <div class="col-xs-12 col-md-8 col-md-offset-2">
   <div class="embed-responsive embed-responsive-16by9">

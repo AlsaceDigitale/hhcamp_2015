@@ -21,24 +21,24 @@ fr:
   cfp_link: "Appel au speakers!"
   submit_startup_link: "Proposez votre startup !"
   partner: "Partenaire"
-  sponsors_page_title: "TODO They already support us"
+  sponsors_page_title: "Ils nous soutiennent déjà"
   quote:
-    blockquote: "TODO We all regret we were not in Steve Job's garage in the 70's, but in 30 days, you will be able to say that you were here in Strasbourg today..."
-    cite: "TODO Uwe Diegel, iHealth Founder, March 30th 2014"
+    blockquote: "On a tous regretté de ne pas avoir été dans le garage de Steve Job dans les années 70, mais dans 30 ans on pourra dire qu'on était à Strasbourg aujourd'hui..."
+    cite: "Uwe Diegel, Président de iHealth, 30 Mars 2014"
   contact_block:
-    title: TODO Contact us
+    title: Nous contacter
     general_information:
-      title: TODO General Information
-      description: TODO Keep inform on event
-      button_link: TODO Contact
+      title: Informations
+      description: Restez informé sur l'évènement
+      button_link: Contact
     sponsorship:
-      title: TODO Sponsorship
-      description: TODO Take part in health innovation
-      button_link: TODO Contact
+      title: Sponsoring
+      description: Impliquez vous dans l'innovation en santé
+      button_link: Contact
     volunteering:
-      title: TODO Volunteering
-      description: TODO We need you!
-      button_link: TODO Contact
+      title: Volontaires
+      description: On a besoin de vous !
+      button_link: Contact
   nav:
     event: A propos
     agenda: Agenda
@@ -99,7 +99,7 @@ en:
   cfp_link: "Call for speakers!"
   submit_startup_link: "Submit your startup!"
   partner: "Partner"
-  sponsors_page_title: "TODO They already support us"
+  sponsors_page_title: "They already support us"
   quote:
     blockquote: "We all regret we were not in Steve Job's garage in the 70's, but in 30 days, you will be able to say that you were here in Strasbourg today..."
     cite: "Uwe Diegel, iHealth Founder, March 30th 2014"

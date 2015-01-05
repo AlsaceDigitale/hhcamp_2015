@@ -1,10 +1,9 @@
-## A entire day of inspiring and forward-thinking conferences on the future of health by a line up of internationally-recognized health mentors.
+## Une journée inspirante de conférences visionnaires sur le futur de la santé par des personnalités internationalement reconnues.
 
-Renowned health professionals, entrepreneurs, policy makers and philosophers bring inspiration to us by discussing their vision of future of health.
+Professionnels de santé, entrepreneurs, décideurs et philosophes de renom apporteront l’inspiration en nous faisant partager leurs visions du futur en santé.
 
-These talks are designed to set the stage for creative disruption and encourage participants to think about how take action. 
+Ces présentations visent à préparer le terrain pour encourager les participants à la créativité et à la remise en question tout en les aidants à se projeter dans le futur.
 
-Executive directors from health industry and all people involved in healthcare will find insight to bring innovation in their company.
+Directeurs d’entreprise et toutes personnes impliquées dans la santé y trouveront les informations pertinentes pour apporter l’innovation dans leur domaine.
 
-Health Hackathon participants will work together to design game changing solutions for the health sector. 
-
+Les participants du hackathon pourront se préparer à imaginer les solutions pour transformer le secteur de la santé.

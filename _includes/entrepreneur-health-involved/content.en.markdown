@@ -44,18 +44,18 @@ Hacking Health Camp 2015, 4 days in 3 steps : inspire, learn, act
 
 ### Inspire
 
-#### Future of Health (thursday)
+#### [Future of Health](future-of-health.html) (thursday)
 
 A entire day of inspiring and forward-thinking conferences on the future of health by a line up of internationally-recognized health mentors. It will help you understand future ways in healthcare and give you support to choose your team.
 Health Pitch Challenge (thursday evening)
 
-#### Health Pitch Challenge (thursday evening)
+#### [Health Pitch Challenge](health-pitch-challenge.html) (thursday evening)
 
 Take a look at health startup already at work and choose your favorite.
 
 ### Learn
 
-#### Health Data Day (friday)
+#### [Health Data Day](health-data-day.html) (friday)
 
 Produce or consume health data needs knowledge in legal, medical and technical aspects.
 Understand strategic challenges by attending conferences and workshop on health data privacy, health APIs manipulation, datastore presentation
@@ -63,7 +63,7 @@ For example this year speakers are : Louis LYU (iHealth API), Pierre Desmarais (
 
 ### Act
 
-#### Hackathon : lets’ create (from friday to sunday evening)
+#### [Hackathon](health-hackathon.html) : lets’ create (from friday to sunday evening)
 
 - listen to pitches and choose your project
 - meet project owner, be recruited

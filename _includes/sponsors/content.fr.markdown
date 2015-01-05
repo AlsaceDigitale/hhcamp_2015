@@ -1,17 +1,17 @@
-###Healthcare firms, we need you to support Hacking Health Camp
+### Entreprise de la santé, nous avons besoin de votre aide pour Hacking Health Camp
 
-####Why would my firm support Hacking Health Camp ?
+#### Pourquoi mon entreprise doit soutenir Hacking Health Camp ?
 
-* **Experimentation** : Discover needs from professional and patient and see solutions emerge
-* **Image** : Support health  innovation, and communicate !
- Share your view about tomorrow’s health for your firm and be part of a conference on tomorrow’s health.
-* **Partnership** : Witness the birth of projects you might be interested in
-* **Recruitment** : Meet interesting profiles, to collaborate in your firm for tomorrow’s health
+* **Experimentation** : Découvrez les besoins des professionnels de santé et des patients et regarder les solutions émerger
+* **Image** : Soutenez l'innovation en santé et faites le savoir !
+    Prenez la parole en préambule à une de nos conférences et parlez de l’action de votre entreprise dans la santé de demain.
+* **Partenariat** : Assistez à la genese des projets qui pourraient vous intéresser
+* **Recrutement** : Repérez des profils intéressants pour recruter, et travailler au sein de votre entreprise, à la santé de demain.
 
-We suggest different levels of support, please [contact us](mailto:s.letelie@hackinghealth.ca)
+Nous vous proposons différents niveaux d’implication, [contactez-nous](mailto:s.letelie@hackinghealth.ca)
 
 <a href="https://docs.google.com/document/d/1ybPvnpVwCd5mQPr5NACAqjIlWs1ET-Rj6W7hw2iQr3U/edit?usp=sharing" class="btn btn-primary btn-block" target="_blank">
-          See our sponsorships offers !
+          Nos offres de sponsoring !
         </a>
 
 > Le hackathon Hacking Health est l'image même du dynamisme français en matière d'innovation en santé. Le hackathon c'est de l'énergie, de l'innovation et du talent.
