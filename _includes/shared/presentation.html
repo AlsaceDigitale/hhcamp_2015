@@ -1,8 +1,9 @@
+{% assign content_file_path = mnemonic | append:'/presentation.' | append:page.locale | append:'.markdown' %}
+{% capture presentation %}{% include {{content_file_path}} %}{% endcapture %}
 <section class="presentation {{ mnemonic }}">
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        {% capture presentation %}{% include {{ mnemonic }}/presentation.markdown %}{% endcapture %}
         {{ presentation | markdownify }}
       </div>
     </div>

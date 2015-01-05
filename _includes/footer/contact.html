@@ -2,36 +2,46 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12 text-center">
-        <h2 class="text-center">
-          Contact us
-        </h2>
+        <h2 class="text-center">{{ site[page.locale].contact_block.title }}</h2>
       </div>
     </div>
     <div class="row">
       <div class="col-xs-12 col-sm-4">
         <div class="block">
-          <div class="h2">General Information</div>
-          <div class="h5">Keep inform on event</div>
+          <div class="h2">
+            {{ site[page.locale].contact_block.general_information.title }}
+          </div>
+          <div class="h5">
+            {{ site[page.locale].contact_block.general_information.description }}
+          </div>
           <a href="http://eepurl.com/Gbes1" class="btn btn-primary btn-block">
-            Contact
+            {{ site[page.locale].contact_block.general_information.button_link }}
           </a>
         </div>
       </div>
       <div class="col-xs-12 col-sm-4">
         <div class="block">
-          <div class="h2">Sponsorship</div>
-          <div class="h5">Take part in health innovation</div>
+          <div class="h2">
+            {{ site[page.locale].contact_block.sponsorship.title }}
+          </div>
+          <div class="h5">
+            {{ site[page.locale].contact_block.sponsorship.description }}
+          </div>
           <a href="mailto:s.letelie@hackinghealth.ca" class="btn btn-primary btn-block">
-            Contact
+            {{ site[page.locale].contact_block.sponsorship.description }}
           </a>
         </div>
       </div>
       <div class="col-xs-12 col-sm-4">
         <div class="block">
-          <div class="h2">Volunteering</div>
-          <div class="h5">We need you!</div>
+          <div class="h2">
+            {{ site[page.locale].contact_block.volunteering.title }}
+          </div>
+          <div class="h5">
+            {{ site[page.locale].contact_block.volunteering.description }}
+          </div>
           <a href="mailto:s.letelie@hackinghealth.ca" class="btn btn-primary btn-block">
-            Contact
+            {{ site[page.locale].contact_block.volunteering.button_link }}
           </a>
         </div>
       </div>
