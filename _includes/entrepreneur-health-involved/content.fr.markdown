@@ -3,7 +3,7 @@
 
 ### Entrepreneurs, impliqué en santé,
 
-La médecine vit actuellement sa révolution numérique . Mais elle n'en est qu'à ses tout débuts.
+La médecine vit actuellement sa révolution numérique. Mais elle n'en est qu'à ses tout débuts.
 
 Et elle recherche des compétences comme les vôtres pour avancer.
 
@@ -22,12 +22,13 @@ L’an dernier ils ont proposé les défis suivants :
 - [Faire un serions game sur la nutrition pour faire de la prévention sur l’obésité](http://projects.digitalhealthcamp.eu/serious-games-sur-la-nutrition/)
 - [Faire une app pour éviter les dangers de l’automédication : le patient renseigne son état de santé et ses traitements,  puis scanne la boite de médicament qu'il veut prendre, et l’appli lui indique si ce dernier est compatible](http://projects.digitalhealthcamp.eu/29-flash-med/)
 
-Des entrepreneurs et des personnes impliqués dans la santéont relevé tous ces défis (entre autres), devant l’assemblée fascinée ...:
+Des entrepreneurs et des personnes impliqués dans la santé ont relevé tous ces défis (entre autres), devant l’assemblée fascinée ...:
+
 « ça marche, c'est incroyable !! » Uwe Diegel
 
-Certains projets sont en train de devenir des start’up prometteuses.
+Certains projets sont en train de devenir des startups prometteuses.
 
-Cette année, intégrez une équipe a votre tour ..... Et créez de l’innovation en santé avec nous !
+Cette année, intégrez une équipe à votre tour ..... Et créez de l’innovation en santé avec nous !
 
 Participez à Hacking Health Camp 2015, le plus grand événement européen d'innovation en e-santé.
 
@@ -53,7 +54,7 @@ Parmi les intervenants cette année : Uwe Diegel (iHealth), Juan Fernandez Garci
 
 #### [Health Pitch Challenge](health-pitch-challenge.html) (jeudi soir)
 
-Découvrez des Start up santé et évaluez les, sous les yeux attentifs d' investisseurs.
+Découvrez des startups santé et évaluez-les, sous les yeux attentifs d' investisseurs.
 (Écoutez bien les pitchs, car 24h plus tard, ce sera votre tour de pitcher votre projet au Hackathon....)
 
 ### Apprendre
@@ -63,9 +64,9 @@ Découvrez des Start up santé et évaluez les, sous les yeux attentifs d' inves
 Générer ou utiliser des données de santé, nécessite des connaissances fondamentales, tant éthiques que juridiques ou techniques.
 Comprenez les finesses de votre projet.
 
-Faites vous votre propre opinion en assistant aux conférences : la protection des données de santé, l'aspect légal, l'open data.
+Faites-vous votre propre opinion en assistant aux conférences : la protection des données de santé, l'aspect légal, l'open data.
 
-Parmi les intervenants cette année : Louis LYU (iHealth API), Pierre Desmarais (Avocat en santé), Nicolas Cauvet (VIDAL), Pascal Zellner (Médecin Ugentiste et geek), Pete Ohnemus (entrepreneur en santé), Mike Amundsen (API evangelist), Nicolas Vayatis (Machine Learning), Délia Drahal-Lofskog (CNIL), Rodolphe Thiébaut (Médecin de santé publique)...
+Parmi les intervenants cette année : Louis LYU (iHealth API), Pierre Desmarais (Avocat en santé), Nicolas Cauvet (VIDAL), Pascal Zellner (Médecin Urgentiste et geek), Pete Ohnemus (entrepreneur en santé), Mike Amundsen (API evangelist), Nicolas Vayatis (Machine Learning), Délia Drahal-Lofskog (CNIL), Rodolphe Thiébaut (Médecin de santé publique)...
 
 ### Passer à l'action
 

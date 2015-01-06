@@ -7,7 +7,7 @@ Faisons avancer la pratique médicale en innovant dans l’e-santé !
 
 La santé numérique n’en est qu’à ses débuts et elle a de grands besoins : prenez un temps d’avance et découvrez toutes les possibilités de cet univers passionnant.
 
-Professionnels de santé, participez à HHC de 2 facons possibles :
+Professionnels de santé, participez à Hacking Health Camp de 2 façons possibles :
 
  - donnez vie à votre idée (vous êtes porteur de projet)  : Vous avez imaginé un logiciel / une application de tout type qui fera évoluer la pratique médicale - par ex :  télémédecine, éducation thérapeutique, serious game, .........toutes vos idées sont bonnes !!
 C’est le moment de vous lancer et de faire naître votre projet dans les meilleures conditions à  HH Camp.
@@ -15,9 +15,9 @@ C’est le moment de vous lancer et de faire naître votre projet dans les meill
 Une expérience créative et humaine unique.
 Découvrez une nouvelle façon d’utiliser votre expérience et votre savoir-faire professionnel..
 
-Cette année, HHC vous permettra :
+Cette année, Hacking Health Camp vous permettra :
 
- - de mieux appréhender la santé numérique de demain  : comprendre la direction qu’elle prend et les mutations qu’elle engendre , enrichir vos connaissances sur l’e-santé. (foh, hdd, hpc)
+ - de mieux appréhender la santé numérique de demain: comprendre la direction qu’elle prend et les mutations qu’elle engendre , enrichir vos connaissances sur l’e-santé.
  - d’expérimenter un moment unique : le processus de création d’une solution de santé.
  - en seulement 4 jours.
 
@@ -50,7 +50,7 @@ Parmi les intervenants cette année : Uwe Diegel (iHealth), Juan Fernandez Garci
 
 #### [Health Pitch Challenge](/fr/health-pitch-challenge.html) (jeudi soir)
 
-Découvrez des Start up santé et évaluez les, sous les yeux attentifs d' investisseurs.
+Découvrez des startups santé et évaluez-les, sous les yeux attentifs d' investisseurs.
 (Écoutez bien les pitchs, car 24h plus tard, ce sera votre tour de pitcher votre projet au Hackathon....)
 
 ### Apprendre
@@ -60,7 +60,7 @@ Découvrez des Start up santé et évaluez les, sous les yeux attentifs d' inves
 Générer ou utiliser des données de santé, nécessite des connaissances fondamentales, tant éthiques que  juridiques ou techniques.
 Comprenez les finesses de votre projet.
 
-Faites vous votre propre opinion en assistant aux conférences : la protection des données de santé,l' aspect légal , l'open data.
+Faites-vous votre propre opinion en assistant aux conférences : la protection des données de santé, l' aspect légal , l'open data.
 
 Parmi les intervenants cette année : Louis LYU (iHealth API), Pierre Desmarais (Avocat en santé), Nicolas Cauvet (VIDAL), Pascal Zellner (Médecin Ugentiste et geek), Pete Ohnemus (entrepreneur en santé), Mike Amundsen (API evangelist), Nicolas Vayatis (Machine Learning), Délia Drahal-Lofskog (CNIL), Rodolphe Thiébaut (Médecin de santé publique)...
 

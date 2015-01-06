@@ -73,7 +73,7 @@ Uwe Diegel, iHealth founder, march 30th 2014
 The first edition of **[Hacking Health @ DigitalHealthCamp](http://digitalhealthcamp.eu)** was a huge success thanks to its ability to cater directly to the needs expressed by healthcare professional:
 
  - participation : 200 attendees came from all over France. Among them :  45 health professionals  (nurses, pharmacists, psychiatrists, physiotherapist,...) and about 100 hackers.
- - for 35 challenges submitted there were 19 quality prototypes created, ex: Flashmed, MedMatch, ContAAct, Lifealth, with some of them now having graduated to fully functioning start ups.
+ - for 35 challenges submitted there were 19 quality prototypes created, ex: Flashmed, MedMatch, ContAAct, Lifealth, with some of them now having graduated to fully functioning startups.
    - “It works, it’s incredible…” about MedMatch, Uwe Diegel, iHealth founder
    - 10 of them received awards
    - **[take a look at all projects](http://projects.digitalhealthcamp.eu/)**

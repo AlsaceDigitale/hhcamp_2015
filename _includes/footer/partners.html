@@ -15,10 +15,11 @@
       <div class="row category">
         <div class="col-xs-12">
           <h3 class="h5">
+            {% assign c = category[0] %}
             {% if page.locale == "fr" %}
-              {{ site[page.locale].partner }}s {% if category[0] != "regular" %}{{ category[0] }} {% endif %}
+              {{ site[page.locale].partner }}s {{ site[page.locale].partners_title[c] }}
             {% else %}
-              {% if category[0] != "regular" %}{{ category[0] }} {% endif %}{{ site[page.locale].partner }}s
+            {{ site[page.locale].partners_title[c] }} {{ site[page.locale].partner }}s
             {% endif %}
           </h3>
           <ul class="list-inline">
