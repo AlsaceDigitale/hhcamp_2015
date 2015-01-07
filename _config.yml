@@ -702,6 +702,8 @@ partners:
       url: http://strasbourg.eu
     - name: Samsung
       url: http://www.samsung.com
+    - name: Sanofi
+      url: http://www.sanofi.fr
   silver:
     - name: Doctissimo
       url: http://www.doctissimo.fr
@@ -724,6 +726,8 @@ partners:
       url: http://med.unistra.fr/
     - name: Interaction Healthcare
       url: http://www.interaction-healthcare.com/
+    - name: soprasteria
+      url: http://www.soprasteria.com/
   hospital:
     - name: HUS
       url: http://www.chru-strasbourg.fr/
