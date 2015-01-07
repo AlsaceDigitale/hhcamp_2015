@@ -209,6 +209,9 @@ people:
         - name: Sébastien Letélié
           twitter: sebmade
           linkedin: in/sebmade
+        - name: Luc Sirois
+          twitter: lsirois007
+          linkedin: in/lucsirois
         - name: Johan Moreau
           twitter: johan_moreau
           linkedin: profile/view?id=8416769
@@ -404,8 +407,9 @@ people:
     - name: "Jury"
       list:
         - name: Gilles Bontemps
-          description: doctor and associate director at ANAP. [Learn More](http://www.anap.fr/).
-        - name: To be announced soon !
+          description: Doctor and associate director at ANAP. [Learn More](http://www.anap.fr/).
+        - name: Israel Nisand
+          description: Gynécologue obstétricien, professeur des universités [Learn More](http://fr.wikipedia.org/wiki/Isra%C3%ABl_Nisand)
         - name: To be announced soon !
         - name: To be announced soon !
         - name: To be announced soon !
@@ -420,7 +424,7 @@ people:
           twitter: DesmaraisPierre
           linkedin: profile/view?id=88478484
         - name: Caroline Zorn
-          description: Health lawyer
+          description: Avocate au Barreau de Nancy et enseignante à l’Université de Strasbourg en Droit de l’informatique, Caroline ZORN a commencé à travailler avec les acteurs de la esanté en étant juriste à l’Asip santé. Après avoir soutenu sa thèse, « Données de santé et secret partagé », elle a décidé de consacrer son activité exclusivement à la santé et au numérique. Caroline accompagne aujourd’hui des projets variés de esanté grâce à une expertise allant du Droit des patients et de l’hébergement des données, à la Propriété intellectuelle, en passant par le Crédit Import Recherche. En tant que chercheur associé, elle continue également de s’impliquer dans des projets de recherche axée sur le Cloud en santé.
           twitter: c_zorn
           linkedin: in/carolinezorn/en
         - name: Guillaume Lours
@@ -432,11 +436,26 @@ people:
           twitter: VeroColligence
           linkedin: profile/view?id=114073742
         - name: Pascal Bastien
-          description: "Team coaching"
+          description: "Team coaching, if you don't where you are and how continue call him ;)"
           linkedin: profile/view?id=11810442
         - name: Délia Drahal-Lofskog
-          description: "Legal and privacy"
-        - name: To be announced soon !
+          description: "Legal and privacy in charge of health data at [CNIL](http://www.cnil.fr)"
+        - name: Christelle Carrier
+          description: À l'origine du projet de [La Fabrique de l'Hospitalité](http://www.lafabriquedelhospitalite.org/). Historienne de l'architecture et ingénieur en gestion, elle est recrutée par le CHU de Strasbourg en 1999 dans le cadre du programme «Culture à l'hôpital» établi entre le ministère de la Culture et le ministère de la Santé. Elle a développé son action en s'appuyant sur les évolutions à l’œuvre ces dernières années dans notre établissement et les trois piliers d'un CHU, que sont le soin, la recherche et l'enseignement.
+          twitter: fabriqueH
+          linkedin: profile/view?id=140936852
+        - name: Barbara Bay
+          description: Chef de projet à [La Fabrique de l’hospitalité](http://www.lafabriquedelhospitalite.org/), un service de la direction générale du CHU de Strasbourg qui a pour objet de favoriser la co-création des agents hospitaliers et des usagers afin d'améliorer la prise en soin des patients et de leur proche avec des outils issus des sciences humaines, de la création en général et du design en particulier. Elle est une plate-forme de collaboration entre les Hôpitaux Universitaires de Strasbourg (HUS) et de nombreux partenaires autour des mêmes objectifs d’amélioration des espaces et du temps vécu à l’hôpital.
+          twitter: fabriqueH
+          linkedin: profile/view?id=142877016
+        - name: Anne-Laure Desflaches
+          description: Designer indépendante, elle porte un intérêt particulier à la valeur des matériaux, à la co-conception et au design public. Persuadée que le designer à un rôle à jouer au sein de l’hôpital public, elle a rejoint la Fabrique de l'hospitalité, laboratoire d'innovation des Hôpitaux universitaires de Strasbourg.
+          twitter: fabriqueH
+          linkedin: profile/view?id=207879582
+        - name: Cécilia Rohmer Gurisik
+          description: Professeur d'Arts Appliqués à l'Ecole Le Corbusier d'Illkirch (Strasbourg) est enseignante spécialisée en « design global » et « design de produits », exerçant sur le Diplôme Supérieur d'Arts Appliqués (Master1). De formation universitaire en Arts Plastiques et Arts Appliqués, elle recherche de modèles collaboratifs situant les apprenants au centre de schémas prospectifs variés. Elle expérimente des projets qui visent à aiguiser les méthodologies du design au service de l'innovation sociale et porte un intérêt particulier pour l'étude et l'élaboration des techniques de co-conception, pour le design public et le design de service.
+          twitter: fabriqueH
+          linkedin: profile/view?id=150864027
         - name: To be announced soon !
         - name: To be announced soon !
         - name: To be announced soon !
