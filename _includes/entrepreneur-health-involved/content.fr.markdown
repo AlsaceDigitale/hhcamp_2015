@@ -9,7 +9,7 @@ Et elle recherche des compétences comme les vôtres pour avancer.
 
 Toutes les énergies sont nécessaires pour amener les idées à la realité et concevoir de application efficaces en santé.
 
-C'est le moment de vous offrir une expérience créative de 4 jours dans ce domaine utile, pointu, et pleine de perspectives.
+C'est le moment de vous offrir une expérience créative de 4 jours dans ce domaine utile, pointu, et plein de perspectives.
 
 Au Hacking Health Camp, faites avancer le monde de la santé en relevant les défis des médecins, pharmaciens, infirmiers, ou kinés,......
 

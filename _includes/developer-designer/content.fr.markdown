@@ -9,9 +9,9 @@ Et elle recherche des compétences comme les vôtres pour avancer.
 
 Le design et l’ ergonomie sont des éléments fondamentaux pour la création du prototype de solution médicale, tout particulièrement quand les utilisateurs sont des patients.
 
-Les compétences de développements d'applications et la maitrise des technologies sont indispensables pour la création d'un prototype.
+Les compétences de développement d'applications et la maitrise des technologies sont indispensables pour la création d'un prototype.
 
-C'est le moment de vous offrir une expérience créative de 4 jours dans ce domaine utile, pointu, et pleine de perspectives.
+C'est le moment de vous offrir une expérience créative de 4 jours dans ce domaine utile, pointu, et plein de perspectives.
 
 Au Hacking Health Camp, faites avancer le monde de la santé en relevant les défis des médecins, pharmaciens, infirmiers, ou kinés,......
 
@@ -24,7 +24,7 @@ L’an dernier ils ont proposé les défis suivants :
 - [Faire un serions game sur la nutrition pour faire de la prévention sur l’obésité](http://projects.digitalhealthcamp.eu/serious-games-sur-la-nutrition/)
 - [Faire une app pour éviter les dangers de l’automédication : le patient renseigne son état de santé et ses traitements,  puis scanne la boite de médicament qu'il veut prendre, et l’appli lui indique si ce dernier est compatible](http://projects.digitalhealthcamp.eu/29-flash-med/)
 
-Des entrepreneurs et des personnes impliqués dans la santéont relevé tous ces défis (entre autres), devant l’assemblée fascinée ...:
+Des entrepreneurs et des personnes impliqués dans la santé ont relevé tous ces défis (entre autres), devant l’assemblée fascinée ...:
 « ça marche, c'est incroyable !! » Uwe Diegel
 
 Certains projets sont en train de devenir des startups prometteuses.
