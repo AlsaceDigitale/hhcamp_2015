@@ -47,15 +47,6 @@
 <p>Tel. : +33 (0)3 90 00 26 26</p>
 <p><a href="mailto:info@cour-corbeau.com">info@cour-corbeau.com</a></p>
 
-<p><a href="http://www.hotel-diana-dauphine.com/fr/hotel-3-etoiles-strasbourg.php" target="_blank">Hôtel Diana Dauphine</a></p>
-<p>30 Rue de la 1ère Armée - 67000 Strasbourg</p>
-<p>Tél. : +33 (0)3 88 36 26 61</p>
-<p><a href="mailto:info@hotel-diana-dauphine.com">info@hotel-diana-dauphine.com</a></p>
-
-<p><a href="http://www.hotel-ettenheim-strasbourg.fr/" target="_blank">Hôtel Ettenheim</a></p>
-<p>3 place de l’Hôpital - 67000 Strasbourg</p>
-<p>Tél. +33 (0)3 88 24 90 70</p>
-
 <p><a href="http://www.cerf-dor-strasbourg.fr/" target="_blank">Hôtel au Cerf d'or</a></p>
 <p>6 Place de l’Hôpital - 67000 STRASBOURG</p>
 <p>Tél. : +33 (0)3 88 36 20 05</p>
@@ -66,16 +57,24 @@
 <p>Tél. : +33 (0)3 88 35 79 80</p>
 <p><a href="mailto:hotel@dragon.fr">hotel@dragon.fr</a></p>
 
-<p><a href="http://www.holidayinn-strasbourg.fr/" target="_blank">Holliday Inn Strasbourg Centre</a></p>
-<p>Rue de la corderie - 67000 Strasbourg  France</p>
-<p>Tél. : +33 (0) 388 10 99 99</p>
-<p><a href="mailto:contact@holidayinn-strasbourg.fr">contact@holidayinn-strasbourg.fr</a></p>
-
 <p><a href="http://www.hotel-beaucour.com/fr/" target="_blank">Hôtel Beaucour</a></p>
 <p>5, rue des Bouchers - 67000 STRASBOURG</p>
 <p>Tél. : +33 (0)3 88 76 72 00</p>
 <p><a href="mailto:info@hotel-beacour.fr">info@hotel-beaucour.fr</a></p>
 
+<!--<p><a href="http://www.hotel-diana-dauphine.com/fr/hotel-3-etoiles-strasbourg.php" target="_blank">Hôtel Diana Dauphine</a></p>
+<p>30 Rue de la 1ère Armée - 67000 Strasbourg</p>
+<p>Tél. : +33 (0)3 88 36 26 61</p>
+<p><a href="mailto:info@hotel-diana-dauphine.com">info@hotel-diana-dauphine.com</a></p>
+
+<p><a href="http://www.hotel-ettenheim-strasbourg.fr/" target="_blank">Hôtel Ettenheim</a></p>
+<p>3 place de l’Hôpital - 67000 Strasbourg</p>
+<p>Tél. +33 (0)3 88 24 90 70</p>
+
+<p><a href="http://www.holidayinn-strasbourg.fr/" target="_blank">Holliday Inn Strasbourg Centre</a></p>
+<p>Rue de la corderie - 67000 Strasbourg  France</p>
+<p>Tél. : +33 (0) 388 10 99 99</p>
+<p><a href="mailto:contact@holidayinn-strasbourg.fr">contact@holidayinn-strasbourg.fr</a></p>-->
 
   </div>
 </div>
