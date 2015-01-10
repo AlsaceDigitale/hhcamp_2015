@@ -8,17 +8,6 @@ layout: default
 {% else %}
 {% assign content_file_path = page_path | append:'/content.' | append:page.locale | append:'.markdown' %}
 {% endif %}
-{% if page_path == 'discover' and page.locale == 'fr' %}
-{% assign atelier = page_path | append:'/atelier.' | append:page.locale | append:'.markdown' %}
-{% capture content %}{% include {{ atelier }} %}{% endcapture %}
-<section class="atelier">
-  <div class="container">
-    <div class="row">
-      {{ content | markdownify }}
-    </div>
-  </div>
-</section>
-{% endif %}
 {% capture content %}{% include {{ content_file_path }} %}{% endcapture %}
 <section class="content">
   <div class="container">
