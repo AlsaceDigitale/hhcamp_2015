@@ -95,7 +95,7 @@
 
         <h1>Auditorium du <br/>conservatoire de musique</h1>
 
-        <h2>Place de l'étoile <br/>67000 Strasbourg <br/> FRANCE</h2>
+        <h2>1 Place Dauphine (near Place de l'étoile)<br/>67000 Strasbourg <br/> FRANCE</h2>
 
     </div>
 </div>
