@@ -1,7 +1,7 @@
 {% assign webPageProject = "http://projects.digitalhealthcamp.eu/"%}
-# Vidéos de l'évènement précédent et sites web des projets
+## Vidéos de l'évènement précédent et sites web des projets
 
-## En mars 2014, 19 projets ont été réalisés. Regardez les vidéos des pitchs and les [sites web des projets]({{webPageProject}}). Cela vous donnera une idée des choses fantastiques que l'on peut réaliser en un weekend avec une équipe.
+En mars 2014, 19 projets ont été réalisés. Regardez les vidéos des pitchs et les [sites web des projets]({{webPageProject}}). Cela vous donnera une idée des choses fantastiques que l'on peut réaliser en un weekend avec une équipe.
 
 <a href="{{webPageProject}}" class="btn btn-primary btn-block">
           Regardez les projets de l'évènement précédent !
