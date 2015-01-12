@@ -7,7 +7,7 @@
 
 <p>Auditorium du conservatoire de musique</p>
 
-<p>Place de l'étoile</p>
+<p>1, Place Dauphine (near Place de l'étoile)</p>
 
 <p>67000 Strasbourg</p>
 
