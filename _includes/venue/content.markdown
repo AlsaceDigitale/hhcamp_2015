@@ -33,6 +33,7 @@
   <div class="col-md-6">
 
 <h3>Hotels suggestions</h3>
+<h4>We negociate a discount for Hacking Health Camp attendees for a limited number of rooms. <br>If you book early you can benefit of this discound by telling you come for Hacking Health Camp</h4>
 
 <p><a href="http://www.ibis.com/fr/hotel-1428-ibis-strasbourg-centre-ponts-couverts/index.shtml" target="_blank">Hôtel ibis Strasbourg Centre Ponts Couverts ***</a></p>
 <p>7 RUE DE MOLSHEIM - 67000 - STRASBOURG</p>
