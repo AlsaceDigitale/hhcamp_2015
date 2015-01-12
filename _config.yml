@@ -403,6 +403,11 @@ people:
           label: "technical"
           twitter: herberts
           linkedin: in/herberts
+        - name: James Agnew
+          description: "James Agnew is an architect with University Health Network in Toronto Canada. He has spent the last 10 years pushing open source technologies as a way of building better software in the health arena. As a part of this mission, he leads the HAPI project, which is a free platform for exchanging medical data used in projects around the world."
+          label: "technical"
+          twitter: 
+          linkedin: 
   health-hackathon:
     - name: "Jury"
       list:
