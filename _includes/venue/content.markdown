@@ -34,7 +34,7 @@
 
 <h3>Hotels suggestions</h3>
 
-<p><a href="http://www.ibis.com/fr/hotel-1428-ibis-strasbourg-centre-ponts-couverts/index.shtml" target="_blank">Hôtel ibis Strasbourg Centre Ponts Couverts</a></p>
+<p><a href="http://www.ibis.com/fr/hotel-1428-ibis-strasbourg-centre-ponts-couverts/index.shtml" target="_blank">Hôtel ibis Strasbourg Centre Ponts Couverts ***</a></p>
 <p>7 RUE DE MOLSHEIM - 67000 - STRASBOURG</p>
 <p>Tél. : +33 (0)3 90 22 48 70</p>
 
@@ -42,17 +42,17 @@
 <p>23, rue des Glacières - 67000 - STRASBOURG</p>
 <p>Tel. : +33 (0)3 90 20 50 00</p>
 
-<p><a href="http://www.cour-corbeau.com/" target="_blank">Hôtel Cour du Corbeau</a></p>
+<p><a href="http://www.cour-corbeau.com/" target="_blank">Hôtel Cour du Corbeau ****</a></p>
 <p>6-8, rue des Couples - 67000 - STRASBOURG</p>
 <p>Tel. : +33 (0)3 90 00 26 26</p>
 <p><a href="mailto:info@cour-corbeau.com">info@cour-corbeau.com</a></p>
 
-<p><a href="http://www.cerf-dor-strasbourg.fr/" target="_blank">Hôtel au Cerf d'or</a></p>
+<p><a href="http://www.cerf-dor-strasbourg.fr/" target="_blank">Hôtel au Cerf d'or ***</a></p>
 <p>6 Place de l’Hôpital - 67000 STRASBOURG</p>
 <p>Tél. : +33 (0)3 88 36 20 05</p>
 <p><a href="mailto:reservation@cerf-dor.com">reservation@cerf-dor.com</a></p>
 
-<p><a href="http://www.dragon.fr/" target="_blank">Hôtel du Dragon</a></p>
+<p><a href="http://www.dragon.fr/" target="_blank">Hôtel du Dragon ***</a></p>
 <p>12 rue du Dragon - 67000 STRASBOURG</p>
 <p>Tél. : +33 (0)3 88 35 79 80</p>
 <p><a href="mailto:hotel@dragon.fr">hotel@dragon.fr</a></p>
