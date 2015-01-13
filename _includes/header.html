@@ -66,7 +66,7 @@
           </ul>
         </li>
         {% assign target_url = '/ticket.html' | prepend: site.baseurl %}
-        <li><a href="{{ target_url }}">{{ site[page.locale].nav.ticket }}</a></li>
+        <li><a href="{% if page.locale == "fr" %}/fr{% endif %}{{ target_url }}">{{ site[page.locale].nav.ticket }}</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ site[page.locale].nav.hhcamp_and_you }}</a>
           <ul class="dropdown-menu" role="menu">
