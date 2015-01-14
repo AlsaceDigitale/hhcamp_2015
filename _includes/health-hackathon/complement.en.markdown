@@ -14,7 +14,7 @@ Partners give us tools, devices, data and services to help you implement your so
 
 To submit your challenge you need to subscribe to the event and then on the sparkboard.
 
-This year our partner [GET Funded](http://www.get-ehealth.eu/) identify unmet needs in the Health space that can be solved with the use of technology. That is, "market gaps" where seems there are not enough IT solutions and, therefore, can become business opportunities for eHealth entrepreneurs and companies
+This year our partner [GET (Global eHealth Transforming services)](http://www.get-ehealth.eu/) identify unmet needs in the Health space that can be solved with the use of technology. That is, "market gaps" where seems there are not enough IT solutions and, therefore, can become business opportunities for eHealth entrepreneurs and companies
 
 <a href="http://www.get-ehealth.eu/fill-the-gap/" class="btn btn-primary btn-block">
           List of unmet needs

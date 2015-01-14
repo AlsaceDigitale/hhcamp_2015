@@ -13,7 +13,7 @@ Les partenaires fournissent du matériel, des données et des services pour vous
 
 Pour soumettre votre défi vous devez vous [inscrire à l'évènement](http://hhcamp.eventbrite.fr) puis sur le site [sparkboard](http://hhcamp.sparkboard.com) : une application web dédiée à la gestion des défis.
 
-Cette année notre partenaire [GET Funded](http://www.get-ehealth.eu/) a identifié les besoins insatisfait dans le secteur de la santé qui peuvent être résolus par une approche technologique. Ce sont des opportunités de marché pour lesquelles il semble qu'il n'y est pas encore assez de solutions technologiques et qui sont des pistes pour les entrepreneurs en santé et les industriels.
+Cette année notre partenaire [GET (Global eHealth Transforming services)](http://www.get-ehealth.eu/) a identifié les besoins insatisfait dans le secteur de la santé qui peuvent être résolus par une approche technologique. Ce sont des opportunités de marché pour lesquelles il semble qu'il n'y est pas encore assez de solutions technologiques et qui sont des pistes pour les entrepreneurs en santé et les industriels.
 
 <a href="http://www.get-ehealth.eu/fill-the-gap/" class="btn btn-primary btn-block">
           Liste des besoins insatisfaits

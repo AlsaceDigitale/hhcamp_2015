@@ -96,6 +96,8 @@ fr:
     silver: silver
     hospital: hospitalier
     regular: ""
+    media: media
+    event: evenementiel
 
 
 en:
@@ -181,6 +183,8 @@ en:
     silver: silver
     hospital: hospital
     regular: ""
+    media: media
+    event: event
 
 
 testimonies:
@@ -406,8 +410,8 @@ people:
         - name: James Agnew
           description: "James Agnew is an architect with University Health Network in Toronto Canada. He has spent the last 10 years pushing open source technologies as a way of building better software in the health arena. As a part of this mission, he leads the HAPI project, which is a free platform for exchanging medical data used in projects around the world."
           label: "technical"
-          twitter: 
-          linkedin: 
+          twitter:
+          linkedin:
   health-hackathon:
     - name: "Jury"
       list:
@@ -831,6 +835,9 @@ partners:
       url: http://www.tic-sante.fr
     - name: SIH Solutions
       url: http://www.sih-solutions.fr/
+  event:
+    - name: eHealth-competition
+      url: http://www.ehealthcompetition.eu/
 
 last_event_playlist_id: PLKHIK5minrP6NXwHfUF3lD5SbmlbclGhK
 
