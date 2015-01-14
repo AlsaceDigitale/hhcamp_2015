@@ -1,26 +1,35 @@
-#They are talking about us !
+##They are talking about us !
 
 <section class="press">
-<div class="container">
-<div class="col-xs-12">
-<ul class="list-inline">
-{% for blogPost in site.blogPost %}
-<li >
-<div class="img-container">
-{% assign blogpost_name = blogPost.name | downcase | replace:" ","-" | replace:"é","e" | remove:"!" | split:"-" | join:"-" | append:".jpg" %}
-<a target="_blank" href="{{blogPost.url}}">
-{% assign image_url= "/img/partner/" | append: blogpost_name | prepend: site.baseurl %}
-<img class="img-responsive" alt="{{ blogPost.title }}" src="{{ image_url }}" />
-</a>
-</div>
-</li>
-{% endfor %}
-</ul>
-</div>
-</div>
+  <div class="container">
+      <div class="row category">
+        <div class="col-xs-12">
+          <ul class="list-inline">
+	   {% for blogPost in site.blogPost %}
+            <li>
+              <div class="img-container">
+	      	{% assign blogpost_name = blogPost.name | downcase | replace:" ","-" | replace:"é","e" | remove:"!" | split:"-" | join:"-" | append:".jpg" %}
+		{% assign img_url= "/img/partner/" | append: blogpost_name | prepend: site.baseurl %}
+                <a href="{{ blogPost.url }}" target="_blank">
+                  <img src="{{ img_url }}" alt="{{ blogPost.title }}" class="img-responsive" />
+                </a>
+              </div>
+            </li>
+          {% endfor %}
+          </ul>
+        </div>
+      </div>
+  </div>
 </section>
 
-#Documents
+
+
+
+
+
+
+
+##Documents
 
 ###[press kit](https://drive.google.com/open?id=1btb1a-Dz3kX6AV9Bv84Qj7ZWSf9aj-8mZFQ5sGgaC7g&authuser=0)
 
