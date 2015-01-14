@@ -5,7 +5,7 @@ layout: default
 {% assign mnemonic = event.name | downcase | replace:' ','-' %}
 {% include event/intro.html %}
 {% include shared/presentation.html %}
-{% if page.path == "health-hackathon.html" %}
+{% if page.path == "health-hackathon.html" or page.path == "fr/health-hackathon.html"%}
 {% assign content_file_path = mnemonic | append:'/complement.' | append:page.locale | append:'.markdown' %}
 {% capture complement %}{% include {{content_file_path}} %}{% endcapture %}
 <section class="complement {{ mnemonic }}">
