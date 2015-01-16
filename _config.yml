@@ -284,33 +284,33 @@ people:
           twitter: uwe
           linkedin: in/uwediegel
         - name: Pierre-Paul Vidal
-          description: MD PhD, Head of Department [COGNAC-G (COGNition and ACtion Group)](http://www.biomedicale.parisdescartes.fr/~cognac/cognac/) - Université Paris Descartes - CNRS UMR-MD - SSA
+          description: MD PhD, Head of Department [COGNAC-G (COGNition and ACtion Group)](http://www.biomedicale.parisdescartes.fr/~cognac/cognac/) - Université Paris Descartes - CNRS UMR-MD - SSA.
           linkedin: profile/view?id=151969844
         - name: Jorge Juan Fernandez Garcia
-          description: BHITE polymath (Biomedicine + Healthcare + Innovation + Technology + Entrepreneurship)
+          description: BHITE polymath (Biomedicine + Healthcare + Innovation + Technology + Entrepreneurship).
           twitter: jorgejuan
           linkedin: profile/view?id=2277954
         - name: Jacques Marescaux
           description: "President of the Research Institute Against Digestive Cancers (IRCAD) &
-Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg)"
+Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn more.](https://en.wikipedia.org/wiki/Jacques_Marescaux)"
         - name: Zayna Khayat
           description: "At MaRS, Zayna and her rockstar team help smooth the path to adoption of health innovation by healthcare systems in Ontario and around the world. She is also an adjunct faculty with the Rotman School of Management in the Health Sector Strategy stream."
           twitter: ZaynaKhayat
           linkedin: in/zkhayat
         - name: Béatrice Falise-Mirat
-          description: "Director of Public and Regulatory Affairs at Orange Healthcare"
+          description: "Director of Public and Regulatory Affairs at Orange Healthcare."
           twitter:
           linkedin: pub/beatrice-falise-mirat/93/5b/733
         - name: Thomas Landrain
-          description: "Co-founder/President of 1st french biotech community lab 'La Paillasse' - PhD student in Synthetic Biology at iSSB"
+          description: "Co-founder/President of 1st french biotech community lab 'La Paillasse' - PhD student in Synthetic Biology at iSSB."
           twitter:
           linkedin: pub/thomas-landrain/2a/a48/366
         - name: Cédric O'Neil
-          description: "President at  [1001Pharmacies.com](http://1001Pharmacies.com)"
+          description: "President at  [1001Pharmacies.com](http://1001Pharmacies.com)."
           twitter:
           linkedin: in/cedriconeill
         - name: Robert Riener
-          description: "Professor at ETH and University of Zurich"
+          description: "Professor at ETH and University of Zurich."
           twitter:
           linkedin: pub/riener-robert/28/434/316
         - name: Nicolas Colin
@@ -341,17 +341,17 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg)"
       list:
         - name: Mike Amundsen
           label: technical
-          description: "Director of API Architecture, API Academy at CA Technologies. Working to improve the quality and usability of information on the Web. [Know more.](http://amundsen.com/blog/)"
+          description: "Director of API Architecture, API Academy at CA Technologies.<br /> Working to improve the quality and usability of information on the Web.<br /> [Know more.](http://amundsen.com/blog/)"
           twitter: mamund
           linkedin: in/mamund
         - name: Pierre Desmarais
           label: legal
-          description: "Avocat au Barreau de Paris et Correspondant Informatique et Libertés (CIL), Pierre Desmarais exerce une activité de conseil en droit de la santé et des nouvelles technologies. Il accompagne au quotidien des start-ups développant des produits et services innovants dans le domaine de la santé, de l’opendata et de l’e-santé. Il est également chargé d’enseignement au Conservatoire National des Arts et Métiers (CNAM) et à l'Université Paris VIII."
+          description: "Avocat au Barreau de Paris et Correspondant Informatique et Libertés (CIL), Pierre Desmarais exerce une activité de conseil en droit de la santé et des nouvelles technologies.<br /> Il accompagne au quotidien des start-ups développant des produits et services innovants dans le domaine de la santé, de l’opendata et de l’e-santé. Il est également chargé d’enseignement au Conservatoire National des Arts et Métiers (CNAM) et à l'Université Paris VIII."
           twitter: DesmaraisPierre
           linkedin: profile/view?id=88478484
         - name: Louie Lyu
           label: technical
-          description: "Chief Integration Officer Project Manager of Enterprise Solutions iHealthLabs EUROPE SARL. I come from the background of optical-electronic engineering and biological sensing, and my current work in iHealthLabs EUROPE is concentrating on medical data integration, enterprise solution development and eco-system analysis in mobile health industry. I believe people deserve better health treatment and life condition by using the most advanced technology."
+          description: "Chief Integration Officer Project Manager of Enterprise Solutions iHealthLabs EUROPE SARL.<br />I come from the background of optical-electronic engineering and biological sensing, and my current work in iHealthLabs EUROPE is concentrating on medical data integration, enterprise solution development and eco-system analysis in mobile health industry.<br />I believe people deserve better health treatment and life condition by using the most advanced technology."
           twitter:
           linkedin: /in/louielyu
         - name: Sofie van der Meulen
@@ -366,12 +366,12 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg)"
           linkedin: profile/view?id=72598950
         - name: Werner Bachmann
           label: legal
-          description: "German Health lawyer - Partner in der Kanzlei Friedrich Graf von Westphalen&Partner"
+          description: "German Health lawyer - Partner in der Kanzlei Friedrich Graf von Westphalen&Partner."
           twitter:
           linkedin: profile/view?id=19779877
         - name: Pascal Zellner
           label: "medical"
-          description: "Hospital worker at SAMU 73. Emergency doctor and mountain rescuer since 1996"
+          description: "Hospital worker at SAMU 73. Emergency doctor and mountain rescuer since 1996."
           twitter: pzellner
           linkedin: profile/view?id=87349943
         - name: Charles Metivier
@@ -379,12 +379,12 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg)"
           twitter:
           linkedin: profile/view?id=11785464
         - name: Nicolas Vayatis
-          description: "Director of CMLA at École Normale Supérieure de Cachan. [Website](http://nvayatis.perso.math.cnrs.fr/). Machine Learning and Massive Data Analisys"
+          description: "Director of CMLA at École Normale Supérieure de Cachan. [Website](http://nvayatis.perso.math.cnrs.fr/). Machine Learning and Massive Data Analisys."
           label: "technical"
           twitter:
           linkedin: pub/nicolas-vayatis/b/495/510
         - name: Délia Drahal-Lofskog
-          description: Head of Health Privacy at [CNIL](http://www.cnil.fr)
+          description: Head of Health Privacy at [CNIL](http://www.cnil.fr).
           label: "legal"
           twitter:
           linkedin:
@@ -399,12 +399,12 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg)"
           twitter:
           linkedin:
         - name: Rodolphe Thiebaut
-          description: "Médecin de santé publique, MCU-PH à l'ISPED, Bordeaux [More infos](http://www.isped.u-bordeaux2.fr/FR_HTM_annuaire.aspx?CLE_PERSONNE=314)"
+          description: "Médecin de santé publique, MCU-PH à l'ISPED, Bordeaux.<br /> [More infos](http://www.isped.u-bordeaux2.fr/FR_HTM_annuaire.aspx?CLE_PERSONNE=314)."
           label: "medical"
           twitter:
           linkedin:
         - name: Mathias Herberts
-          description: "Disruptive Engineer, Chief Technology Officer, Cofounder at Cityzen Data"
+          description: "Disruptive Engineer, Chief Technology Officer, Cofounder at Cityzen Data."
           label: "technical"
           twitter: herberts
           linkedin: in/herberts
@@ -419,7 +419,7 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg)"
         - name: Gilles Bontemps
           description: Doctor and associate director at ANAP. [Learn More](http://www.anap.fr/).
         - name: Israel Nisand
-          description: Gynécologue obstétricien, professeur des universités [Learn More](http://fr.wikipedia.org/wiki/Isra%C3%ABl_Nisand)
+          description: Gynécologue obstétricien, professeur des universités.<br/>[Learn More.](http://fr.wikipedia.org/wiki/Isra%C3%ABl_Nisand)
         - name: To be announced soon !
         - name: To be announced soon !
         - name: To be announced soon !
@@ -430,11 +430,11 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg)"
           twitter: e_lalami
           linkedin: profile/view?id=36725748
         - name: Pierre Desmarais
-          description: "Avocat au Barreau de Paris et Correspondant Informatique et Libertés (CIL), Pierre Desmarais exerce une activité de conseil en droit de la santé et des nouvelles technologies. Il accompagne au quotidien des start-ups développant des produits et services innovants dans le domaine de la santé, de l’opendata et de l’e-santé. Il est également chargé d’enseignement au Conservatoire National des Arts et Métiers (CNAM) et à l'Université Paris VIII."
+          description: "Avocat au Barreau de Paris et Correspondant Informatique et Libertés (CIL), Pierre Desmarais exerce une activité de conseil en droit de la santé et des nouvelles technologies.<br /> Il accompagne au quotidien des start-ups développant des produits et services innovants dans le domaine de la santé, de l’opendata et de l’e-santé. Il est également chargé d’enseignement au Conservatoire National des Arts et Métiers (CNAM) et à l'Université Paris VIII."
           twitter: DesmaraisPierre
           linkedin: profile/view?id=88478484
         - name: Caroline Zorn
-          description: Avocate au Barreau de Nancy et enseignante à l’Université de Strasbourg en Droit de l’informatique, Caroline ZORN a commencé à travailler avec les acteurs de la esanté en étant juriste à l’Asip santé. Après avoir soutenu sa thèse, « Données de santé et secret partagé », elle a décidé de consacrer son activité exclusivement à la santé et au numérique. Caroline accompagne aujourd’hui des projets variés de esanté grâce à une expertise allant du Droit des patients et de l’hébergement des données, à la Propriété intellectuelle, en passant par le Crédit Import Recherche. En tant que chercheur associé, elle continue également de s’impliquer dans des projets de recherche axée sur le Cloud en santé.
+          description: Avocate au Barreau de Nancy et enseignante à l’Université de Strasbourg en Droit de l’informatique, Caroline ZORN a commencé à travailler avec les acteurs de la esanté en étant juriste à l’Asip santé. Après avoir soutenu sa thèse, « Données de santé et secret partagé », elle a décidé de consacrer son activité exclusivement à la santé et au numérique.<br/> Caroline accompagne aujourd’hui des projets variés de esanté grâce à une expertise allant du Droit des patients et de l’hébergement des données, à la Propriété intellectuelle, en passant par le Crédit Import Recherche. En tant que chercheur associé, elle continue également de s’impliquer dans des projets de recherche axée sur le Cloud en santé.
           twitter: c_zorn
           linkedin: in/carolinezorn/en
         - name: Guillaume Lours
@@ -449,13 +449,13 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg)"
           description: "Team coaching, if you don't where you are and how continue call him ;)"
           linkedin: profile/view?id=11810442
         - name: Délia Drahal-Lofskog
-          description: "Legal and privacy in charge of health data at [CNIL](http://www.cnil.fr)"
+          description: Head of Health Privacy at [CNIL](http://www.cnil.fr).
         - name: Christelle Carrier
-          description: À l'origine du projet de [La Fabrique de l'Hospitalité](http://www.lafabriquedelhospitalite.org/). Historienne de l'architecture et ingénieur en gestion, elle est recrutée par le CHU de Strasbourg en 1999 dans le cadre du programme «Culture à l'hôpital» établi entre le ministère de la Culture et le ministère de la Santé. Elle a développé son action en s'appuyant sur les évolutions à l’œuvre ces dernières années dans notre établissement et les trois piliers d'un CHU, que sont le soin, la recherche et l'enseignement.
+          description: À l'origine du projet de [La Fabrique de l'Hospitalité](http://www.lafabriquedelhospitalite.org/).<br/>Historienne de l'architecture et ingénieur en gestion, elle est recrutée par le CHU de Strasbourg en 1999 dans le cadre du programme «Culture à l'hôpital» établi entre le ministère de la Culture et le ministère de la Santé. Elle a développé son action en s'appuyant sur les évolutions à l’œuvre ces dernières années dans notre établissement et les trois piliers d'un CHU, que sont le soin, la recherche et l'enseignement.
           twitter: fabriqueH
           linkedin: profile/view?id=140936852
         - name: Barbara Bay
-          description: Chef de projet à [La Fabrique de l’hospitalité](http://www.lafabriquedelhospitalite.org/), un service de la direction générale du CHU de Strasbourg qui a pour objet de favoriser la co-création des agents hospitaliers et des usagers afin d'améliorer la prise en soin des patients et de leur proche avec des outils issus des sciences humaines, de la création en général et du design en particulier. Elle est une plate-forme de collaboration entre les Hôpitaux Universitaires de Strasbourg (HUS) et de nombreux partenaires autour des mêmes objectifs d’amélioration des espaces et du temps vécu à l’hôpital.
+          description: Chef de projet à [La Fabrique de l’hospitalité](http://www.lafabriquedelhospitalite.org/), un service de la direction générale du CHU de Strasbourg qui a pour objet de favoriser la co-création des agents hospitaliers et des usagers afin d'améliorer la prise en soin des patients et de leur proche avec des outils issus des sciences humaines, de la création en général et du design en particulier.<br/>Elle est une plate-forme de collaboration entre les Hôpitaux Universitaires de Strasbourg (HUS) et de nombreux partenaires autour des mêmes objectifs d’amélioration des espaces et du temps vécu à l’hôpital.
           twitter: fabriqueH
           linkedin: profile/view?id=142877016
         - name: Anne-Laure Desflaches
@@ -463,7 +463,7 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg)"
           twitter: fabriqueH
           linkedin: profile/view?id=207879582
         - name: Cécilia Rohmer Gurisik
-          description: Professeur d'Arts Appliqués à l'Ecole Le Corbusier d'Illkirch (Strasbourg) est enseignante spécialisée en « design global » et « design de produits », exerçant sur le Diplôme Supérieur d'Arts Appliqués (Master1). De formation universitaire en Arts Plastiques et Arts Appliqués, elle recherche de modèles collaboratifs situant les apprenants au centre de schémas prospectifs variés. Elle expérimente des projets qui visent à aiguiser les méthodologies du design au service de l'innovation sociale et porte un intérêt particulier pour l'étude et l'élaboration des techniques de co-conception, pour le design public et le design de service.
+          description: Professeur d'Arts Appliqués à l'Ecole Le Corbusier d'Illkirch (Strasbourg) est enseignante spécialisée en « design global » et « design de produits », exerçant sur le Diplôme Supérieur d'Arts Appliqués (Master1).<br/>De formation universitaire en Arts Plastiques et Arts Appliqués, elle recherche de modèles collaboratifs situant les apprenants au centre de schémas prospectifs variés. Elle expérimente des projets qui visent à aiguiser les méthodologies du design au service de l'innovation sociale et porte un intérêt particulier pour l'étude et l'élaboration des techniques de co-conception, pour le design public et le design de service.
           twitter: fabriqueH
           linkedin: profile/view?id=150864027
         - name: To be announced soon !
