@@ -486,8 +486,14 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
           description: Professeur d'Arts Appliqués à l'Ecole Le Corbusier d'Illkirch (Strasbourg) est enseignante spécialisée en « design global » et « design de produits », exerçant sur le Diplôme Supérieur d'Arts Appliqués (Master1).<br/>De formation universitaire en Arts Plastiques et Arts Appliqués, elle recherche de modèles collaboratifs situant les apprenants au centre de schémas prospectifs variés. Elle expérimente des projets qui visent à aiguiser les méthodologies du design au service de l'innovation sociale et porte un intérêt particulier pour l'étude et l'élaboration des techniques de co-conception, pour le design public et le design de service.
           twitter: fabriqueH
           linkedin: profile/view?id=150864027
-        - name: To be announced soon !
-        - name: To be announced soon !
+        - name: "Anne Monnier"
+          description: "Directrice du Pôle Territoires de l’ASIP Santé. Diplômée d’un DEA de sociologie des organisations à Sciences Po. Paris, Anne Monnier a rejoint l’ASIP Santé en 2006 pour constituer une équipe chargée d’accompagner les acteurs de terrain dans les changements qu’entraînent la révolution numérique dans le secteur de la santé et du médicosocial, avec l’arrivée de nouveaux référentiels et services (CPS, cadre d’interopérabilité, DMP, messageries sécurisées de santé, etc). Les technologies numériques au service de ces métiers représentent des changements profonds pour l’ensemble des acteurs, dans leurs pratiques professionnelles quotidiennes. L’information, la pédagogie, la communication, la formation (e learning), les études et retours d’expérience, l’expérimentation in vivo et l’évaluation sont les outils d’appui de cette équipe."
+          twitter: AMO3
+          linkedin: profile/view?id=110268989
+        - name: "Xavier Augay"
+          description: "Health entrepreneur"
+          twitter:
+          linkedin:
         - name: To be announced soon !
         - name: To be announced soon !
         - name: To be announced soon !
@@ -732,6 +738,11 @@ hardwaresoftware:
     title: "Muse HeadBand"
     description: "Muse: the brain sensing headband."
     link: "http://www.choosemuse.com/developer-kit/"
+    link_title: "Documentation"
+  - image: "aquas"
+    title: "Agència de Qualitat i Avaluació Sanitàries de Catalunya (AQuAS)"
+    description: "6 open data sets available from Catalonia, Spain"
+    link: "https://docs.google.com/document/d/1Q1gQcYfyU6dksrfvrSWSzmVa9sHfYRbzwekTry3tmlw/edit?usp=sharing"
     link_title: "Documentation"
 
 
