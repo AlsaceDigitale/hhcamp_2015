@@ -27,22 +27,25 @@
       </a>
     </div>
     <div class="col-xs-12 col-sm-4 text-right pull-right">
-      <a href="/fr/{{ page.name }}">
-	fr 
-      </a>
-      <a href="/{{ page.name }}">
-	en 
-      </a>
-    </div>
-    <div class="social-links col-xs-12 col-sm-4 text-right pull-right">
-      {% for link in site.social_links %}
+      <span class="social-links">
+	{% for link in site.social_links %}
         <a href="{{ link[1] }}" class="{{ link[0] }}" target="_blank">
           <span class="fa-stack fa-lg">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-{{ link[0] }} fa-stack-1x fa-inverse"></i>
           </span>
         </a>
-      {% endfor %}
+	{% endfor %}
+      </span>
+      <span class="language-links">
+	<a href="/fr/{{ page.name }}">
+	  FR 
+	</a>
+	|
+	<a href="/{{ page.name }}">
+	  EN 
+	</a>
+      </span>
     </div>
     <div class="clear visible-sm"></div>
     <div class="navbar-collapse collapse pull-right col-xs-12" id="navbar">
