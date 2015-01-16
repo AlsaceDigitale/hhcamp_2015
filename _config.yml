@@ -413,6 +413,21 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
           label: "technical"
           twitter:
           linkedin:
+        - name: Clément Troesch
+          description: "R&D ingenieur at [Visible Patient.](http://www.visiblepatient.com/)"
+          label: "technical"
+          twitter:
+          linkedin: "pub/clément-troesch/a2/342/331/fr"
+        - name: Julien Lamy
+          description: "[Icube](http://icube.unistra.fr/)"
+          label: "technical"
+          twitter:
+          linkedin:
+        - name: Sebastien Jodogne
+          description: "Medical Imaging Engineer, Open-source Developer. [Know more.]( http://www.montefiore.ulg.ac.be/~jodogne/)"
+          label: "technical"
+          twitter: sjodogne
+          linkedin: in/jodogne
   health-hackathon:
     - name: "Jury"
       list:
