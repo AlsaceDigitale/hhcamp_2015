@@ -428,6 +428,11 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
           label: "technical"
           twitter: sjodogne
           linkedin: in/jodogne
+        - name: Caroline Zorn
+          label: "legal"
+          description: Avocate au Barreau de Nancy et enseignante à l’Université de Strasbourg en Droit de l’informatique, Caroline ZORN a commencé à travailler avec les acteurs de la esanté en étant juriste à l’Asip santé. Après avoir soutenu sa thèse, « Données de santé et secret partagé », elle a décidé de consacrer son activité exclusivement à la santé et au numérique.<br/> Caroline accompagne aujourd’hui des projets variés de esanté grâce à une expertise allant du Droit des patients et de l’hébergement des données, à la Propriété intellectuelle, en passant par le Crédit Import Recherche. En tant que chercheur associé, elle continue également de s’impliquer dans des projets de recherche axée sur le Cloud en santé.
+          twitter: c_zorn
+          linkedin: in/carolinezorn/en
   health-hackathon:
     - name: "Jury"
       list:
