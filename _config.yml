@@ -850,6 +850,8 @@ partners:
       url: http://www.rhenatic.eu/
     - name: patientsworld
       url: http://www.entrepatients.net/fr
+    - name: leciss
+      url: http://leciss.org
   media:
     - name: BUZZ-ESANTE
       url: http://buzz-esante.com/
