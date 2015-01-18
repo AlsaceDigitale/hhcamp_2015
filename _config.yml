@@ -850,6 +850,10 @@ partners:
       url: http://www.rhenatic.eu/
     - name: patientsworld
       url: http://www.entrepatients.net/fr
+    - name: leciss
+      url: http://leciss.org
+    - name: ciu santé
+      url: http://ciusante.org
   media:
     - name: BUZZ-ESANTE
       url: http://buzz-esante.com/
@@ -867,6 +871,8 @@ partners:
       url: http://www.tic-sante.fr
     - name: SIH Solutions
       url: http://www.sih-solutions.fr/
+    - name: Rue89 Strasbourg
+      url: http://www.rue89strasbourg.com/
   event:
     - name: eHealth-competition
       url: http://www.ehealthcompetition.eu/
