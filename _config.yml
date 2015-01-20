@@ -860,6 +860,10 @@ partners:
       url: http://leciss.org
     - name: ciu santé
       url: http://ciusante.org
+    - name: bpifrance
+      url: http://www.bpifrance.fr/
+    - name: anap
+      url: http://www.anap.fr
   media:
     - name: BUZZ-ESANTE
       url: http://buzz-esante.com/
