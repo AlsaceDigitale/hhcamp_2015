@@ -419,10 +419,10 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
           twitter:
           linkedin: "pub/clément-troesch/a2/342/331/fr"
         - name: Julien Lamy
-          description: "[Icube](http://icube.unistra.fr/)"
+          description: "Julien Lamy is a research engineer at [Icube](http://icube.unistra.fr/) (University of Strasbourg, France). He has been involved in medical imaging for over a decade and is currently working on imaging workflows for clinical and pre-clinical trials."
           label: "technical"
           twitter:
-          linkedin:
+          linkedin: in/lamyj
         - name: Sebastien Jodogne
           description: "Medical Imaging Engineer, Open-source Developer. [Know more.]( http://www.montefiore.ulg.ac.be/~jodogne/)"
           label: "technical"
