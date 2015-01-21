@@ -513,23 +513,49 @@ schedules:
         - title: "9:30am - 10am"
           description: "Introduction"
         - title: "10am - 10:30am"
-          description: "Talk 1"
+          speaker: Robert Reiner
+          language: eb
+          description: "The Olympic Games for Augmented Humans"
         - title: "10:30am - 11am"
+          speaker: Béatrice Falise-Mirat
+          language: fr
           description: "Talk 2"
         - title: "11am - 11:30am"
-          description: "Talk 3"
+          speaker: Jorge Juan Fernandez Garcia
+          language: en
+          description: "How to bring entrepreneurs into the hospital?"
         - title: "11:30am - 12am"
-          description: "Talk 4"
+          speaker: Cedric O'Neil
+          language: fr
+          description: "Comment les officines françaises vont devoir utiliser le digital pour se réinventer ?"
         - title: "12am - 2pm"
-          description: "Talk 5"
-        - title: "2pm - 2:30am"
-          description: "Talk 6"
-        - title: "2:30pm - 3pm"
+          description: " Lunch at [La Bourse restaurant](http://www.restaurant-de-la-bourse.fr/), don't forget to subscribe to the lunch when you register"
+        - title: "1:45pm - 2:15am"
+          speaker: Zayna Khayat
+          language: en
+          description: "5 Canadian health startups successfully breaking the barriers down"
+        - title: "2:15pm - 2:45pm"
+          speaker: Pierre-Paul Vidal
+          language: fr
+          description: "Quantify human behaviour "
+        - title: "2:45pm - 3:15am"
+          speaker:
+          language:
           description: "Talk 7"
-        - title: "3pm - 3:30pm"
-          description: "Talk 8"
-        - title: "3:30pm - 4pm"
-          description: "Talk 9"
+        - title: "3:15pm - 3:45am"
+          description: Break
+        - title: "3:45pm - 4:15am"
+          speaker: Uwe Diegel 
+          language: en
+          description: "Is the 1000 year old man already born?"
+        - title: "4:15pm - 4:45am"
+          speaker: Nicolas Colin
+          language: fr
+          description: "Rebooting national health insurances"
+        - title: "4:45pm - 5:15am"
+          speaker: Thomas Landrain
+          language: fr
+          description: "Anyone can be a Biohacker"
   health-pitch-challenge:
     - title: "19th"
       subtitle: "THURSDAY, MARCH"

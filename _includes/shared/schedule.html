@@ -36,7 +36,14 @@
                     {% for item in list %}
                       <tr class="item">
                         <td class="title">{{ item.title }}</td>
-                        <td class="description">{{ item.description }}</td>
+			{% if mnemonic == "future-of-health" %}
+			<td>
+			  {{ item.speaker }}
+			</td>
+			  {% endif %}
+                        <td class="description">
+			  {{ item.description | markdownify }}
+			</td>
                       </tr>
                     {% endfor %}
                   </table>
