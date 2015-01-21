@@ -513,7 +513,7 @@ schedules:
         - title: "9:30am - 10am"
           description: "Introduction"
         - title: "10am - 10:30am"
-          speaker: Robert Reiner
+          speaker: Robert Riener
           language: eb
           description: "The Olympic Games for Augmented Humans"
         - title: "10:30am - 11am"
