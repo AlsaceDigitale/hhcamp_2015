@@ -887,6 +887,8 @@ partners:
       url: http://www.anap.fr
     - name: icube
       url: http://icube.unistra.fr/
+    - name: interopsante
+      url: http://www.interopsante.org/interopsante
   media:
     - name: BUZZ-ESANTE
       url: http://buzz-esante.com/
