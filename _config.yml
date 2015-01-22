@@ -653,7 +653,25 @@ schedules:
           description: "Prizes"
         - title: "8pm"
           description: "Last drink"
-
+  prizes:
+    - title: "Prizes"
+      list:
+        - title: "Prize 1"
+          description: "To be announced soon"
+        - title: "Prize 2"
+          description: "To be announced soon"
+        - title: "Prize 3"
+          description: "To be announced soon"
+        - title: "Prize 4"
+          description: "To be announced soon"
+        - title: "Prize 5"
+          description: "To be announced soon"
+        - title: "Prize 6"
+          description: "To be announced soon"
+        - title: "Prize 7"
+          description: "To be announced soon"
+        - title: "Prize 8"
+          description: "To be announced soon"
 question_and_answers:
   main:
     - question: "Donec dapibus id massa"
@@ -968,4 +986,3 @@ blogPost:
   - name: Alsace Biovalley
     title: "Hacking Health Camp : 50h pour innover dans la santé"
     url: http://www.alsace-biovalley.com/fr/agenda-evenements/hacking-health-camp-50h-pour-innover-dans-la-sante/
-
