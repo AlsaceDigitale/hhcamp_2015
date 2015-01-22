@@ -885,6 +885,8 @@ partners:
       url: http://www.bpifrance.fr/
     - name: anap
       url: http://www.anap.fr
+    - name: icube
+      url: http://icube.unistra.fr/
   media:
     - name: BUZZ-ESANTE
       url: http://buzz-esante.com/
