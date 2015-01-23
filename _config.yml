@@ -374,10 +374,11 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
           description: "Hospital worker at SAMU 73. Emergency doctor and mountain rescuer since 1996."
           twitter: pzellner
           linkedin: profile/view?id=87349943
-        - name: Charles Metivier
-          label: "medical"
-          twitter:
-          linkedin: profile/view?id=11785464
+        - name: Florent Biville
+          description: "Lead developer of Vidal API team, Florent is a polyvalent developer with a strong focus on simple and robust software."
+          label: "technical"
+          twitter: fbiville
+          linkedin: in/florentbiville
         - name: Nicolas Vayatis
           description: "Director of CMLA at École Normale Supérieure de Cachan. [Website](http://nvayatis.perso.math.cnrs.fr/). Machine Learning and Massive Data Analisys."
           label: "technical"
