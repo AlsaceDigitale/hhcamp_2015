@@ -398,11 +398,11 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
           label: "technical"
           twitter:
           linkedin:
-        - name: Mathias Herberts
-          description: "Disruptive Engineer, Chief Technology Officer, Cofounder at Cityzen Data."
+        - name: Sébastien Lambour
+          description: "Senior Developer at Cityzen Data.<br/>He is a JVM developer living in Brittany. He worked as a Senior Software Engineer for a regional French Bank on several subjects. Like web security, authentication and backends architecture.<br/>He has recently left this job to join Cityzen Data, a start-up building a scalable, secure, ethical and open platform for sensor data."
           label: "technical"
-          twitter: herberts
-          linkedin: in/herberts
+          twitter:
+          linkedin: profile/view?id=294516588
         - name: James Agnew
           description: "James Agnew is an architect with University Health Network in Toronto Canada. He has spent the last 10 years pushing open source technologies as a way of building better software in the health arena. As a part of this mission, he leads the HAPI project, which is a free platform for exchanging medical data used in projects around the world."
           label: "technical"
