@@ -433,6 +433,11 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
           label: "technical"
           twitter:
           linkedin: profile/view?id=127011518
+        - name: Nicolas Canu
+          description: "Nicolas CANU is Phast’s Research & Development Manager since 2006. He has contributed to the implementation of the national standard used for messages in the medication workflow at the hospital and to the creation of HL7 France. He is President of HL7 France, and also CDA and RIM-certified. "
+          label: "technical"
+          twitter:
+          linkedin:
   health-hackathon:
     - name: "Jury"
       list:
@@ -483,6 +488,10 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
           description: Designer indépendante, elle porte un intérêt particulier à la valeur des matériaux, à la co-conception et au design public. Persuadée que le designer à un rôle à jouer au sein de l’hôpital public, elle a rejoint la Fabrique de l'hospitalité, laboratoire d'innovation des Hôpitaux universitaires de Strasbourg.
           twitter: fabriqueH
           linkedin: profile/view?id=207879582
+        - name: "Xavier Augay"
+          description: "Health entrepreneur"
+          twitter:
+          linkedin:
         - name: Cécilia Rohmer Gurisik
           description: Professeur d'Arts Appliqués à l'Ecole Le Corbusier d'Illkirch (Strasbourg) est enseignante spécialisée en « design global » et « design de produits », exerçant sur le Diplôme Supérieur d'Arts Appliqués (Master1).<br/>De formation universitaire en Arts Plastiques et Arts Appliqués, elle recherche de modèles collaboratifs situant les apprenants au centre de schémas prospectifs variés. Elle expérimente des projets qui visent à aiguiser les méthodologies du design au service de l'innovation sociale et porte un intérêt particulier pour l'étude et l'élaboration des techniques de co-conception, pour le design public et le design de service.
           twitter: fabriqueH
@@ -491,11 +500,11 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
           description: "Directrice du Pôle Territoires de l’ASIP Santé. Diplômée d’un DEA de sociologie des organisations à Sciences Po. Paris."
           twitter: AMO3
           linkedin: profile/view?id=110268989
-        - name: "Xavier Augay"
-          description: "Health entrepreneur"
+        - name: Nicolas Canu
+          description: "Nicolas CANU is Phast’s Research & Development Manager since 2006. He has contributed to the implementation of the national standard used for messages in the medication workflow at the hospital and to the creation of HL7 France. He is President of HL7 France, and also CDA and RIM-certified. "
+          label: "technical"
           twitter:
           linkedin:
-        - name: To be announced soon !
         - name: To be announced soon !
         - name: To be announced soon !
         - name: To be announced soon !
