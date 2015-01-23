@@ -907,6 +907,8 @@ partners:
       url: http://icube.unistra.fr/
     - name: interopsante
       url: http://www.interopsante.org/interopsante
+    - name: Phast
+      url: http://phast.fr/index.php
   media:
     - name: BUZZ-ESANTE
       url: http://buzz-esante.com/
