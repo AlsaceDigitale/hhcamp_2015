@@ -503,10 +503,12 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
           linkedin: profile/view?id=110268989
         - name: Nicolas Canu
           description: "Nicolas CANU is Phast’s Research & Development Manager since 2006. He has contributed to the implementation of the national standard used for messages in the medication workflow at the hospital and to the creation of HL7 France. He is President of HL7 France, and also CDA and RIM-certified. "
-          label: "technical"
           twitter:
           linkedin:
-        - name: To be announced soon !
+        - name: Sébastien Lambour
+          description: "Senior Developer at Cityzen Data.<br/>He is a JVM developer living in Brittany. He worked as a Senior Software Engineer for a regional French Bank on several subjects. Like web security, authentication and backends architecture.<br/>He has recently left this job to join Cityzen Data, a start-up building a scalable, secure, ethical and open platform for sensor data."
+          twitter:
+          linkedin: profile/view?id=294516588
         - name: To be announced soon !
         - name: To be announced soon !
         - name: To be announced soon !
