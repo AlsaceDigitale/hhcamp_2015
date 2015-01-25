@@ -29,7 +29,7 @@ and for project owner
           Register now !
         </a>
 <a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
-                  Promote you idea !
+                  Promote your idea !
                 </a>
 
 
