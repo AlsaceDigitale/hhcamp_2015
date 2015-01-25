@@ -524,7 +524,7 @@ schedules:
         - title: "10:30am - 11am"
           speaker: Béatrice Falise-Mirat
           language: fr
-          description: "Talk 2"
+          description: "Médecine personnalisée : du parcours de soins au big data"
         - title: "11am - 11:30am"
           speaker: Jorge Juan Fernandez Garcia
           language: en
@@ -550,7 +550,7 @@ schedules:
         - title: "3:15pm - 3:45am"
           description: Break
         - title: "3:45pm - 4:15am"
-          speaker: Uwe Diegel 
+          speaker: Uwe Diegel
           language: en
           description: "Is the 1000 year old man already born?"
         - title: "4:15pm - 4:45am"

@@ -10,8 +10,3 @@ L'événement vise à refléter à la fois des aspects technologiques et les que
  - Qu'en est-il des aspects juridiques, comment chaque pays sécurise ses données de santé ?
 
 Health Data Day est l’évènement idéal pour partager et acquérir de nouvelles connaissances pratiques, il permet aux participants d’affiner leurs compétences à travers des discussions et des ateliers.
-
-
-<a href="https://docs.google.com/forms/d/1fom6Foe2OZWkijKve5QQNf6b9SgMCRGP_e00lHstJZk/viewform?usp=send_form" class="btn btn-primary btn-block">
-                  > Appel à speakers ! <
-                </a>
