@@ -46,7 +46,7 @@ fr:
     hhcamp_and_you: "HH Camp & moi"
     become_sponsor: Devenir sponsor
     venue: Lieu
-    last_edition: Édition 2014
+    press: Presse
   intro:
     title: "Créer le futur<br/>de la santé"
     ticket_link: Inscrivez-vous !
@@ -133,7 +133,7 @@ en:
     hhcamp_and_you: "HH Camp & You"
     become_sponsor: Become Sponsor
     venue: Venue
-    last_edition: Last Edition
+    press: Press
   intro:
     title: "Create the future<br/>of healthcare"
     ticket_link: Register now !
