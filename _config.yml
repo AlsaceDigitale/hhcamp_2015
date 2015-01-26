@@ -25,6 +25,10 @@ fr:
   quote:
     blockquote: "On a tous regretté de ne pas avoir été dans le garage de Steve Job dans les années 70, mais dans 30 ans on pourra dire qu'on était à Strasbourg aujourd'hui..."
     cite: "Uwe Diegel, Président de iHealth, 30 Mars 2014"
+  last_edition_block:
+    title: Dernière édition du Hacking Health Camp
+    subtitle: En Mars 2014, 19 projets ont été réalisés
+    button_link: Voir le résultat de la dernière édition
   contact_block:
     title: Nous contacter
     general_information:
@@ -112,6 +116,10 @@ en:
   quote:
     blockquote: "We all regret we were not in Steve Job's garage in the 70's, but in 30 years, you will be able to say that you were here in Strasbourg today..."
     cite: "Uwe Diegel, iHealth Founder, March 30th 2014"
+  last_edition_block:
+    title: Last Edition of Hacking Health Camp
+    subtitle: In March 2014, 19 projects have been realized
+    button_link: See the Last Edition Outcome
   contact_block:
     title: Contact us
     general_information:
