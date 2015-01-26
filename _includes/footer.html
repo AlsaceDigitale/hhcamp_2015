@@ -11,6 +11,9 @@
 {% include shared/people.html sectionKey="team" %}
 {% endif %}
 {% endif %}
+{% if page.path != "last-edition.html" and page.path != "fr/last-edition.html"%}
+{% include footer/last-edition.html %}
+{% endif %}
 {% include footer/contact.html %}
 {% include footer/ultrafooter.html %}
 
