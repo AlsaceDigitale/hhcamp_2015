@@ -613,6 +613,7 @@ schedules:
           description: "Admission"
         - title: "9:00am - 9:30am"
           description: "Keynote Sanofi"
+          image: sanofi
           speaker: "Gilles Litman"
         - title: "9:30am - 10:00am"
           speaker: "Dr Emmanuel Chazard"
@@ -685,7 +686,8 @@ schedules:
         - title: "5pm - 6pm"
           description: "Pitch Clinic : pitch session training"
         - title: "7pm"
-          description: "Introduction"
+          description: "Keynote Allianz"
+          image: allianz
         - title: "7:20pm"
           description: "Coachs presentation"
         - title: "7:30pm"
@@ -862,7 +864,17 @@ hardwaresoftware:
     description: "6 open data sets available from Catalonia, Spain"
     link: "https://docs.google.com/document/d/1Q1gQcYfyU6dksrfvrSWSzmVa9sHfYRbzwekTry3tmlw/edit?usp=sharing"
     link_title: "Documentation"
-
+    description: "Public health datasets from Catalogne in Spain"
+  - image: "cityzendata"
+    title: "Cityzen Data"
+    link: "http://www.cityzendata.com"
+    link_title: "Documentation"
+    description: "health data storage and management platform"
+  - image: "phast"
+    title: "Phast"
+    description: "Health terminology service"
+    link: "http://phast.cloudapp.net/sts.soap_beta_2.en.asmx"
+    link_title: "Documentation"
 
 social_links:
   facebook: http://facebook.com/digitalhealthcamp
