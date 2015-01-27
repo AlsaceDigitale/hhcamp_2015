@@ -15,16 +15,23 @@ markdown: kramdown
 
 fr:
   subtitle: du <span class="day">19</span> au <span class="day">22</span> mars 2015
+  blog: Blog
   know_more: "En savoir plus"
   submit_challenge_link: "Proposez votre défi !"
   challenge_list_link: "Consultez les défis!"
   cfp_link: "Appel au speakers!"
   submit_startup_link: "Proposez votre startup !"
   partner: "Partenaire"
+  sponsor: "Sponsor"
   sponsors_page_title: "Ils nous soutiennent déjà"
+  sponsors_page_button: "Voir la liste complète"
   quote:
     blockquote: "On a tous regretté de ne pas avoir été dans le garage de Steve Job dans les années 70, mais dans 30 ans on pourra dire qu'on était à Strasbourg aujourd'hui..."
     cite: "Uwe Diegel, Président de iHealth, 30 Mars 2014"
+  last_edition_block:
+    title: Dernière édition du Hacking Health Camp
+    subtitle: En Mars 2014, 19 projets ont été réalisés
+    button_link: Voir le résultat de la dernière édition
   contact_block:
     title: Nous contacter
     general_information:
@@ -46,7 +53,7 @@ fr:
     hhcamp_and_you: "HH Camp & moi"
     become_sponsor: Devenir sponsor
     venue: Lieu
-    last_edition: Édition 2014
+    press: Presse
   intro:
     title: "Créer le futur<br/>de la santé"
     ticket_link: Inscrivez-vous !
@@ -102,16 +109,23 @@ fr:
 
 en:
   subtitle: March <span class="day">19</span><sup>th</sup> to <span class="day">22</span><sup>nd</sup> 2015
+  blog: Blog
   know_more: "Know more"
   submit_challenge_link: "Submit your challenge!"
   challenge_list_link: "Look at challenges!"
   cfp_link: "Call for speakers!"
   submit_startup_link: "Submit your startup!"
   partner: "Partner"
+  sponsor: "Sponsor"
   sponsors_page_title: "They already support us"
+  sponsors_page_button: "See the whole list"
   quote:
     blockquote: "We all regret we were not in Steve Job's garage in the 70's, but in 30 years, you will be able to say that you were here in Strasbourg today..."
     cite: "Uwe Diegel, iHealth Founder, March 30th 2014"
+  last_edition_block:
+    title: Last Edition of Hacking Health Camp
+    subtitle: In March 2014, 19 projects have been realized
+    button_link: See the Last Edition Outcome
   contact_block:
     title: Contact us
     general_information:
@@ -133,7 +147,7 @@ en:
     hhcamp_and_you: "HH Camp & You"
     become_sponsor: Become Sponsor
     venue: Venue
-    last_edition: Last Edition
+    press: Press
   intro:
     title: "Create the future<br/>of healthcare"
     ticket_link: Register now !
@@ -449,6 +463,10 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
           label: "medical"
           twitter: emmanuelchazard
           linkedin: in/emmanuelchazard
+        - name: Elalami Lafkih
+          description: Pretotyping expert
+          label: "design"
+          twitter: e_lalami
   health-hackathon:
     - name: "Jury"
       list:
@@ -852,7 +870,8 @@ social_links:
   linkedin: http://www.linkedin.com/groups/DigitalHealthCamp-6400524
   google-plus: https://plus.google.com/u/1/b/116340191957345593804/116340191957345593804/posts
   youtube: https://www.youtube.com/watch?v=EFhyYTip72E&list=PLKHIK5minrP6NXwHfUF3lD5SbmlbclGhK
-partners:
+
+sponsors:
   gold:
     - name: iHealth
       url: http://www.ihealthlabs.eu/en/
@@ -888,11 +907,13 @@ partners:
       url: http://www.interaction-healthcare.com/
     - name: soprasteria
       url: http://www.soprasteria.com/
+main_partners:
   hospital:
     - name: HUS
       url: http://www.chru-strasbourg.fr/
     - name: RHENA
       url: http://www.cliniquedestrasbourg.fr/
+secondary_partners:
   regular:
     - name: IRCAD
       url: http://www.ircad.fr
