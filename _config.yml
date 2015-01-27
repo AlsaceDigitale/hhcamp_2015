@@ -15,6 +15,7 @@ markdown: kramdown
 
 fr:
   subtitle: du <span class="day">19</span> au <span class="day">22</span> mars 2015
+  blog: Blog
   know_more: "En savoir plus"
   submit_challenge_link: "Proposez votre défi !"
   challenge_list_link: "Consultez les défis!"
@@ -108,6 +109,7 @@ fr:
 
 en:
   subtitle: March <span class="day">19</span><sup>th</sup> to <span class="day">22</span><sup>nd</sup> 2015
+  blog: Blog
   know_more: "Know more"
   submit_challenge_link: "Submit your challenge!"
   challenge_list_link: "Look at challenges!"

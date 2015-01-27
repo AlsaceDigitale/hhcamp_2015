@@ -69,6 +69,13 @@ $asset-path: ''
   height: auto
   margin-bottom: 0
   border-radius: 0
+  .top-links
+    padding: 0
+  .btn-blog
+    border-radius: 0
+    padding-bottom: 4px
+    padding-top: 4px
+    margin-top: -1px
   .social-links
     margin: 8px 0
     a
@@ -724,6 +731,10 @@ section.atelier
   section.ultrafooter
     .btn
       margin: 20px 0
+  .navbar
+    .top-links
+      float: left !important
+      text-align: left
   .social-links
     text-align: center !important
 
@@ -777,6 +788,10 @@ section.atelier
             .h5
               font-size: 80%
 
+@media screen and (max-width: 360px)
+  .navbar
+    .language-links
+      display: block
 
 section.press
   a
