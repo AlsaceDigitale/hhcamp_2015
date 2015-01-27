@@ -574,9 +574,9 @@ schedules:
           language: fr
           description: "Quantify human behaviour "
         - title: "2:45pm - 3:15am"
-          speaker:
+          speaker: Jacques Marescaux
           language:
-          description: "Talk 7"
+          description: ""
         - title: "3:15pm - 3:45am"
           description: Break
         - title: "3:45pm - 4:15am"
