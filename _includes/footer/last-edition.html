@@ -4,8 +4,7 @@
       <div class="col-xs-12 text-center">
         <h2>{{ site[page.locale].last_edition_block.title }}</h2>
         <h3>{{ site[page.locale].last_edition_block.subtitle }}</h3>
-        {% assign target_url = '/last-edition.html' | prepend: site.baseurl %}
-        <p><a class="btn btn-primary" href="{{ target_url }}">{{ site[page.locale].last_edition_block.button_link }}</a></p>
+        <p><a class="btn btn-primary" href="{% if page.locale == "fr" %}/fr{% endif %}/last-edition.html">{{ site[page.locale].last_edition_block.button_link }}</a></p>
       </div>
     </div>
   </div>
