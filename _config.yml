@@ -445,7 +445,7 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
           twitter: Bambooandbees
           linkedin:
         - name: Dr Emmanuel Chazard
-          description: "Maître de conférence des universités - Praticien hospitalier Santé publique, Biostatistiques et Informatique médicale"
+          description: "Assistant Professor of Public Health. He teaches and makes researches in public health, medical informatics and biostatistics. His recent researches deal with data mining and data reuse of hospital databases, made of heterogeneous data such as diagnostic codes, drug administrations and laboratory results."
           label: "medical"
           twitter: emmanuelchazard
           linkedin: in/emmanuelchazard
@@ -916,7 +916,7 @@ partners:
       url: http://www.echalliance.com/
     - name: etalab
       url: http://www.etalab.gouv.fr/
-    - name: CNR SANTÉ
+    - name: france silver eco
       url: http://www.cnr-sante.fr/
     - name: CCI Alsace
       url: http://www.alsace.cci.fr/
