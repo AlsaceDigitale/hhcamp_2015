@@ -1,17 +1,51 @@
 <section class="partners">
   <div class="container">
-    <div class="row">
+    <div class="row title">
       <div class="col-xs-12">
         <div class="h2 text-center">
           {% if page.path == "sponsors.html" %}
           {{ site[page.locale].sponsors_page_title }}
           {% else %}
-          {{ site[page.locale].partner }}s
+          {{ site[page.locale].sponsor }}s
           {% endif %}
         </div>
       </div>
     </div>
-    {% for category in site.partners %}
+    {% for category in site.sponsors %}
+      <div class="row category">
+        <div class="col-xs-12">
+          <h3 class="h5">
+            {% assign c = category[0] %}
+            {% if page.locale == "fr" %}
+              {{ site[page.locale].sponsor }}s {{ site[page.locale].partners_title[c] }}
+            {% else %}
+            {{ site[page.locale].partners_title[c] }} {{ site[page.locale].sponsor }}s
+            {% endif %}
+          </h3>
+          <ul class="list-inline">
+          {% for partner in category[1] %}
+            <li>
+              <div class="img-container">
+                {% assign partner_name = partner.name | downcase | replace:" ","-" | replace:"é","e" | append:".jpg" %}
+                {% assign img_url = "/img/partner/" | append: partner_name | prepend: site.baseurl %}
+                <a href="{{ partner.url }}" target="_blank">
+                  <img src="{{ img_url }}" alt="{{ partner.name }}" class="img-responsive" />
+                </a>
+              </div>
+            </li>
+          {% endfor %}
+          </ul>
+        </div>
+      </div>
+    {% endfor %}
+    <div class="row title">
+      <div class="col-xs-12">
+        <div class="h2 text-center">
+          {{ site[page.locale].partner }}s
+        </div>
+      </div>
+    </div>
+    {% for category in site.main_partners %}
       <div class="row category">
         <div class="col-xs-12">
           <h3 class="h5">
@@ -38,5 +72,43 @@
         </div>
       </div>
     {% endfor %}
+  {% if page.path == 'sponsors-partners.html' or page.path == 'fr/sponsors-partners.html' %}
+    {% for category in site.secondary_partners %}
+      <div class="row category">
+        <div class="col-xs-12">
+          <h3 class="h5">
+            {% assign c = category[0] %}
+            {% if page.locale == "fr" %}
+              {{ site[page.locale].partner }}s {{ site[page.locale].partners_title[c] }}
+            {% else %}
+            {{ site[page.locale].partners_title[c] }} {{ site[page.locale].partner }}s
+            {% endif %}
+          </h3>
+          <ul class="list-inline">
+          {% for partner in category[1] %}
+            <li>
+              <div class="img-container">
+                {% assign partner_name = partner.name | downcase | replace:" ","-" | replace:"é","e" | append:".jpg" %}
+                {% assign img_url = "/img/partner/" | append: partner_name | prepend: site.baseurl %}
+                <a href="{{ partner.url }}" target="_blank">
+                  <img src="{{ img_url }}" alt="{{ partner.name }}" class="img-responsive" />
+                </a>
+              </div>
+            </li>
+          {% endfor %}
+          </ul>
+        </div>
+      </div>
+    {% endfor %}
+  {% endif %}
+  {% if page.path != 'sponsors-partners.html' and page.path != 'fr/sponsors-partners.html' %}
+    <div class="row">
+      <div class="col-sm-4 col-sm-offset-4">
+        <p class="text-center">
+          <a class="btn btn-primary btn-block" href="{% if page.locale == "fr" %}/fr{% endif %}/sponsors-partners.html">{{ site[page.locale].sponsors_page_button }}</a>
+        </p>
+      </div>
+    </div>
+  {% endif %}
   </div>
 </section>

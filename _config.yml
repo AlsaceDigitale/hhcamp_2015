@@ -21,7 +21,9 @@ fr:
   cfp_link: "Appel au speakers!"
   submit_startup_link: "Proposez votre startup !"
   partner: "Partenaire"
+  sponsor: "Sponsor"
   sponsors_page_title: "Ils nous soutiennent déjà"
+  sponsors_page_button: "Voir la liste complète"
   quote:
     blockquote: "On a tous regretté de ne pas avoir été dans le garage de Steve Job dans les années 70, mais dans 30 ans on pourra dire qu'on était à Strasbourg aujourd'hui..."
     cite: "Uwe Diegel, Président de iHealth, 30 Mars 2014"
@@ -112,7 +114,9 @@ en:
   cfp_link: "Call for speakers!"
   submit_startup_link: "Submit your startup!"
   partner: "Partner"
+  sponsor: "Sponsor"
   sponsors_page_title: "They already support us"
+  sponsors_page_button: "See the whole list"
   quote:
     blockquote: "We all regret we were not in Steve Job's garage in the 70's, but in 30 years, you will be able to say that you were here in Strasbourg today..."
     cite: "Uwe Diegel, iHealth Founder, March 30th 2014"
@@ -817,7 +821,8 @@ social_links:
   linkedin: http://www.linkedin.com/groups/DigitalHealthCamp-6400524
   google-plus: https://plus.google.com/u/1/b/116340191957345593804/116340191957345593804/posts
   youtube: https://www.youtube.com/watch?v=EFhyYTip72E&list=PLKHIK5minrP6NXwHfUF3lD5SbmlbclGhK
-partners:
+
+sponsors:
   gold:
     - name: iHealth
       url: http://www.ihealthlabs.eu/en/
@@ -853,11 +858,13 @@ partners:
       url: http://www.interaction-healthcare.com/
     - name: soprasteria
       url: http://www.soprasteria.com/
+main_partners:
   hospital:
     - name: HUS
       url: http://www.chru-strasbourg.fr/
     - name: RHENA
       url: http://www.cliniquedestrasbourg.fr/
+secondary_partners:
   regular:
     - name: IRCAD
       url: http://www.ircad.fr
