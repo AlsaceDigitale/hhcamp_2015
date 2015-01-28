@@ -398,7 +398,7 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
           label: "technical"
           twitter:
           linkedin: pub/nicolas-vayatis/b/495/510
-        - name: Délia Drahal-Lofskog
+        - name: Délia Rahal-Lofskog
           description: Head of Health Privacy at [CNIL](http://www.cnil.fr).
           label: "legal"
           twitter:
@@ -503,7 +503,7 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
         - name: Pascal Bastien
           description: "Team coaching, if you don't where you are and how continue call him ;)"
           linkedin: profile/view?id=11810442
-        - name: Délia Drahal-Lofskog
+        - name: Délia Rahal-Lofskog
           description: Head of Health Privacy at [CNIL](http://www.cnil.fr).
         - name: Christelle Carrier
           description: À l'origine du projet de [La Fabrique de l'Hospitalité](http://www.lafabriquedelhospitalite.org/).<br/>Historienne de l'architecture et ingénieur en gestion, elle est recrutée par le CHU de Strasbourg en 1999 dans le cadre du programme «Culture à l'hôpital» établi entre le ministère de la Culture et le ministère de la Santé. Elle a développé son action en s'appuyant sur les évolutions à l’œuvre ces dernières années dans notre établissement et les trois piliers d'un CHU, que sont le soin, la recherche et l'enseignement.
@@ -548,35 +548,35 @@ schedules:
         - title: "9:30am - 10am"
           description: "Introduction"
         - title: "10am - 10:30am"
-          speaker: Robert Riener
-          language: en
-          description: "The Olympic Games for Augmented Humans"
-        - title: "10:30am - 11am"
-          speaker: Béatrice Falise-Mirat
-          language: fr
-          description: "Médecine personnalisée : du parcours de soins au big data"
-        - title: "11am - 11:30am"
-          speaker: Jorge Juan Fernandez Garcia
-          language: en
-          description: "How to bring entrepreneurs into the hospital?"
-        - title: "11:30am - 12am"
-          speaker: Cedric O'Neil
-          language: fr
-          description: "Comment les officines françaises vont devoir utiliser le digital pour se réinventer ?"
-        - title: "12am - 2pm"
-          description: " Lunch at [La Bourse restaurant](http://www.restaurant-de-la-bourse.fr/), don't forget to subscribe to the lunch when you register"
-        - title: "1:45pm - 2:15am"
-          speaker: Zayna Khayat
-          language: en
-          description: "5 Canadian health startups successfully breaking the barriers down"
-        - title: "2:15pm - 2:45pm"
-          speaker: Pierre-Paul Vidal
-          language: fr
-          description: "Quantify human behaviour "
-        - title: "2:45pm - 3:15am"
           speaker: Jacques Marescaux
           language:
           description: ""
+        - title: "10:30am - 11am"
+          speaker: Robert Riener
+          language: en
+          description: "The Olympic Games for Augmented Humans"
+        - title: "11am - 11:30am"
+          speaker: Béatrice Falise-Mirat
+          language: fr
+          description: "Médecine personnalisée : du parcours de soins au big data"
+        - title: "11:30am - 12am"
+          speaker: Jorge Juan Fernandez Garcia
+          language: en
+          description: "How to bring entrepreneurs into the hospital?"
+        - title: "12am - 2pm"
+          description: " Lunch at [La Bourse restaurant](http://www.restaurant-de-la-bourse.fr/), don't forget to subscribe to the lunch when you register (limited to 200)"
+        - title: "1:45pm - 2:15am"
+          speaker: Cedric O'Neil
+          language: fr
+          description: "Comment les officines françaises vont devoir utiliser le digital pour se réinventer ?"
+        - title: "2:15pm - 2:45pm"
+          speaker: Zayna Khayat
+          language: en
+          description: "5 Canadian health startups successfully breaking the barriers down"
+        - title: "2:45pm - 3:15am"
+          speaker: Pierre-Paul Vidal
+          language: fr
+          description: "Quantify human behaviour "
         - title: "3:15pm - 3:45am"
           description: Break
         - title: "3:45pm - 4:15am"
@@ -641,7 +641,7 @@ schedules:
           speaker2: "Louie Lyu"
           description2: "Workshop (1h) : iHealth API - read data from connected objects"
         - title: "12am - 12:30am"
-          speaker: "Délia Drahal-Lofskog"
+          speaker: "Délia Rahal-Lofskog"
           description: ""
         - title: "12:30am - 2pm"
           description: "Lunch"
@@ -670,10 +670,10 @@ schedules:
           speaker: "Marc Lipskier"
           description: ""
           speaker2: "James Agnew"
-          description2: "Workshop (1h) : FHIR - A RESTFul architecture in your HIS"
+          description2: "Workshop (1h) : FHIR for Hackers - Using standards to build it faster"
         - title: "4:30pm - 5pm"
           speaker: "Caroline Zorn"
-          description: "Legal Panel with Pierre Desmarais, Sofie Van der Meulen, Werner Bachmann, Délia Drahal-Lofskog"
+          description: "Legal Panel with Pierre Desmarais, Sofie Van der Meulen, Werner Bachmann, Délia Rahal-Lofskog"
         - title: "5pm - 5:30pm"
           speaker: "Elalami Lafkih"
           description: "Pretotyping technics"
