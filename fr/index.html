@@ -4,6 +4,9 @@ with_expanded_footer: true
 description: Évènement International pour Innover en Santé. Une collaboration des Professionnels de Santé, Designers, Hackers & Entrepreneurs pour la Santé de Demain.
 locale: fr
 ---
+{% if site.atelier.show == true %}
+{% include home/atelier.html %}
+{% endif %}
 {% include home/discover.html %}
 {% include home/events.html %}
 {% include home/join.html %}

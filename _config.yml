@@ -1090,3 +1090,8 @@ blogPost:
   - name: Alsace Biovalley
     title: "Hacking Health Camp : 50h pour innover dans la santé"
     url: http://www.alsace-biovalley.com/fr/agenda-evenements/hacking-health-camp-50h-pour-innover-dans-la-sante/
+
+atelier:
+  show: true
+  where: "le 19 février à 19h au Nouvel Hôpital Civil"
+  tickets: http://hhatelier3.eventbrite.fr
