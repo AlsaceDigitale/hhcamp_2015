@@ -545,8 +545,12 @@ schedules:
     - title: "19th"
       subtitle: "THURSDAY, MARCH"
       list:
+        - title: "8:30am - 9:30am"
+          description: "Admission"
         - title: "9:30am - 10am"
-          description: "Introduction"
+          description: "Introduction - Hacking Health"
+          speaker: "Sébastien Letélié"
+          speakerBis: "Luc Sirois"
         - title: "10am - 10:30am"
           speaker: Jacques Marescaux
           language:
@@ -599,6 +603,8 @@ schedules:
           description: "Admission"
         - title: "8pm - 8:15pm"
           description: "Introduction"
+          speaker: "Sébastien Letélié"
+          speakerBis: "Luc Sirois"
         - title: "8:20pm"
           description: "5' for each startup to present"
         - title: "9pm"
@@ -611,7 +617,11 @@ schedules:
       list:
         - title: "8:30am - 9:00am"
           description: "Admission"
-        - title: "9:00am - 9:30am"
+        - title: "9:00am - 9:10am"
+          description: "Introduction"
+          speaker: "Sébastien Letélié"
+          speakerBis: "Luc Sirois"
+        - title: "9:10am - 9:30am"
           description: "Keynote Sanofi"
           image: sanofi
           speaker: "Gilles Litman"
@@ -685,7 +695,11 @@ schedules:
           description: "Admission"
         - title: "5pm - 6pm"
           description: "Pitch Clinic : pitch session training"
-        - title: "7pm"
+        - title: "7pm - 7:10pm"
+          description: "Introduction"
+          speaker: "Sébastien Letélié"
+          speakerBis: "Luc Sirois"
+        - title: "7:10pm - 7:30pm"
           description: "Keynote Allianz"
           image: allianz
         - title: "7:20pm"
