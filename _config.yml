@@ -1034,6 +1034,8 @@ secondary_partners:
       url: http://www.rue89strasbourg.com/
     - name: dmdpost
       url: http://www.dmdpost.com/
+    - name: medtube
+      url: http://medtube.net
   event:
     - name: eHealth-competition
       url: http://www.ehealthcompetition.eu/
