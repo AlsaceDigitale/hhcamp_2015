@@ -399,7 +399,7 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
           twitter:
           linkedin: pub/nicolas-vayatis/b/495/510
         - name: Délia Rahal-Lofskog
-          description: Head of Health Privacy at [CNIL](http://www.cnil.fr).
+          description: "Chef du service de la santé à la Commission nationale de l’informatique et des libertés ([CNIL](http://www.cnil.fr)): Titulaire du certificat d’aptitude à la profession d’avocat (EFB), de deux DESS (droit de la bioéthique et droit de la santé) et d’un DEA de l’École des hautes études en sciences sociales, Délia Rahal-Löfskog a débuté sa carrière en 2003 à l’Office national d’indemnisation des accidents médicaux (ONIAM). En 2009, elle a rejoint la Commission nationale de l'Informatique et des Libertés (CNIL) où elle occupe actuellement les fonctions de chef du service de la santé à la direction de la conformité. Elle est par ailleurs auteur de plusieurs publications notamment en droit de la santé."
           label: "legal"
           twitter:
           linkedin:
@@ -453,11 +453,6 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
           label: "technical"
           twitter:
           linkedin:
-        - name: Marc Lipskier
-          description: "Attorney - Founder and Partner of BAMBOO & BEES - We democratize business law"
-          label: "legal"
-          twitter: Bambooandbees
-          linkedin:
         - name: Dr Emmanuel Chazard
           description: "Assistant Professor of Public Health. He teaches and makes researches in public health, medical informatics and biostatistics. His recent researches deal with data mining and data reuse of hospital databases, made of heterogeneous data such as diagnostic codes, drug administrations and laboratory results."
           label: "medical"
@@ -504,7 +499,7 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
           description: "Team coaching, if you don't where you are and how continue call him ;)"
           linkedin: profile/view?id=11810442
         - name: Délia Rahal-Lofskog
-          description: Head of Health Privacy at [CNIL](http://www.cnil.fr).
+          description: "Chef du service de la santé à la Commission nationale de l’informatique et des libertés ([CNIL](http://www.cnil.fr)): Titulaire du certificat d’aptitude à la profession d’avocat (EFB), de deux DESS (droit de la bioéthique et droit de la santé) et d’un DEA de l’École des hautes études en sciences sociales, Délia Rahal-Löfskog a débuté sa carrière en 2003 à l’Office national d’indemnisation des accidents médicaux (ONIAM). En 2009, elle a rejoint la Commission nationale de l'Informatique et des Libertés (CNIL) où elle occupe actuellement les fonctions de chef du service de la santé à la direction de la conformité. Elle est par ailleurs auteur de plusieurs publications notamment en droit de la santé."
         - name: Christelle Carrier
           description: À l'origine du projet de [La Fabrique de l'Hospitalité](http://www.lafabriquedelhospitalite.org/).<br/>Historienne de l'architecture et ingénieur en gestion, elle est recrutée par le CHU de Strasbourg en 1999 dans le cadre du programme «Culture à l'hôpital» établi entre le ministère de la Culture et le ministère de la Santé. Elle a développé son action en s'appuyant sur les évolutions à l’œuvre ces dernières années dans notre établissement et les trois piliers d'un CHU, que sont le soin, la recherche et l'enseignement.
           twitter: fabriqueH
@@ -657,7 +652,8 @@ schedules:
           description2: "Workshop (1h) : iHealth API - read data from connected objects"
         - title: "12am - 12:30am"
           speaker: "Délia Rahal-Lofskog"
-          description: ""
+          description: "La loi Informatique et Libertés, un facteur d'innovation"
+          abstract: "L'innovation passe par la construction d'un cadre de confiance entre responsables de traitements, utilisateurs et personnes dont on traite les données à caractère personnel. La loi Informatique et Libertés permet de construire ce cadre dont le prochain règlement européen scellera les prochaines briques. En matière de santé, compte tenu de la sensibilité de la donnée, cela prend tout son sens."
         - title: "12:30am - 2pm"
           description: "Lunch"
         - title: "2pm - 2:30pm"
