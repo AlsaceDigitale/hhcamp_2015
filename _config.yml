@@ -537,9 +537,18 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
           description: "Senior Developer at Cityzen Data.<br/>He is a JVM developer living in Brittany. He worked as a Senior Software Engineer for a regional French Bank on several subjects. Like web security, authentication and backends architecture.<br/>He has recently left this job to join Cityzen Data, a start-up building a scalable, secure, ethical and open platform for sensor data."
           twitter:
           linkedin: profile/view?id=294516588
-        - name: To be announced soon !
-        - name: To be announced soon !
-        - name: To be announced soon !
+        - name: Fabrice Papst
+          description: "Founder of Thinkfab and CTO of Hopi, a french company that designs and provides hardware, software, services and consulting to hospitals, home health care agencies and payors. With more than 18 years in managing software projects in Europe for companies, i focus today on bridging the gaps between companies business model and innovation. Main activities : Software design, IT strategy consulting, Team managing and methodology, Change management"
+          twitter: fpapst
+          linkedin: in/fabricepapst
+        - name: Jean Obrecht
+          description: "Architecte, professeur en design d’espace, rêveur invétéré, optimiste patenté et utopiste permanent. Cuisinier occasionnel, pipeauteur comique, bâtisseur à ses heures, curieux."
+          twitter:
+          linkedin: pub/jean-obrecht/5a/784/33
+        - name: Nicolas Cauvet
+          description: "He has been in charge of 'interfaced products' development at Vidal for 7 seven years. Web API-lover and Vidal's API evangelist."
+          twitter:
+          linkedin: profile/view?id=72598950
 schedules:
   future-of-health:
     - title: "19th"
@@ -615,27 +624,23 @@ schedules:
     - title: "20th"
       subtitle: "FRIDAY, MARCH"
       list:
-        - title: "8:30am - 9:00am"
+        - title: "8:30am - 9:30am"
           description: "Admission"
-        - title: "9:00am - 9:10am"
+        - title: "9:30am - 9:40am"
           description: "Introduction"
           speaker: "Sébastien Letélié"
           speakerBis: "Luc Sirois"
-        - title: "9:10am - 9:30am"
+        - title: "9:40am - 10am"
           description: "Keynote Sanofi"
           image: sanofi
           speaker: "Gilles Litman"
-        - title: "9:30am - 10:00am"
+        - title: "10am - 10:30am"
           speaker: "Dr Emmanuel Chazard"
           description: "Data reuse of data from medical devices and hospital databases"
-          title2: "9:30am - 10:00am"
-          speaker2: "Sébastien Lambour"
-          description2: "DATA : cornerstone of value creation"
-        - title: "10am - 10:30am"
-          speaker: "Peter Ohnemus"
-          description: ""
+          abstract: "Presentation of hospital databases : Challenges in big data and data reuse in healthcare, Three case studies: prediction of the inpatient length of stay to choose the best admission date, detection and prevention of adverse drug events, automated classification of electrocardiograms"
           speaker2: "Nicolas Canu"
           description2: "Bonnes pratiques d’interopérabilité sémantique"
+          abstract2: "Gérer, utiliser, publier des nomenclatures, des classifications, des « big data », peut se simplifier considérablement et surtout se partager entre applications, pour peu qu’on respecte les quelques règles issues des normes internationales. Juste besoin d’un petit décryptage (« jeux de valeurs », « service de terminologies », « contextes d’utilisation ») et de quelques exemples  comme la conception « en live » de formulaires appliquant les bonnes pratiques d’interopérabilité sémantique. Le reste n’est plus qu’une affaire de mise en œuvre."
         - title: "10:30am - 11am"
           speaker: "Pierre Desmarais"
           description: "Bigdata: d’où proviennent les data ?"
@@ -656,37 +661,40 @@ schedules:
         - title: "12:30am - 2pm"
           description: "Lunch"
         - title: "2pm - 2:30pm"
-          speaker: "Mike Amundsen"
-          description: "Putting Big Data in It's Place"
+          speaker: "Peter Ohnemus"
+          description: ""
           speaker2: "Pierre Guntzer"
           description2: "An introduction to dose registries"
         - title: "2:30pm - 3pm"
           speaker: "Nicolas Vayatis"
           description: "Data-driven medecine: future paradigms for healthcare"
-          speaker2: "Clément Troesch"
-          description2: "DICOM : beyond simple medical images"
+          speaker2: "James Agnew"
+          description2: "Workshop (1h) : FHIR for Hackers - Using standards to build it faster"
         - title: "3pm - 3:30am"
           speaker: "Pascal Zellner"
           description: "HTrainer système d'aide à l'entrainement, le big data au service des sportifs"
-          speaker2: "Sébastien Jodogne"
-          description2: "RESTful DICOM server for medical imaging in hospitals"
+          abstract: "During 6 months through the prototype app H Trainer, the IFREMMONT stored and analyzed the profile of a hundred volunteers athletes (collective sporst, individual sports) and especially for these parameters of each training session. Users had a reporting their given especially  recommendations from the algorithm set up on the cloud. This work has highlighted several different profiles on compliance, habits. Through subjective parameters (questionnaires) and objectives measured using thoracic sensors, the overall impression is a gain of performance and fitness of from 10 to 50%"
         - title: "3:30pm - 4pm"
           speaker: "Christophe Richard"
           description: "Objets connectés et OPEN/BIG DATA"
-          speaker2: "Julien Lamy"
-          description2: "DICOM in clinical trials : challenges and solutions"
+          speaker2: "Clément Troesch"
+          description2: "DICOM : beyond simple medical images"
         - title: "4pm - 4:30pm"
-          description: "To be announced soon"
-          speaker: "Marc Lipskier"
-          description: ""
-          speaker2: "James Agnew"
-          description2: "Workshop (1h) : FHIR for Hackers - Using standards to build it faster"
+          speaker: "Mike Amundsen"
+          description: "Putting Big Data in It's Place"
+          abstract: "One of the most compelling and most discussed aspects of the growing digital health movement is the potential for mining the Big Data -- all easily accessed in large abundance. But is that a reasonable possibility? With dozens of devices on (or inside) millions of people, how much data will be produced? where will it be stored? who will have access to it? and who will be responsible for protecting it? and for how long? days? months? years? decades? What happens when new devices appear, offering new forms of data, in ways never before expected? Will we be able to incorporate these new inputs into the already existing data infrastructure? What about devices with limited computing power, storage space, and battery life? Do we assume every device will have instant access to unlimited storage? at all times? Data is just the start of our challenges. The bigger issues that need to be dealt with today revolve around transfer, storage, access, and lifecycle management of the actions these devices record. Data is just a byproduct - the historical remnants of the places we go and the things we do. Actions are the gold and we're missing the opportunity to dig them up. We need to wake up and put data in it's proper place in the grand scheme of the coming age of digital health."
+          speaker2: "Sébastien Jodogne"
+          description2: "RESTful DICOM server for medical imaging in hospitals"
         - title: "4:30pm - 5pm"
           speaker: "Caroline Zorn"
           description: "Legal Panel with Pierre Desmarais, Sofie Van der Meulen, Werner Bachmann, Délia Rahal-Lofskog"
+          speaker2: "Julien Lamy"
+          description2: "DICOM in clinical trials : challenges and solutions"
         - title: "5pm - 5:30pm"
           speaker: "Elalami Lafkih"
           description: "Pretotyping technics"
+          speaker2: "Sébastien Lambour"
+          description2: "DATA : cornerstone of value creation"
   health-hackathon:
     - title: "20th"
       subtitle: "FRIDAY, MARCH"
