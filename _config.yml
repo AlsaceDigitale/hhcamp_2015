@@ -315,10 +315,6 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
           description: "Director of Public and Regulatory Affairs at Orange Healthcare."
           twitter:
           linkedin: pub/beatrice-falise-mirat/93/5b/733
-        - name: Thomas Landrain
-          description: "Co-founder/President of 1st french biotech community lab 'La Paillasse' - PhD student in Synthetic Biology at iSSB."
-          twitter:
-          linkedin: pub/thomas-landrain/2a/a48/366
         - name: Cédric O'Neil
           description: "President at  [1001Pharmacies.com](http://1001Pharmacies.com)."
           twitter:
@@ -653,7 +649,7 @@ schedules:
         - title: "12am - 12:30am"
           speaker: "Délia Rahal-Lofskog"
           description: "La loi Informatique et Libertés, un facteur d'innovation"
-          abstract: "L'innovation passe par la construction d'un cadre de confiance entre responsables de traitements, utilisateurs et personnes dont on traite les données à caractère personnel. La loi Informatique et Libertés permet de construire ce cadre dont le prochain règlement européen scellera les prochaines briques. En matière de santé, compte tenu de la sensibilité de la donnée, cela prend tout son sens."
+          abstract: "L'innovation passe par la construction d'un cadre de confiance entre responsables de traitements, utilisateurs et personnes dont on traite les données à caractère personnel. La loi Informatique et Libertés permet de construire ce cadre dont le futur règlement européen scellera les prochaines briques. En matière de santé, compte tenu de la sensibilité de la donnée, cela prend tout son sens. Délia RAHAL-LÖFSKOG, chef du service de la santé à la CNIL, viendra nous dire comment."
         - title: "12:30am - 2pm"
           description: "Lunch"
         - title: "2pm - 2:30pm"
@@ -945,6 +941,10 @@ main_partners:
       url: http://www.cliniquedestrasbourg.fr/
 secondary_partners:
   regular:
+    - name: Arrow
+      url: http://www.arrowecs.fr/
+    - name: orange
+      url: http://www.orange.fr/
     - name: IRCAD
       url: http://www.ircad.fr
     - name: Alsace Biovalley
@@ -959,8 +959,16 @@ secondary_partners:
       url: http://wellfundr.com/
     - name: TheFamily
       url: http://thefamily.co/
+    - name: Phast
+      url: http://phast.fr/index.php
     - name: bwcon
       url: http://bwcon.de/
+    - name: LeaderHealth
+      url: http://www.leaderhealth.ch
+    - name: Syntec Numérique
+      url: http://www.syntec-numerique.fr/
+    - name: healthstartup
+      url: http://www.healthstartup.eu/
     - name: FI-Ware
       url: http://www.fi-ware.org/
     - name: ECHAlliance
@@ -979,26 +987,16 @@ secondary_partners:
       url: http://www.alsaceinnovation.eu/
     - name: TICBioMed
       url: http://www.ticbiomed.org/
-    - name: LeaderHealth
-      url: http://www.leaderhealth.ch
-    - name: Syntec Numérique
-      url: http://www.syntec-numerique.fr/
-    - name: Arrow
-      url: http://www.arrowecs.fr/
-    - name: healthstartup
-      url: http://www.healthstartup.eu/
+    - name: cnil
+      url: http://www.cnil.fr/
     - name: ARS
       url: http://www.ars.alsace.sante.fr/Internet.alsace.0.html
-    - name: semia
-      url: http://www.semia-incal.fr/
     - name: bress healthcare
       url: http://bress.healthcare/
     - name: club digital sante
       url: http://club-digital-sante.info/
     - name: interaxon
       url: http://company.interaxon.ca/
-    - name: rhenatic
-      url: http://www.rhenatic.eu/
     - name: patientsworld
       url: http://www.entrepatients.net/fr
     - name: leciss
@@ -1013,10 +1011,12 @@ secondary_partners:
       url: http://icube.unistra.fr/
     - name: interopsante
       url: http://www.interopsante.org/interopsante
-    - name: Phast
-      url: http://phast.fr/index.php
     - name: La Fabrique de l'Hospitalité
       url: http://www.lafabriquedelhospitalite.org/
+    - name: semia
+      url: http://www.semia-incal.fr/
+    - name: rhenatic
+      url: http://www.rhenatic.eu/
   media:
     - name: BUZZ-ESANTE
       url: http://buzz-esante.com/
