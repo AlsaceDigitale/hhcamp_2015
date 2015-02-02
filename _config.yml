@@ -592,9 +592,9 @@ schedules:
           language: fr
           description: "Rebooting national health insurances"
         - title: "4:45pm - 5:15am"
-          speaker: Thomas Landrain
-          language: fr
-          description: "Anyone can be a Biohacker"
+          speaker:
+          language: 
+          description: ""
   health-pitch-challenge:
     - title: "19th"
       subtitle: "THURSDAY, MARCH"
