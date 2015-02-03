@@ -98,6 +98,7 @@ fr:
       venue: Forum de la faculté de médecine - 1 rue Humann - Strasbourg
       description: "Deuxième hackathon annuel du vendredi soir au dimanche soir. Professionnels de santé, développeurs et designers se retrouveront en équipe pour co-créer des prototypes à partir de défis soumis avant l’évènement."
   partners_title:
+    platinum: platinum
     gold: gold
     bronze: bronze
     silver: silver
@@ -192,6 +193,7 @@ en:
       venue: Forum de la faculté de médecine - 1 rue Humann - Strasbourg
       description: "The second annual hackathon will run from Friday evening to Sunday evening. Health professionals, patients, hackers, developers and designers will create prototypes based on challenges submitted before the event."
   partners_title:
+    platinum: platinum
     gold: gold
     bronze: bronze
     silver: silver
@@ -593,7 +595,7 @@ schedules:
           description: "Rebooting national health insurances"
         - title: "4:45pm - 5:15am"
           speaker:
-          language: 
+          language:
           description: ""
   health-pitch-challenge:
     - title: "19th"
@@ -898,9 +900,12 @@ social_links:
   youtube: https://www.youtube.com/watch?v=EFhyYTip72E&list=PLKHIK5minrP6NXwHfUF3lD5SbmlbclGhK
 
 sponsors:
-  gold:
+  platinum:
+    - name: masante
+      url: http://www.masante-sih.fr
     - name: iHealth
       url: http://www.ihealthlabs.eu/en/
+  gold:
     - name: Allianz
       url: http://www.allianz.fr/
     - name: Strasbourg
