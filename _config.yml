@@ -1035,6 +1035,8 @@ secondary_partners:
       url: http://www.ehealthnews.eu/
     - name: OSOZ
       url: http://www.osoz.pl/
+    - name: dsih
+      url: http://www.dsih.fr
     - name: TIC Santé
       url: http://www.tic-sante.fr
     - name: SIH Solutions
