@@ -781,6 +781,10 @@ question_and_answers:
       answer: "<a href='mailto:s.letelie@hackinghealth.ca' target='_blank'>Contact us</a>"
 
 hardwaresoftware:
+  - image: "monami"
+    title: "MonAmi : Patient Bedside Monitor"
+    description: "Design table for bedside patient with touch monitor, OS: Android"
+    link: "http://www.masante-sih.fr"
   - image: "vidal"
     title: "VIDAL / API REST"
     description: "Base medicamenteuse"
