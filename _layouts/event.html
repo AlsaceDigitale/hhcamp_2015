@@ -17,10 +17,15 @@ layout: default
 </section>
 
 {% include {{ mnemonic }}/hardware-software.html %}
+{% if page.path == "health-hackathon.html" or page.path == "fr/health-hackathon.html"%}
+{% assign content_file_path = mnemonic | append:'/prizes.' | append:page.locale | append:'.html' %}
+{% include {{content_file_path}} %}
+{% else %}
 {% include {{ mnemonic }}/prizes.html %}
 {% endif %}
-{% include shared/people.html sectionKey=mnemonic %}
+{% endif %}
 {% include shared/ticket.html %}
+{% include shared/people.html sectionKey=mnemonic %}
 {% include shared/schedule.html scheduleKey=mnemonic %}
 {% include shared/qa.html qaKey=mnemonic %}
 {{ content }}
