@@ -841,6 +841,11 @@ hardwaresoftware:
     description: "French Health Open Data Public dataset of health information about drugs, health professionals, establishment ..."
     link: "https://www.data.gouv.fr/fr/topics/sante-et-social/"
     link_title: "Learn More"
+  - image: samsung
+    title: Samsung
+    description: "Galaxy Note 4, Galaxy Tab S 10 & 7, Galaxy A5, UHD Monitor, 55' Monitor, GEARs, GEARvr"
+    link: "http://www.samsung.com/global/microsite/galaxynote4/index.html"
+    link_title: "Learn More"
   - image: "arrow"
     title: "Virtual Machines \ Arrow ECS"
     description: "Health and private Data hosting"
