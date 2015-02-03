@@ -164,16 +164,27 @@ $asset-path: ''
 ul:not(.nav):not(.list-inline):not(.dropdown-menu)
   list-style: none
   padding-left: 0
-  li
-    &:before
-      color: $brand-primary
-      content: '+'
-      display: inline-block
-      font-weight: 800
-      font-size: 1.7em
-      line-height: 1.1
-      margin-right: 1em
-      vertical-align: middle
+  &:not(.list-mentions)
+    li
+      &:before
+        color: $brand-primary
+        content: '+'
+        display: inline-block
+        font-weight: 800
+        font-size: 1.7em
+        line-height: 1.1
+        margin-right: 1em
+        vertical-align: middle
+  &.list-mentions
+    color: #fff
+    font-weight: 300
+    font-size: 16px
+    text-transform: uppercase
+    li
+      &:before
+        content: '> '
+      + li
+        margin-top: 10px
 
 .btn
   font-weight: 800
@@ -552,6 +563,58 @@ section.schedule
           > .item:first-child
             border-top: 0
 
+section.prizes
+  .labeled
+    margin-top: 60px
+    padding-bottom: 20px
+    padding-top: 90px
+    position: relative
+    &:before
+      content: ''
+      display: block
+      background-repeat: no-repeat
+      background-position: center center
+      background-size: contain
+      height: 127px
+      position: absolute
+      left: 0
+      right: 0
+      top: -44px
+  .labeled-bonus
+    &:before
+      background-image: url('../img/icon-price-bonus.png')
+    .title
+      color: #e57b33
+  .labeled-jackpot
+    &:before
+      background-image: url('../img/icon-price-jackpot.png')
+    .title
+      color: #f7f126
+  .labeled-honorable
+    &:before
+      background-image: url('../img/icon-price-honorable.png')
+  .labeled-sponsor
+    &:before
+      background-image: url('../img/icon-price-sponsor.png')
+    .title
+      color: #e72b3a
+  .full-width
+    background-color: #2b2d30
+    .title
+      margin: 15px 0 20px
+  .prize
+    background-color: #fff
+    color: #1a1b1d
+    height: 564px
+    padding-left: 15px
+    padding-right: 15px
+    .logo
+      height: 72px
+      max-height: 72px
+      margin: 20px 0
+    .img-responsive
+      margin: 0 auto
+
 section.contact
   color: white
   .block
@@ -681,6 +744,9 @@ section.atelier
   .home
     .navbar
       background-position: center center
+  section.prizes
+    .prize
+      height: 500px
 
 @media screen and (min-width: 768px) and (max-width: 1199px)
   .home
@@ -711,6 +777,19 @@ section.atelier
       .intro
         h1
           margin-top: 18px
+  section.prizes
+    .prize
+      height: 660px
+      .logo
+        margin-top: 12px
+        margin-bottom: 12px
+  ul.list-mentions
+    li
+      br
+        display: none
+  .prize
+    br
+      display: none
 
 @media screen and (max-width: 767px)
   .navbar-brand
@@ -802,6 +881,21 @@ section.atelier
                 margin-top: 35px
             .h5
               font-size: 80%
+
+  section.prizes
+    .prize
+      height: auto
+      .logo
+        max-height: none
+        height: auto
+
+  ul.list-mentions
+    li
+      br
+        display: none
+  .prize
+    br
+      display: none
 
 @media screen and (max-width: 360px)
   .navbar
