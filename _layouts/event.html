@@ -15,7 +15,9 @@ layout: default
     </div>
   </div>
 </section>
-
+{% if page.path == "health-hackathon.html" or page.path == "fr/health-hackathon.html"%}
+{% include shared/last-edition.html %}
+{% endif %}
 {% include {{ mnemonic }}/hardware-software.html %}
 {% if page.path == "health-hackathon.html" or page.path == "fr/health-hackathon.html"%}
 {% assign content_file_path = mnemonic | append:'/prizes.' | append:page.locale | append:'.html' %}
