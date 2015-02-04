@@ -632,6 +632,8 @@ schedules:
           description: "Keynote Sanofi"
           image: sanofi
           speaker: "Gilles Litman"
+          description: "Sanofi France, l’innovation ouverte au service des patients"
+          abstract: "En 2015, les défis d’innovation dans la santé mobilisent de plus en plus de personnes et de nouvelles expertises. Cela ouvre un champ des possibles d’une richesse enthousiasmante. Pionnière dans la santé, Sanofi souhaite continuer à avancer avec ceux qui partagent notre espoir d’un soin toujours meilleur."
         - title: "10am - 10:30am"
           speaker: "Dr Emmanuel Chazard"
           description: "Data reuse of data from medical devices and hospital databases"
