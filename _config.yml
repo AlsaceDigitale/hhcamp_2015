@@ -1099,6 +1099,18 @@ blogPost:
   - name: Alsace Biovalley
     title: "Hacking Health Camp : 50h pour innover dans la santé"
     url: http://www.alsace-biovalley.com/fr/agenda-evenements/hacking-health-camp-50h-pour-innover-dans-la-sante/
+  - name: Alsace e-santé
+    title: "Hacking Health Camp à Strasbourg en mars 2015"
+    url: https://www.alsace-esante.fr/hacking-health-camp-strasbourg-en-mars-2015
+  - name: e-alsace
+    title: "Strasbourg : à la santé du numérique"
+    url: http://www.e-alsace.net/index.php/smallnews/detail?newsId=17768
+  - name: Adira
+    title: "Hacking Health Camp à Strasbourg en mars 2015"
+    url: http://www.adira.com/evenements/actu-evenements/hacking-health-camp-a-strasbourg-en-mars-2015.html
+  - name: CIU SANTE
+    title: "Hacking Health Camp 19 - 22 mars 2015, Strasbourg"
+    url: http://www.ciusante.org/evenements/hacking-health-camp-19-22-mars-2015-strasbourg/
 
 atelier:
   show: true
