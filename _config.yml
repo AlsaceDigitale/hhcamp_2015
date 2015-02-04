@@ -333,10 +333,10 @@ Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn 
           description: "Co-founder & Partner, TheFamily, with Alice Zagury and Oussama Ammar. Commissioner, Commission nationale de l'informatique et des libertés (CNIL) (nominated by Claude Bartolone, Speaker of the Assemblée nationale). Co-author, with Henri Verdier, of \"L'Âge de la multitude, Entreprendre et gouverner après la révolution numérique\"."
           twitter: nicolas_colin
           linkedin: /pub/nicolas-colin/4/5a3/b16
-        - name: To be announced soon
-          description:
+        - name: Alexandre DeJonge
+          description: CEO [MaSanté](http://www.masante.fr)
           twitter:
-          linkedin:
+          linkedin: profile/view?id=122789762
   health-pitch-challenge:
     - name: "Startups"
       list:
@@ -575,7 +575,7 @@ schedules:
           description: "How to bring entrepreneurs into the hospital?"
         - title: "12am - 2pm"
           description: " Lunch at [La Bourse restaurant](http://www.restaurant-de-la-bourse.fr/), don't forget to subscribe to the lunch when you register (limited to 200)"
-        - title: "1:45pm - 2:15am"
+        - title: "1:45pm - 2:15pm"
           speaker: Cedric O'Neil
           language: fr
           description: "Comment les officines françaises vont devoir utiliser le digital pour se réinventer ?"
@@ -583,24 +583,25 @@ schedules:
           speaker: Zayna Khayat
           language: en
           description: "5 Canadian health startups successfully breaking the barriers down"
-        - title: "2:45pm - 3:15am"
+        - title: "2:45pm - 3:15pm"
           speaker: Pierre-Paul Vidal
           language: fr
           description: "Quantify human behaviour "
-        - title: "3:15pm - 3:45am"
+        - title: "3:15pm - 3:45pm"
           description: Break
-        - title: "3:45pm - 4:15am"
+        - title: "3:45pm - 4:15pm"
           speaker: Uwe Diegel
           language: en
           description: "Is the 1000 year old man already born?"
-        - title: "4:15pm - 4:45am"
+        - title: "4:15pm - 4:45pm"
           speaker: Nicolas Colin
           language: fr
           description: "Rebooting national health insurances"
-        - title: "4:45pm - 5:15am"
-          speaker:
-          language:
-          description: ""
+        - title: "4:45pm - 5pm"
+          speaker: Alexandre DeJonge
+          language: en
+          description: "Closing Keynote"
+          image: "masante"
   health-pitch-challenge:
     - title: "19th"
       subtitle: "THURSDAY, MARCH"
