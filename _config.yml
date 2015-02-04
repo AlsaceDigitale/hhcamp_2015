@@ -25,6 +25,7 @@ fr:
   sponsor: "Sponsor"
   sponsors_page_title: "Ils nous soutiennent déjà"
   sponsors_page_button: "Voir la liste complète"
+  discount: "[Demandez votre code de réduction](mailto:s.letelie@hackinghealth.ca) : étudiants et startups (-50%), partenaires locaux (-30%), autres partenaires (-20%)"
   quote:
     blockquote: "On a tous regretté de ne pas avoir été dans le garage de Steve Job dans les années 70, mais dans 30 ans on pourra dire qu'on était à Strasbourg aujourd'hui..."
     cite: "Uwe Diegel, Président de iHealth, 30 Mars 2014"
@@ -120,6 +121,7 @@ en:
   sponsor: "Sponsor"
   sponsors_page_title: "They already support us"
   sponsors_page_button: "See the whole list"
+  discount: "[Ask for a discount code](mailto:s.letelie@hackinghealth.ca) : students and startups (-50%), local partners (-30%), other partners (-20%)"
   quote:
     blockquote: "We all regret we were not in Steve Job's garage in the 70's, but in 30 years, you will be able to say that you were here in Strasbourg today..."
     cite: "Uwe Diegel, iHealth Founder, March 30th 2014"
