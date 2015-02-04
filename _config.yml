@@ -792,6 +792,7 @@ hardwaresoftware:
     title: "MonAmi : Patient Bedside Monitor"
     description: "Design table for bedside patient with touch monitor, OS: Android"
     link: "http://www.masante-sih.fr"
+    link_title: Learn more
   - image: "vidal"
     title: "VIDAL / API REST"
     description: "Base medicamenteuse"
