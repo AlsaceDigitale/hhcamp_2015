@@ -671,6 +671,7 @@ schedules:
           abstract: "L'innovation passe par la construction d'un cadre de confiance entre responsables de traitements, utilisateurs et personnes dont on traite les données à caractère personnel. La loi Informatique et Libertés permet de construire ce cadre dont le futur règlement européen scellera les prochaines briques. En matière de santé, compte tenu de la sensibilité de la donnée, cela prend tout son sens. Délia RAHAL-LÖFSKOG, chef du service de la santé à la CNIL, viendra nous dire comment."
           speaker2: "Pierre Guntzer"
           description2: "An introduction to dose registries"
+          abstract2: "This presentation introduces the Radiation Exposure Monitoring (REM) IHE Integration Profile (which is a part of the RAD IHE profile that describes workflows in radiology), and in particular the registry role, whose purpose is to collect anonymized dose information from hospitals through the Internet and provide analytics. The DICOM RDSR (Radiation Dose Structured Report) format and the anonymization process will be briefly described. To illustrate the integration to a concrete dose registry deployed in the USA, the ACR Dose Index Registry will be introduced, with a focus on the technical deployment in a hospital and the data workflows to put in place in order to feed the registry with dose data."
         - title: "3pm - 3:30am"
           speaker: "Pascal Zellner"
           description: "HTrainer système d'aide à l'entrainement, le big data au service des sportifs"
@@ -1006,6 +1007,8 @@ secondary_partners:
       url: http://leciss.org
     - name: ciu santé
       url: http://ciusante.org
+    - name: accro
+      url: http://www.strasbourg.eu/
     - name: bpifrance
       url: http://www.bpifrance.fr/
     - name: anap
