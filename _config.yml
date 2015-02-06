@@ -1122,6 +1122,15 @@ blogPost:
   - name: CIU SANTE
     title: "Hacking Health Camp 19 - 22 mars 2015, Strasbourg"
     url: http://www.ciusante.org/evenements/hacking-health-camp-19-22-mars-2015-strasbourg/
+  - name: Agence Regionale de Sante Alsace
+    title: "Hackathon santé à Strasbourg"
+    url: http://www.ars.alsace.sante.fr/Hackathon-sante-a-Strasbourg.178946.0.html
+  - name: GCS E-Sante Bretagne
+    title: "Digital health camp : Hackathon dédié à la santé du 19 au 22 mars 2015"
+    url: http://esante-bretagne.fr/digital-health-camp-hackathon-dedie-la-sante-du-19-au-22-mars-2015/
+  - name: DSIH E-Sante
+    title: "Le Hacking Health renouvelle l'édition du 19 au 22 mars 2015 prochain à Strasbourg"
+    url: http://www.dsih.fr/agenda/25/le-hacking-health-renouvelle-l-edition-du-19-au-22-mars-2015-prochain-a-strasbourg.html
 
 atelier:
   show: true
