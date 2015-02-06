@@ -11,9 +11,14 @@
     <div class="container">
       <div class="row">
         <div class="col-xs-12">
-          <div class="h2 text-center">
+        {% if sectionKey == 'team' %}
+          {% assign title_tag = 'h1' %}
+        {% else %}
+          {% assign title_tag = 'div' %}
+        {% endif %}
+          <{{ title_tag }} class="h2 text-center">
             {{ section_name }}
-          </div>
+          </{{ title_tag }}>
         </div>
       </div>
       <div class="row">
