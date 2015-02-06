@@ -51,9 +51,27 @@
     </div>
     <div class="clear visible-sm"></div>
     <div class="navbar-collapse collapse pull-right col-xs-12" id="navbar">
+      {% assign img_url = "/img/hhlogo.svg" | prepend: site.baseurl %}
       <ul class="nav navbar-nav navbar-right">
-        {% assign target_url = '/discover.html' | prepend: site.baseurl %}
-        <li><a href="{% if page.locale == "fr" %}/fr{% endif %}{{ target_url }}">{{ site[page.locale].nav.event }}</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ site[page.locale].nav.event }}</a>
+          <ul class="dropdown-menu" role="menu">
+            {% assign target_url = '/discover.html' | prepend: site.baseurl %}
+            <li>
+              <a href="{% if page.locale == "fr" %}/fr{% endif %}{{ target_url }}">
+                <img src="{{ img_url }}" />
+                {{ site[page.locale].nav.about }}
+              </a>
+            </li>
+            {% assign target_url = '/team.html' | prepend: site.baseurl %}
+            <li>
+              <a href="{% if page.locale == "fr" %}/fr{% endif %}{{ target_url }}">
+                <img src="{{ img_url }}" />
+                {{ site[page.locale].nav.team }}
+              </a>
+            </li>
+          </ul>
+        </li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ site[page.locale].nav.agenda }}</a>
           <ul class="dropdown-menu" role="menu">
@@ -62,7 +80,6 @@
               {% assign event_url = mnemonic | append:'.html' %}
               <li>
                 <a href="{% if page.locale == "fr" %}/fr/{% else %}/{% endif %}{{ event_url }}">
-                  {% assign img_url = "/img/hhlogo.svg" | prepend: site.baseurl %}
                   <img src="{{ img_url }}" />
                   {{ event.name }}
                 </a>

@@ -49,6 +49,8 @@ fr:
       button_link: Contact
   nav:
     event: A propos
+    about: L'Événement
+    team: L'Équipe
     agenda: Agenda
     ticket: Billets
     hhcamp_and_you: "HH Camp & moi"
@@ -145,6 +147,8 @@ en:
       button_link: Contact
   nav:
     event: Event
+    about: Details
+    team: Team
     agenda: Agenda
     ticket: Ticket
     hhcamp_and_you: "HH Camp & You"
