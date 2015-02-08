@@ -3,7 +3,7 @@
     <div class="row text-center">
       <h2><strong>{{ event.verb }}</strong> {{ event.name }}</h2>
       <div class="h5">{{ event.date }}</div>
-      <div class="h5">{{ event.venue }}</div>
+      <div class="h5">{{ event.venue | markdownify }}</div>
     </div>
   </div>
 </section>

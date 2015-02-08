@@ -83,22 +83,22 @@ fr:
     - name: Future of Health
       verb: Inspirer
       date: "Jeudi 19 mars 2015, de 9h30 à 17h"
-      venue: Auditorium du conservatoire de musique - 1 place Dauphine (à côté de la place de l'étoile) - Strasbourg
+      venue: "[Auditorium du conservatoire de musique - 1 place Dauphine (à côté de la place de l'étoile) - Strasbourg](venue.html)"
       description: "Une journée inspirante de conférences visionnaires sur le futur de la santé par des personnalités internationalement reconnues. Jacques Marescaux (premier chirurgien ayant opéré avec un robot), Uwe Diegel (president de iHealth Labs), Jorge Juan Fernandez Garcia (Médecin et directeur du programme Moebio à l'hôpital San Juan de Deu à Barcelone) et bien d'autres vous donneront leur vision du futur en santé. Si vous aimez les conférences TED vous aimerez assister à ces conférences."
     - name: Health Pitch Challenge
       verb: Bonus
       date: "Jeudi 19 mars 2015, de 19h à 22h"
-      venue: Auditorium du conservatoire de musique - 1 place Dauphine (à côté de la place de l'étoile) - Strasbourg
+      venue: "[Auditorium du conservatoire de musique - 1 place Dauphine (à côté de la place de l'étoile) - Strasbourg](venue.html)"
       description: "Soirée dédiée aux startups du domaine de la santé en présence d’investisseurs. Une sélection de startups présenteront leurs idées sous forme de pitch. Le public pourra voter avec des billets de banque virtuels. Le gagnant étant celui qui aura levé le plus d’argent."
     - name: Health Data Day
       verb: Apprendre
       date: "Vendredi 20 mars 2015, de 9h à 17h"
-      venue: Forum de la faculté de médecine - 1 rue Humann - Strasbourg
+      venue: "[Forum de la faculté de médecine - 1 rue Humann - Strasbourg](venue.html)"
       description: "Une journée de conférences et d’ateliers sur la production, la consommation et l’analyse de données de santé sur le plan technique, médical et légal."
     - name: Health Hackathon
       verb: Passer à l'action
       date: "Du vendredi 20 mars 17h au dimanche 22 mars à 17h"
-      venue: Forum de la faculté de médecine - 1 rue Humann - Strasbourg
+      venue: "[Forum de la faculté de médecine - 1 rue Humann - Strasbourg](venue.html)"
       description: "Deuxième hackathon annuel du vendredi soir au dimanche soir. Professionnels de santé, développeurs et designers se retrouveront en équipe pour co-créer des prototypes à partir de défis soumis avant l’évènement."
   partners_title:
     platinum: platinum
@@ -181,22 +181,22 @@ en:
     - name: Future of Health
       verb: Inspire
       date: "Thursday, March 19th, 9:30 AM - 5 PM"
-      venue: Auditorium du conservatoire de musique - 1 place Dauphine (near Place de l'étoile) - Strasbourg
+      venue: "[Auditorium du conservatoire de musique - 1 place Dauphine (near Place de l'étoile) - Strasbourg](venue.html)"
       description: "A entire day of inspiring and forward-thinking conferences on the future of health by a line up of internationally-recognized health mentors. Jacques Marescaux (first surgeon apply remote surgery with robot), Uwe Diegel (president of iHealth Labs), Jorge Juan Fernandez Garcia (leading Spanish children's hospital in Spain) and many more will give their vision on future of healthcare. If you like TED conference you will like to come there especially if you're interested in healthcare."
     - name: Health Pitch Challenge
       verb: Bonus
       date: "Thursday, March 19th, 7:00 PM - 10:00 PM"
-      venue: Auditorium du conservatoire de musique - 1 place Dauphine (near Place de l'étoile) - Strasbourg
+      venue: "[Auditorium du conservatoire de musique - 1 place Dauphine (near Place de l'étoile) - Strasbourg](venue.html)"
       description: "A festive event dedicated to health startups, complete with the presence of investors. Early-stage startups will pitch; attendees will vote by investing in their favorite startups with fake banknotes. The winner will be the one who raises the most money."
     - name: Health Data Day
       verb: Learn
       date: "Friday, March 20th, 9:00 AM - 5:00 PM"
-      venue: Forum de la faculté de médecine - 1 rue Humann - Strasbourg
+      venue: "[Forum de la faculté de médecine - 1 rue Humann - Strasbourg](venue.html)"
       description: "A full day of workshops and conferences centered around the technical, medical and legal aspects of producing, consuming and analyse health data. International speakers will come to help you better understand healthcare ecosystem and opportunity. Big Data and API will be demystified with concrete experience."
     - name: Health Hackathon
       verb: "Act"
       date: "Friday, March 20th, 5:00 PM to Sunday, March 8:00 PM"
-      venue: Forum de la faculté de médecine - 1 rue Humann - Strasbourg
+      venue: "[Forum de la faculté de médecine - 1 rue Humann - Strasbourg](venue.html)"
       description: "The second annual hackathon will run from Friday evening to Sunday evening. Health professionals, patients, hackers, developers and designers will create prototypes based on challenges submitted before the event."
   partners_title:
     platinum: platinum
