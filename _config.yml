@@ -299,24 +299,26 @@ people:
           linkedin: /profile/view?id=77766075
         - name: Solange Arnaud
           linkedin: /pub/solange-arnaud/0/354/b75
+        - name: David Petauton
+          linkedin: profile/view?id=64314686
+          twitter: davidpetauton
 
   future-of-health:
     - name: "Speakers"
       list:
         - name: Uwe Diegel
-          description: iHealth founder
+          description: President of iHealth Labs Europe, established in 2013 in Pars. He is the horder of several patents pertaining to temperature and blood pressure measurement and is considered as a specialist in the oscillometrc measurement of and in various other forms of medical diagnostics.
           twitter: uwe
           linkedin: in/uwediegel
         - name: Pierre-Paul Vidal
           description: MD PhD, Head of Department [COGNAC-G (COGNition and ACtion Group)](http://www.biomedicale.parisdescartes.fr/~cognac/cognac/) - Université Paris Descartes - CNRS UMR-MD - SSA.
           linkedin: profile/view?id=151969844
         - name: Jorge Juan Fernandez Garcia
-          description: Hospital Sant Joan de Déu - Barcelona (Director E-Health) and Moebio (Head of Academics - Design Health Barcelona)
+          description: "Jorge is Director of E-Health and Health 2.0 at [Hospital Sant Joan de Déu (Barcelona)](www.hsjdbcn.org), one of the largest children’s hospitals in Europe. He has over 15 years of experience in life sciences and healthcare, working on projects throughout Europe, with a strong focus on technology, innovation and entrepreneurship. He regularly acts as advisor and mentor to various healthcare startups and entrepreneurial acceleration programs. Jorge is also the Head of Academics of [Moebio](www.moebio.org), where he leads the d·HEALTH Barcelona program, a 9-month postgraduate fellowship to accelerate healthcare entrepreneurship. Jorge is a graduate in European Political Economy from the London School of Economics (LSE). He also holds a GMP from IESE Business School (Barcelona) and a GSP from Singularity University (Silicon Valley).  Jorge is a 2014 European Young Leader [“40 Under 40”](http://40under40.eu)."
           twitter: jorgejuan
           linkedin: profile/view?id=2277954
         - name: Jacques Marescaux
-          description: "President of the Research Institute Against Digestive Cancers (IRCAD) &
-Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn more.](https://en.wikipedia.org/wiki/Jacques_Marescaux)"
+          description: "President of the Research Institute Against Digestive Cancers (IRCAD) & Chairman of the Institute of Image-Guided Surgery (IHU Strasbourg).<br />[Learn more.](https://en.wikipedia.org/wiki/Jacques_Marescaux)"
         - name: Zayna Khayat
           description: "At MaRS, Zayna and her rockstar team help smooth the path to adoption of health innovation by healthcare systems in Ontario and around the world. She is also an adjunct faculty with the Rotman School of Management in the Health Sector Strategy stream."
           twitter: ZaynaKhayat
@@ -577,6 +579,7 @@ schedules:
           speaker: Jorge Juan Fernandez Garcia
           language: en
           description: "How to bring entrepreneurs into the hospital?"
+          abstract: Traditionally, we have expected innovation in healthcare to come from research centers (through scientific advances) and/or technological centers (through technological advances). That model follows a scheme of “a solution looking for a problem to solve”. Studies show that this approach has a high failure rate. There is another model, which starts with the unmet or undermet needs and tries to find a solution (scientific and/or technological). In this alternative model, the best place to start innovation is not universities or research/technological centers, but care delivery organizations. Moebio, which according to media is 'probably the most impressive accelerator/fellowship program we've seen emerge in Europe' (Health Startup Europe), aims to accelerate healthcare entrepreneurship through a need-driven approach. Its flagship program is d·HEALTH Barcelona, a 9-month postgraduate fellowship based on the successful Stanford Biodesign program, where interdisciplinary teams experience a full cycle of need identification, invention and early-stage implementation, performing a 2-month clinical immersion at top hospitals. Jorge will share the experience and the results of d·HEALTH Barcelona, and other Biodesign-like programs around the world.
         - title: "12am - 2pm"
           description: " Lunch at [La Bourse restaurant](http://www.restaurant-de-la-bourse.fr/), don't forget to subscribe to the lunch when you register (limited to 200)"
         - title: "1:45pm - 2:15pm"
