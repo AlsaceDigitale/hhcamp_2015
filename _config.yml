@@ -688,6 +688,7 @@ schedules:
           description: "Objets connectés et OPEN/BIG DATA"
           speaker2: "Clément Troesch"
           description2: "DICOM : beyond simple medical images"
+          abstract2: "Le standard DICOM fait office de référence lorsque l’on évoque l’imagerie médicale. Son utilisation pour le stockage des images scanners et IRM est largement répandu dans le milieu hospitalier. Il est en revanche moins connu que cette norme permet de stocker d’autres informations telles que des vidéos ou des maillages surfaciques. Cette présentation a pour but d’apporter des renseignements sur le stockage de ces nouvelles informations et sur l’utilisation qui est en est faite afin de bénéficier au patient."
         - title: "4pm - 4:30pm"
           speaker: "Mike Amundsen"
           description: "Putting Big Data in It's Place"
