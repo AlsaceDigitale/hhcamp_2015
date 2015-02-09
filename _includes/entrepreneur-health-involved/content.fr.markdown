@@ -42,6 +42,7 @@ Participez à Hacking Health Camp 2015, le plus grand événement européen d'in
 
 [Interview d'Anne Monnier - ASIP Santé](https://docs.google.com/document/d/1pd08N0n5XE5LmL8rmKT7p4eMU5Asv-C1KUYXJYYWroQ/edit?usp=sharing)
 
+[Interview de Pierre Desmarais - Avocat dans la santé et Correspondant Informatique et Libertés](https://docs.google.com/document/d/15uvwJ7n5x4vhNqHbWkRkPUIrV-9-WgjPRMrzgwXCjq4/edit?usp=sharing)
 </div>
 
 <div class="col-xs-12 col-md-6" markdown="1">
@@ -49,7 +50,7 @@ Participez à Hacking Health Camp 2015, le plus grand événement européen d'in
 
 Hacking Health Camp 2015, 4 jours et 3 étapes : s'inspirer, apprendre, passer à l'action
 
-### S'nspirer
+### S'inspirer
 
 #### [Future of Health](future-of-health.html) (jeudi)
 
