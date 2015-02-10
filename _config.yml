@@ -352,8 +352,10 @@ people:
           website: www.i-nside.com
         - name: Umanlife
           website: www.umanlife.com
-        - name: To be announced soon
-        - name: To be announced soon
+        - name: Braci
+          website: braci.co
+        - name: Dimago Mental Health
+          website: www.digital-worx.de/referenzen/dimago/
         - name: To be announced soon
         - name: To be announced soon
         - name: To be announced soon
@@ -432,7 +434,7 @@ people:
           twitter:
           linkedin:
         - name: Clément Troesch
-          description: "R&D ingenieur at [Visible Patient.](http://www.visiblepatient.com/)"
+          description: "Recently graduated, Clément Troesch is a junior engineer at [Visible Patient.](http://www.visiblepatient.com/) since September 2014. He has been working for the last three years on medical softwares as an apprentice at IRCAD. During the last year, he has been dealing with the DICOM standard for the FW4SPL project."
           label: "technical"
           twitter:
           linkedin: "pub/clément-troesch/a2/342/331/fr"
@@ -672,6 +674,7 @@ schedules:
           description: "“Can’t see the forest for the trees? What App Developers need to know about Healthcare Data Management in Germany”"
           speaker2: "James Agnew"
           description2: "Workshop (1h) : FHIR for Hackers - Using standards to build it faster"
+          abstract2: "[HL7 FHIR](http://www.hl7.org/implement/standards/fhir/) (Fast Healthcare Interoperable Resources) is a new standard for storing and exchanging health data that delivers a modern RESTful approach and puts developers first. FHIR is generating a lot of buzz around the world, and many large health software vendors and governments are now exploring using FHIR to provide access to their data. This presentation will explore how FHIR's robust and extendible data model can be used to rapidly prototype health apps, but also helps prepare your app to integrate with the emerging FHIR data ecosystem."
         - title: "2:30pm - 3pm"
           speaker: "Délia Rahal-Lofskog"
           description: "La loi Informatique et Libertés, un facteur d'innovation"
@@ -945,6 +948,8 @@ sponsors:
       url: http://www.interaction-healthcare.com/
     - name: soprasteria
       url: http://www.soprasteria.com/
+    - name: CCI Alsace
+      url: http://www.alsace.cci.fr/
 main_partners:
   hospital:
     - name: HUS
@@ -989,8 +994,6 @@ secondary_partners:
       url: http://www.etalab.gouv.fr/
     - name: france silver eco
       url: http://www.cnr-sante.fr/
-    - name: CCI Alsace
-      url: http://www.alsace.cci.fr/
     - name: Club JADE
       url: http://www.club-jade.fr/
     - name: Alsace eSanté
