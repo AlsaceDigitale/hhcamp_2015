@@ -1039,8 +1039,8 @@ secondary_partners:
       url: http://buzz-esante.com/
     - name: DNA
       url: http://www.dna.fr
-    - name: France3 Alsace
-      url: https://www.france3.fr/
+    - name: FrenchWeb
+      url: http://www.frenchweb.fr
     - name: HealthITSpace
       url: http://www.healthitspace.eu/
     - name: eHealthNews
@@ -1062,6 +1062,8 @@ secondary_partners:
   event:
     - name: eHealth-competition
       url: http://www.ehealthcompetition.eu/
+    - name: innovation-forum
+      url: http://www.inno-forum.org/
 
 last_event_playlist_id: PLKHIK5minrP6NXwHfUF3lD5SbmlbclGhK
 
