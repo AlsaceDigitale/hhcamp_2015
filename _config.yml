@@ -950,6 +950,8 @@ sponsors:
       url: http://www.soprasteria.com/
     - name: CCI Alsace
       url: http://www.alsace.cci.fr/
+    - name: emedia
+      url: http://www.e-media.fr
 main_partners:
   hospital:
     - name: HUS
@@ -1034,6 +1036,8 @@ secondary_partners:
       url: http://www.semia-incal.fr/
     - name: rhenatic
       url: http://www.rhenatic.eu/
+    - name: lapaillasse
+      url: http://lapaillasse.org/
   media:
     - name: BUZZ-ESANTE
       url: http://buzz-esante.com/
