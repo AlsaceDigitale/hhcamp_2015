@@ -6,6 +6,10 @@ layout: default
 {% include event/intro.html %}
 {% include shared/presentation.html %}
 {% if page.path == "health-hackathon.html" or page.path == "fr/health-hackathon.html"%}
+{% assign content_file_path = mnemonic | append:'/prizes.' | append:page.locale | append:'.html' %}
+{% include {{content_file_path}} %}
+{% endif %}
+{% if page.path == "health-hackathon.html" or page.path == "fr/health-hackathon.html"%}
 {% assign content_file_path = mnemonic | append:'/complement.' | append:page.locale | append:'.markdown' %}
 {% capture complement %}{% include {{content_file_path}} %}{% endcapture %}
 <section class="complement {{ mnemonic }}">
@@ -19,10 +23,7 @@ layout: default
 {% include shared/last-edition.html %}
 {% endif %}
 {% include {{ mnemonic }}/hardware-software.html %}
-{% if page.path == "health-hackathon.html" or page.path == "fr/health-hackathon.html"%}
-{% assign content_file_path = mnemonic | append:'/prizes.' | append:page.locale | append:'.html' %}
-{% include {{content_file_path}} %}
-{% else %}
+{% if page.path != "health-hackathon.html" and page.path != "fr/health-hackathon.html"%}
 {% include {{ mnemonic }}/prizes.html %}
 {% endif %}
 {% endif %}
