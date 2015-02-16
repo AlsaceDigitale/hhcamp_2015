@@ -1150,6 +1150,18 @@ blogPost:
   - name: DSIH E-Sante
     title: "Le Hacking Health renouvelle l'édition du 19 au 22 mars 2015 prochain à Strasbourg"
     url: http://www.dsih.fr/agenda/25/le-hacking-health-renouvelle-l-edition-du-19-au-22-mars-2015-prochain-a-strasbourg.html
+  - name: le lieu du Design
+    title: "Hacking Health Camp - Create the future of healthcare" 
+    url: http://www.lelieududesign.com/actualite/hacking-health-camp-create-the-future-of-healthcare
+  - name: interopsante
+    title: "Interop’Santé, partenaire du Hacking Health Camp du 19 au 22 mars 2015 à Strasbourg  "
+    url: http://www.interopsante.org/offres/gestion/actus_412_22939-994/interop-sante-partenaire-du-hacking-health-camp-du-19-au-22-mars-2015-a-strasbourg.html
+  - name: frenchweb
+    title: "Hacking Health Camp"
+    url: http://frenchweb.fr/hacking-health-camp/183434
+  - name: alsace-esante
+    title: "Alsace e-santé, partenaire du Hacking Health Camp"
+    url: https://www.alsace-esante.fr/alsace-e-sante-partenaire-du-hacking-health-camp
 
 atelier:
   show: true
