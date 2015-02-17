@@ -54,7 +54,7 @@ fr:
     agenda: Agenda
     ticket: Billets
     hhcamp_and_you: "HH Camp & moi"
-    become_sponsor: Devenir sponsor
+    become_sponsor: Sponsors
     venue: Lieu
     press: Presse
   intro:
@@ -152,7 +152,7 @@ en:
     agenda: Agenda
     ticket: Ticket
     hhcamp_and_you: "HH Camp & You"
-    become_sponsor: Become Sponsor
+    become_sponsor: Sponsors
     venue: Venue
     press: Press
   intro:
@@ -354,8 +354,10 @@ people:
           website: braci.co
         - name: Dimago Mental Health
           website: www.digital-worx.de/referenzen/dimago/
-        - name: To be announced soon
-        - name: To be announced soon
+        - name: InSimo
+          website: www.insimo.fr/
+        - name: Collabobeat
+          website: www.collabobeat.com/
         - name: To be announced soon
         - name: To be announced soon
   health-data-day:
@@ -873,6 +875,11 @@ hardwaresoftware:
     description: "Galaxy Note 4, Galaxy Tab S 10 & 7, Galaxy A5, UHD Monitor, 55' Monitor, GEARs, GEARvr"
     link: "http://www.samsung.com/global/microsite/galaxynote4/index.html"
     link_title: "Learn More"
+  - image: samsungsami
+    title: Samsung SAMI
+    link: http://developer.samsungsami.io/
+    link_title: API Documentation
+    description: "SAMI is a Data Driven Development (D³) platform with simple open APIs and SDKs to send and receive diverse data, regardless of the source."
   - image: "arrow"
     title: "Virtual Machines \ Arrow ECS"
     description: "Health and private Data hosting"

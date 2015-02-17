@@ -31,8 +31,8 @@
               <div class="img-container">
                 {% assign person_name = person.name | downcase | replace:" ","-" | replace:"é","e" | remove:"!" | remove:"'" | split:"-" | join:"-" | append:".jpg" %}
                 {% assign img_url = "/img/people/" | append: person_name | prepend: site.baseurl %}
-               	<img src="{{ img_url }}" />
-                <div class="overlay">
+               	<img src="{{ img_url }}"{% if sectionKey != 'health-pitch-challenge' %} class="circle grayfilter"{% endif %}/>
+                <div class="overlay {% if sectionKey != 'health-pitch-challenge' %}circle{% endif %}">
                   <div class="social">
                     {% if person.twitter %}
                       <a href="https://twitter.com/{{ person.twitter }}" target="_blank">
@@ -48,7 +48,7 @@
                       <a href="http://{{ person.website }}" target="_blank">
                         <i class="fa fa-info-circle"></i>
                       </a>
-                    {% endif %}
+                      {% endif %}
                 </div>
                </div>
               </div>

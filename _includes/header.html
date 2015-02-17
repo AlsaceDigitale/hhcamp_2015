@@ -41,11 +41,11 @@
       </span>
       <span class="language-links">
 	<a href="/fr/{{ page.name }}">
-	  FR 
+	  FR
 	</a>
 	|
 	<a href="/{{ page.name }}">
-	  EN 
+	  EN
 	</a>
       </span>
     </div>
@@ -102,7 +102,7 @@
             {% endfor %}
           </ul>
         </li>
-        {% assign target_url = '/sponsors.html' | prepend: site.baseurl %}
+        {% assign target_url = '/sponsors-partners.html' | prepend: site.baseurl %}
         <li><a href="{% if page.locale == "fr" %}/fr{% endif %}{{ target_url }}">{{ site[page.locale].nav.become_sponsor }}</a></li>
         {% assign target_url = '/venue.html' | prepend: site.baseurl %}
         <li><a href="{% if page.locale == "fr" %}/fr{% endif %}{{ target_url }}">{{ site[page.locale].nav.venue }}</a></li>
