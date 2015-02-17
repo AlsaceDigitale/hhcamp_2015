@@ -479,7 +479,7 @@ people:
           description: Gynécologue obstétricien, professeur des universités.<br/>[Learn More.](http://fr.wikipedia.org/wiki/Isra%C3%ABl_Nisand)
         - name: Oussama Ammar
           description: Oussama has always been an entrepreneur. At the age of 12 hi had his first experience in the stratup world when he created one of the first web agencies in France. A few spinoffs and independant platforms later - among them one of the first antique shops online - he earned his spurs on the web. At 21, Oussama launched Hypios which became in less than 3 years an established leader of open online innovation. Business angel for more than 3 years, he holds 21 active investments mostly located in Silicon Valley. Oussama later cofounded [TheFamily](http://www.thefamily.co) in the hope of creating a true springboard for local startups.
-        - name: To be announced soon !
+        - name: Agnès Fournaise
         - name: To be announced soon !
     - name: "Mentors"
       list:
@@ -521,7 +521,7 @@ people:
           twitter: fabriqueH
           linkedin: profile/view?id=207879582
         - name: "Xavier Augay"
-          description: "Health entrepreneur"
+          description: "Health entrepreneur - CEO Icanopee - data integration facilitator"
           twitter:
           linkedin:
         - name: Cécilia Rohmer Gurisik
@@ -552,6 +552,9 @@ people:
           description: "He has been in charge of 'interfaced products' development at Vidal for 7 seven years. Web API-lover and Vidal's API evangelist."
           twitter:
           linkedin: profile/view?id=72598950
+        - name: Leonardo Uribe
+          description: "MD & entrepreneur, Hacking Health last edition attendee and awarded"
+          linkedin: lifealth
 schedules:
   future-of-health:
     - title: "19th"
