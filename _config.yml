@@ -901,6 +901,11 @@ hardwaresoftware:
     description: "Health terminology service"
     link: "http://phast.cloudapp.net/sts.soap_beta_2.en.asmx"
     link_title: "Documentation"
+  - image: pryv
+    title: "Pryv : Sensitive data management and secure data storage"
+    link: logo-with-slogan.png
+    link_title: API Documentation
+    description: "Pryv provides an advanced set of software tools and backend, which empowers Medtech and connected-health SMEs to manage sensitive data ownership, storage location and selective sharing of data while reducing time to market and IT expenses. You can find more on: [pryv.com](http://pryv.com)"
 
 social_links:
   facebook: http://facebook.com/digitalhealthcamp
