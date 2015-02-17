@@ -486,7 +486,7 @@ people:
     - name: "Mentors"
       list:
         - name: Elalami Lafkih
-          description: Pretotyping expert
+          description: "Responsable de l'équipe engineering chez ReCommerce Solutions, Elalami Lafkih s’intéresse aux défis et aux problématiques d’innovation et plus précisément aux outils et méthodologies de validation des nouvelles idées. Auparavant, Elalami a travaillé dans plusieurs start-up françaises qui ont connues plus au moins de succès. Il aide aujourd’hui les start-up et les grandes entreprises à développer le bon produit avant d’investir massivement dans une mauvaise idée. Elalami intervient également dans des conférences européennes et anime le [mouvement de prétotyping](http://www.pretotyping.fr) en France."
           twitter: e_lalami
           linkedin: profile/view?id=36725748
         - name: Pierre Desmarais
@@ -683,13 +683,13 @@ schedules:
           speaker: "Délia Rahal-Lofskog"
           description: "La loi Informatique et Libertés, un facteur d'innovation"
           abstract: "L'innovation passe par la construction d'un cadre de confiance entre responsables de traitements, utilisateurs et personnes dont on traite les données à caractère personnel. La loi Informatique et Libertés permet de construire ce cadre dont le futur règlement européen scellera les prochaines briques. En matière de santé, compte tenu de la sensibilité de la donnée, cela prend tout son sens. Délia RAHAL-LÖFSKOG, chef du service de la santé à la CNIL, viendra nous dire comment."
-          speaker2: "Pierre Guntzer"
-          description2: "An introduction to dose registries"
-          abstract2: "This presentation introduces the Radiation Exposure Monitoring (REM) IHE Integration Profile (which is a part of the RAD IHE profile that describes workflows in radiology), and in particular the registry role, whose purpose is to collect anonymized dose information from hospitals through the Internet and provide analytics. The DICOM RDSR (Radiation Dose Structured Report) format and the anonymization process will be briefly described. To illustrate the integration to a concrete dose registry deployed in the USA, the ACR Dose Index Registry will be introduced, with a focus on the technical deployment in a hospital and the data workflows to put in place in order to feed the registry with dose data."
         - title: "3pm - 3:30am"
           speaker: "Pascal Zellner"
           description: "HTrainer système d'aide à l'entrainement, le big data au service des sportifs"
           abstract: "During 6 months through the prototype app H Trainer, the IFREMMONT stored and analyzed the profile of a hundred volunteers athletes (collective sporst, individual sports) and especially for these parameters of each training session. Users had a reporting their given especially  recommendations from the algorithm set up on the cloud. This work has highlighted several different profiles on compliance, habits. Through subjective parameters (questionnaires) and objectives measured using thoracic sensors, the overall impression is a gain of performance and fitness of from 10 to 50%"
+          speaker2: "Pierre Guntzer"
+          description2: "An introduction to dose registries"
+          abstract2: "This presentation introduces the Radiation Exposure Monitoring (REM) IHE Integration Profile (which is a part of the RAD IHE profile that describes workflows in radiology), and in particular the registry role, whose purpose is to collect anonymized dose information from hospitals through the Internet and provide analytics. The DICOM RDSR (Radiation Dose Structured Report) format and the anonymization process will be briefly described. To illustrate the integration to a concrete dose registry deployed in the USA, the ACR Dose Index Registry will be introduced, with a focus on the technical deployment in a hospital and the data workflows to put in place in order to feed the registry with dose data."
         - title: "3:30pm - 4pm"
           speaker: "Christophe Richard"
           description: "Objets connectés et OPEN/BIG DATA"
@@ -710,7 +710,8 @@ schedules:
           abstract2: "DICOM is now ubiquitous in clinical practice: from storage and query to printing and surgery planning, its usefulness has been proven time and again. In clinical trials, where the focus shifts from the patient to the cohort, new issues start to appear: since most of the softwares are patient-centric and designed to be deployed in hospitals, we have to either coax them into handling clinical trial data or develop new ones. This talk will show our work on those two fronts."
         - title: "5pm - 5:30pm"
           speaker: "Elalami Lafkih"
-          description: "Pretotyping technics"
+          description: "Pretotyping introduction"
+          abstract: "Ce n'est pas une erreur de typo, mais il s'agit bien de prEtotyping – une démarche d'innovation qui consiste à répondre à une question basique mais souvent oubliée : comment s'assurer que nous sommes en train de développer le bon Produit AVANT d'investir du temps, de l'argent et des efforts ? Si au cours de votre carrière, vous avez passé des weekends et des nuits entières, ou bien vous avez dépensé beaucoup d'argent dans le développement des Produits, qu'une fois mis sur le marché, ont connu un flop total, alors le Prétotyping est la session «to be». Le plus grand défi de l'innovation ne réside pas dans la collecte de nouvelles idées de produits ou services. Mais, de savoir laquelle de ces idées est la plus susceptible de rencontrer un succès sur le marché – «le bon produit». Le Prétotyping peut vous aider à tester vos idées rapidement, à moindre coût et d'une manière objective. En d'autre terme, identifier le plus tôt possible si votre idée de produit est la «bonne». L'innovation n’est pas un processus top-down piloté par une poignée de personnes en charge de l’innovation au sein d’une entreprise, mais une démarche bottom-up où chaque personne peut y contribuer. Le Prétotyping démocratise et démystifie l’innovation par l’adoption d’une culture d’expérimentation et privilégie l’échec rapide et à moindre coût."
           speaker2: "Sébastien Lambour"
           description2: "DATA : cornerstone of value creation"
   health-hackathon:
