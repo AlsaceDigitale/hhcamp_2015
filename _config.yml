@@ -481,8 +481,10 @@ people:
           description: Gynécologue obstétricien, professeur des universités.<br/>[Learn More.](http://fr.wikipedia.org/wiki/Isra%C3%ABl_Nisand)
         - name: Oussama Ammar
           description: Oussama has always been an entrepreneur. At the age of 12 hi had his first experience in the stratup world when he created one of the first web agencies in France. A few spinoffs and independant platforms later - among them one of the first antique shops online - he earned his spurs on the web. At 21, Oussama launched Hypios which became in less than 3 years an established leader of open online innovation. Business angel for more than 3 years, he holds 21 active investments mostly located in Silicon Valley. Oussama later cofounded [TheFamily](http://www.thefamily.co) in the hope of creating a true springboard for local startups.
-        - name: Agnès Fournaise
+        - name: Agnes Fournaise
+          description: "Directrice en charge des prestations Soins tant en Santé Individuelle que Collective chez Allianz France. Parcours diversifié avec des postes de management au sein de la Direction Vie par exemple. Ces différentes fonctions m'ont permis de nombreuses rencontres, de développer de nouvelles compétences, d'intégrer le changement comme une évidence. Le domaine de la Santé me passionne parce que je considère que c'est le bien le plus précieux qui nous permet le Bien Etre et le Bien Vivre. J'adore découvrir les nouveautés et suis donc très branchée Innovation et si le Hackathon nous permet de trouver ne serait-ce qu'une solution nouvelle qui puisse aider des patients ce serait super !!"
         - name: To be announced soon !
+
     - name: "Mentors"
       list:
         - name: Elalami Lafkih
@@ -914,7 +916,7 @@ hardwaresoftware:
     link_title: "Documentation"
   - image: pryv
     title: "Pryv : Sensitive data management and secure data storage"
-    link: logo-with-slogan.png
+    link: "http://api.pryv.com"
     link_title: API Documentation
     description: "Pryv provides an advanced set of software tools and backend, which empowers Medtech and connected-health SMEs to manage sensitive data ownership, storage location and selective sharing of data while reducing time to market and IT expenses. You can find more on: [pryv.com](http://pryv.com)"
 
@@ -1083,6 +1085,8 @@ secondary_partners:
       url: http://www.osoz.pl/
     - name: dsih
       url: http://www.dsih.fr
+    - name: maddyness
+      url: http://www.maddyness.com
     - name: TIC Santé
       url: http://www.tic-sante.fr
     - name: SIH Solutions
