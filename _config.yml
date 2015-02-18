@@ -1186,6 +1186,15 @@ blogPost:
   - name: alsace-esante
     title: "Alsace e-santé, partenaire du Hacking Health Camp"
     url: https://www.alsace-esante.fr/alsace-e-sante-partenaire-du-hacking-health-camp
+  - name: Alsace Biovalley
+    title: "Hacking Health Camp 2015 : découvrez des prix d’exception à gagner lors du Hackathon !"
+    url: http://www.alsace-biovalley.com/fr/hacking-health-camp-2015-decouvrez-des-prix-dexception-gagner-lors-du-hackathon/
+  - name: Medicen
+    title: "Hacking Health Camp"
+    url: http://www.medicen.org/evenements/hacking-health-camp
+  - name: DSIH E-Sante
+    title: "Le futur de la santé s’invente à Strasbourg"
+    url: http://www.dsih.fr/article/1374/le-futur-de-la-sante-s-invente-a-strasbourg.html
 
 atelier:
   show: true
