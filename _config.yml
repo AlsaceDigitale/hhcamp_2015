@@ -358,7 +358,8 @@ people:
           website: www.insimo.fr/
         - name: Collabobeat
           website: www.collabobeat.com/
-        - name: To be announced soon
+        - name: MedPics
+          website: https://www.medpics.fr/
         - name: To be announced soon
   health-data-day:
     - name: "Speakers"
