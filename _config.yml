@@ -732,6 +732,8 @@ schedules:
           speakerBis: "Luc Sirois"
         - title: "7:10pm - 7:30pm"
           description: "Keynote Allianz"
+          abstract: "Directrice du Marché des Particuliers au sein de la Direction Digital & Market Management chez Allianz France après avoir été directrice des produits Santé, Prévoyance, Emprunteur et Dépendance. Ses fonctions actuelles la conduisent à suivre particulièrement l'évolution du marché, notamment dans le domaine de la santé et de la digitalisation , tout en étant  très attentive aux attentes et comportements des clients sur ces thématiques. Les fonctions exercées durant de nombreuses années lui ont permis de promouvoir l'innovation et la prévention santé au travers d'offres et de services personnalisés et dans le cadre de partenariats avec différents acteurs du monde de la santé. Allianz France permet aujourd’hui à ses clients d'être acteurs responsables de leur santé, de leur faciliter  l'accès à des soins de qualité, de mieux les informer et les encourager à des comportements soucieux de leur santé physique et mentale."
+          speaker: "Christine Nonnenmacher"
           image: allianz
         - title: "7:20pm"
           description: "Coachs presentation"
