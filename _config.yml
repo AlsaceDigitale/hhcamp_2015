@@ -1203,6 +1203,12 @@ blogPost:
   - name: DSIH E-Sante
     title: "Le futur de la santé s’invente à Strasbourg"
     url: http://www.dsih.fr/article/1374/le-futur-de-la-sante-s-invente-a-strasbourg.html
+  - name: Maddyness
+    title: "Hacking Health Camp – Strasbourg"
+    url: http://www.maddyness.com/agenda/hacking-health-camp-strasbourg/
+  - name: Alsacreations
+    title: "Hacking Health Camp du 19 au 22 mars à Strasbourg"
+    url: http://www.alsacreations.com/actu/lire/1664-hacking-health-camp-du-19-au-22-mars-strasbourg.html
 
 atelier:
   show: true
