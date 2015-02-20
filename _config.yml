@@ -1074,6 +1074,12 @@ secondary_partners:
       url: http://www.systematic-paris-region.org/
     - name: medicen
       url: http://www.medicen.org/
+    - name: elsassJug
+      url: http://elsassjug.org/
+    - name: wdstr
+      url: http://wdstr.fr/
+    - name: alsacreations
+      url: http://www.alsacreations.com/
   media:
     - name: BUZZ-ESANTE
       url: http://buzz-esante.com/
