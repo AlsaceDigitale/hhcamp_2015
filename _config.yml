@@ -567,6 +567,13 @@ people:
         - name: Leonardo Uribe
           description: "MD & entrepreneur, Hacking Health last edition attendee and awarded"
           linkedin: lifealth
+        - name: Bruno Salleras
+          description: "coach Allianz, expert de l'assurance"
+        - name: Sumana Arun Kumar
+          description: "Digital Products and Services Manager at Allianz France"
+          linkedin: profile/view?id=1561003
+        - name: alexandre cardinaud
+          description:
 schedules:
   future-of-health:
     - title: "19th"
