@@ -476,7 +476,10 @@ people:
         - name: Mathilde Cavalier
           description: "Mathilde Cavalier est responsable du développement et responsable du pôle Institutions et Etablissements de Santé de la Direction des Technologies en Santé (DTS) du CNOP. A ce titre, elle s'occupe du déploiement du DP en établissements de santé, des services auprès des Institutions et de la mise en place de partenariats industriels et institutionnels."
           label: "technical"
-          twitter: 
+        - name: Gilles Mazars
+          description: "Director of Engineering - SAMI platform at Samsung Strategy and Innovation Center"
+          label: "technical"
+          linkedin: in/gmazars
   health-hackathon:
     - name: "Jury"
       list:
