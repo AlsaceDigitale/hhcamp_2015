@@ -360,6 +360,10 @@ people:
           website: www.collabobeat.com/
         - name: MedPics
           website: https://www.medpics.fr/#!/
+        - name: santee
+          website: www.sant.ee/
+        - name: Pharmao
+          website: www.pharmao.fr/
         - name: To be announced soon
   health-data-day:
     - name: "Speakers"
