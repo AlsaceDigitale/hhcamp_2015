@@ -423,8 +423,8 @@ people:
           label: "medical"
           twitter:
           linkedin:
-        - name: Peter Ohnemus
-          description: "Peter Ohnemus is the founder of the dacadoo Health Score/dacadoo ag, Zurich/Switzerland. Peter has been involved in high-tech and bio-techinvestments over the last 25 years and this had led to four IPO’s andmultiple trade sells."
+        - name: Manuel Heuer
+          description: "Chief Operating Officer<br/>r<br/>Manuel combines 20 years of international business experience in cardiovascular medical devices and fast moving consumer goods, having worked in Brazil, Belgium, France and Switzerland.r<br/>He joined dacadoo in 2011 as COO, signing responsible for product development, operations, sales and marketing. From 2003 to 2011, Mr. Heuer worked in various sales, business development & marketing roles with increasing management responsibilities in cardiovascular medical devices, first with Guidant Corporation (a Boston Scientific Company) in Belgium, France and Switzerland and then with St. Jude Medical Corporation as Managing Director of Switzerland from 2008 to 2011. From 1997 to 2001, Mr. Heuer held sales and marketing positions in the fast moving consumer goods industry with Nestlé in Brazil. Manuel Heuer holds an MBA from IMD International and speaks 5 languages fluently."
           label: "technical"
           twitter:
           linkedin:
@@ -688,8 +688,8 @@ schedules:
           description: "Data protection in the Netherlands' or 'Health data & data protection in the Netherlands, a legal perspective"
           abstract: "Requirements set out in the Dutch Data Protection Act for collecting and processing personal health data. Furthermore the talk is about the role of the Dutch Data Protection Authority and provide examples of non-compliance, reported by the Dutch DPA, specifically related to health apps & data protection in healthcare."
         - title: "11:30am - 12am"
-          speaker: "Peter Ohnemus"
-          description: "The impact of big data, Internet of Things on the healthcare system"
+          speaker: "Manuel Heuer"
+          description: "Turn health and well-being fun and engaging with big data and m-health<br/><br/>- Inactivity and sedentary lifestyle are a global issue<br/>- Information doesn’t change behaviors<br/>- Apply technology, gamification, collaboration und Big Data analytics to emotionally touch individuals<br/>- If you can measure it, you can manage it: Health Score with scientific base and real-time indicator or your current health & wellness"
           speaker2: "Louie Lyu"
           description2: "Workshop (1h) : iHealth API - read data from connected objects"
         - title: "12am - 12:30am"
