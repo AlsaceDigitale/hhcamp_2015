@@ -578,7 +578,7 @@ people:
           linkedin: profile/view?id=1561003
         - name: alexandre cardinaud
           description:
-        - name: Frank Manuel Saviane 
+        - name: Frank Manuel Saviane
           description: "Innovation; I18N; Business Development; Venture Services; Fundraising; Gamification; Growth Hacking"
           linkedin: profile/view?id=20809634
 schedules:
@@ -1000,6 +1000,8 @@ sponsors:
       url: http://www.alsace.cci.fr/
     - name: emedia
       url: http://www.e-media.fr
+    - name: arcan
+      url: http://www.arcan.fr
 main_partners:
   hospital:
     - name: HUS
