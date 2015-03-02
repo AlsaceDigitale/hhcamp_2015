@@ -1013,6 +1013,8 @@ secondary_partners:
   regular:
     - name: wearhacks
       url: http://www.wearhacks.com/
+    - name: atelier bnp paribas
+      url: http://www.atelier.net/
     - name: Arrow
       url: http://www.arrowecs.fr/
     - name: orange
