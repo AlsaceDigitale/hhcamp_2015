@@ -696,6 +696,7 @@ schedules:
         - title: "12am - 12:30am"
           speaker: "Nicolas Vayatis"
           description: "Data-driven medecine: future paradigms for healthcare"
+          abstract: "As citizens, we cannot but question the fact that digital technologies and smart engines based on machine learning algorihms provide significant help in the business of digital marketing or quantified self while, at the same time, these technologies are absent from the major part of everyday medical practice and health care. Through the joint initiative of our two labs COGNAC G (Université Paris Descartes- CNRS-SSA) and CMLA (ENS Cachan-CNRS), we aim at introducing such technologies in clinical routines. In this talk, we will develop our view of how the recent developments in machine learning can support: a) hypervision systems for better monitoring of patients over time, and b) scientific discovery for medical research."
         - title: "12:30am - 1:30pm"
           description: "Lunch"
         - title: "1:30pm - 2pm"
