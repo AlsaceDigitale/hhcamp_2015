@@ -1254,6 +1254,6 @@ blogPost:
     url: http://www.alsacreations.com/actu/lire/1664-hacking-health-camp-du-19-au-22-mars-strasbourg.html
 
 atelier:
-  show: true
+  show: false
   where: "le 19 février à 19h au Nouvel Hôpital Civil"
   tickets: http://hhatelier3.eventbrite.fr
