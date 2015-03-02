@@ -61,7 +61,7 @@ fr:
     title: "Créer le futur<br/>de la santé"
     ticket_link: Inscrivez-vous !
     newsletter_link: Restons en contact !
-    challenge_link: Proposez votre défi !
+    challenge_link: Consultez les défis !
   discover_home:
     title: "Découvrir Hacking Health Camp"
     description: "<strong>Hacking Health Camp</strong> Hacking Health Camp est un évènement international sur 4 jours qui vise à briser les barrières de l’innovation en santé. Chaque jour, un évènement crée un espace collaboratif entre professionnels de santé, designers, hackers, makers et entrepreneurs. Un évènement à destination de toutes les personnes intéressées par l’innovation en santé, inspirant professionnels de santé et professionnels du numérique sur leurs opportunités communes dans l’avenir de la santé."
@@ -159,7 +159,7 @@ en:
     title: "Create the future<br/>of healthcare"
     ticket_link: Register now !
     newsletter_link: Keep in touch !
-    challenge_link: Submit your challenge !
+    challenge_link: Take a look at challenges !
   discover_home:
     title: "Discover Hacking Health Camp"
     description: "<strong>Hacking Health Camp</strong> is a global event for all people interested in health innovation, inspiring health professionals, patients, developers, hackers, designers and UX researchers about their common amazing possibilities in tomorrow's health."
