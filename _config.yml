@@ -1,6 +1,6 @@
 # Site settings
 title: Hacking Health Camp
-email: s.letelie@hackinghealth.ca
+email: sebastien.letelie@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -25,7 +25,7 @@ fr:
   sponsor: "Sponsor"
   sponsors_page_title: "Ils nous soutiennent déjà"
   sponsors_page_button: "Voir la liste complète"
-  discount: "[Demandez votre code de réduction](mailto:s.letelie@hackinghealth.ca) : étudiants et startups (-50%), partenaires locaux (-30%), autres partenaires (-20%)"
+  discount: "[Demandez votre code de réduction](mailto:sebastien.letelie@gmail.com) : étudiants et startups (-50%), partenaires locaux (-30%), autres partenaires (-20%)"
   quote:
     blockquote: "On a tous regretté de ne pas avoir été dans le garage de Steve Job dans les années 70, mais dans 30 ans on pourra dire qu'on était à Strasbourg aujourd'hui..."
     cite: "Uwe Diegel, Président de iHealth, 30 Mars 2014"
@@ -123,7 +123,7 @@ en:
   sponsor: "Sponsor"
   sponsors_page_title: "They already support us"
   sponsors_page_button: "See the whole list"
-  discount: "[Ask for a discount code](mailto:s.letelie@hackinghealth.ca) : students and startups (-50%), local partners (-30%), other partners (-20%)"
+  discount: "[Ask for a discount code](mailto:sebastien.letelie@gmail.com) : students and startups (-50%), local partners (-30%), other partners (-20%)"
   quote:
     blockquote: "We all regret we were not in Steve Job's garage in the 70's, but in 30 years, you will be able to say that you were here in Strasbourg today..."
     cite: "Uwe Diegel, iHealth Founder, March 30th 2014"
@@ -798,7 +798,7 @@ schedules:
         - title: "12am"
           description: "Lunch and coachs meetings"
         - title: "1pm"
-          description: "BPI France (conference) - Financial support program to startup"
+          description: "BPI France (30mn conference) - Financial support program to startup"
           speaker: "Rosalie Maurisse"
           image: "bpifrance"
         - title: "2:30pm"
@@ -847,7 +847,7 @@ question_and_answers:
     - question: "How many attendees will be there ?"
       answer: "500 during full event, 300 on Future of Health, 300 on Health Data Day and Hackathon"
     - question: "Don't find your answer ?"
-      answer: "<a href='mailto:s.letelie@hackinghealth.ca' target='_blank'>Contact us</a>"
+      answer: "<a href='mailto:sebastien.letelie@gmail.com' target='_blank'>Contact us</a>"
 
 hardwaresoftware:
   - image: "monami"

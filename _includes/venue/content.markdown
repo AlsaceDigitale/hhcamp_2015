@@ -25,7 +25,7 @@
 
 <p>Contact our Hacking Health team. We're at your disposal to answer all your questions.</p>
 
-<p>Mail : <a href="mailto:s.letelie@hackinghealth.ca" target="_blank">s.letelie@hackinghealth.ca</a></p>
+<p>Mail : <a href="mailto:sebastien.letelie@gmail.com" target="_blank">sebastien.letelie@gmail.com</a></p>
 
 <p>Tel : +33 (0)6 24 72 04 96</p>
 
