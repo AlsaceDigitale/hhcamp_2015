@@ -109,6 +109,7 @@ fr:
     regular: ""
     media: media
     event: evenementiel
+    food: restauration
 
 
 en:
@@ -207,7 +208,7 @@ en:
     regular: ""
     media: media
     event: event
-
+    food: food
 
 testimonies:
   developer:
@@ -1149,6 +1150,13 @@ secondary_partners:
       url: http://www.dmdpost.com/
     - name: medtube
       url: http://medtube.net
+  food:
+    - name: arc en miel
+      url: http://www.arc-en-miel.com/
+    - name: JFA
+      url: http://www.jusdefruitsalsace.fr/
+    - name: wattwiller
+      url: http://www.wattwiller.com/
   event:
     - name: eHealth-competition
       url: http://www.ehealthcompetition.eu/
