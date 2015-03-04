@@ -37,7 +37,7 @@ Sébastien LETELIE
 Tel: +33 (0)3 88 41 86 95
 Tel. +33 (0)6 24 72 04 96
 
-[s.letelie@hackinghealth.ca](mailto:s.letelie@hackinghealth.ca)
+[sebastien.letelie@gmail.com](mailto:sebastien.letelie@gmail.com)
 
 </div>
 </div>

@@ -1,6 +1,6 @@
 # Site settings
 title: Hacking Health Camp
-email: s.letelie@hackinghealth.ca
+email: sebastien.letelie@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -25,7 +25,7 @@ fr:
   sponsor: "Sponsor"
   sponsors_page_title: "Ils nous soutiennent déjà"
   sponsors_page_button: "Voir la liste complète"
-  discount: "[Demandez votre code de réduction](mailto:s.letelie@hackinghealth.ca) : étudiants et startups (-50%), partenaires locaux (-30%), autres partenaires (-20%)"
+  discount: "[Demandez votre code de réduction](mailto:sebastien.letelie@gmail.com) : étudiants et startups (-50%), partenaires locaux (-30%), autres partenaires (-20%)"
   quote:
     blockquote: "On a tous regretté de ne pas avoir été dans le garage de Steve Job dans les années 70, mais dans 30 ans on pourra dire qu'on était à Strasbourg aujourd'hui..."
     cite: "Uwe Diegel, Président de iHealth, 30 Mars 2014"
@@ -124,7 +124,7 @@ en:
   sponsor: "Sponsor"
   sponsors_page_title: "They already support us"
   sponsors_page_button: "See the whole list"
-  discount: "[Ask for a discount code](mailto:s.letelie@hackinghealth.ca) : students and startups (-50%), local partners (-30%), other partners (-20%)"
+  discount: "[Ask for a discount code](mailto:sebastien.letelie@gmail.com) : students and startups (-50%), local partners (-30%), other partners (-20%)"
   quote:
     blockquote: "We all regret we were not in Steve Job's garage in the 70's, but in 30 years, you will be able to say that you were here in Strasbourg today..."
     cite: "Uwe Diegel, iHealth Founder, March 30th 2014"
@@ -342,6 +342,10 @@ people:
           description: CEO [MaSanté](http://www.masante.fr)
           twitter:
           linkedin: profile/view?id=122789762
+        - name: Anne Roos Weil
+          description: "Co-fondatrice et directrice générale de l'ONG Djantoli.Djantoli a inventé une méthode simple de suivi, d'alerte et d'accès aux soins pour lutter contre la mortalité évitable des jeunes enfants en Afrique de l'Ouest.  Anne a porté le montage et le développement de Djantoli depuis 2007. Elle dirige actuellement la structure depuis Ouagadougou, au Burkina Faso, après avoir lancé puis piloté les activités de l’association à Bamako, au Mali, pendant les 4 dernières années. Diplomée de Sciences-Po, de l'ESSEC et d'un Master en Santé publique, Anne est également mère d'une petite fille."
+          twitter:
+          linkedin: in/anneroosweil
   health-pitch-challenge:
     - name: "Startups"
       list:
@@ -456,7 +460,7 @@ people:
           linkedin: in/jodogne
         - name: Caroline Zorn
           label: "legal"
-          description: Avocate au Barreau de Nancy et enseignante à l’Université de Strasbourg en Droit de l’informatique, Caroline ZORN a commencé à travailler avec les acteurs de la esanté en étant juriste à l’Asip santé. Après avoir soutenu sa thèse, « Données de santé et secret partagé », elle a décidé de consacrer son activité exclusivement à la santé et au numérique.<br/> Caroline accompagne aujourd’hui des projets variés de esanté grâce à une expertise allant du Droit des patients et de l’hébergement des données, à la Propriété intellectuelle, en passant par le Crédit Import Recherche. En tant que chercheur associé, elle continue également de s’impliquer dans des projets de recherche axée sur le Cloud en santé.
+          description: Avocate au Barreau de Strasbourg et enseignante à l’Université de Strasbourg en Droit de l’informatique, Caroline ZORN a commencé à travailler avec les acteurs de la esanté en étant juriste à l’Asip santé. Après avoir soutenu sa thèse, « Données de santé et secret partagé », elle a décidé de consacrer son activité exclusivement à la santé et au numérique.<br/> Caroline accompagne aujourd’hui des projets variés de esanté grâce à une expertise allant du Droit des patients et de l’hébergement des données, à la Propriété intellectuelle, en passant par le Crédit Import Recherche. En tant que chercheur associé, elle continue également de s’impliquer dans des projets de recherche axée sur le Cloud en santé.
           twitter: c_zorn
           linkedin: in/carolinezorn/en
         - name: Pierre Guntzer
@@ -595,17 +599,17 @@ schedules:
           speaker: "Sébastien Letélié"
           speakerBis: "Luc Sirois"
         - title: "10am - 10:30am"
-          speaker:
-          language:
-          description: "To be announced soon"
+          speaker: Béatrice Falise-Mirat
+          language: fr
+          description: "Médecine personnalisée : du parcours de soins au big data"
         - title: "10:30am - 11am"
           speaker: Robert Riener
           language: en
           description: "The Olympic Games for Augmented Humans"
         - title: "11am - 11:30am"
-          speaker: Béatrice Falise-Mirat
+          speaker: Pierre-Paul Vidal
           language: fr
-          description: "Médecine personnalisée : du parcours de soins au big data"
+          description: "Quantify human behaviour "
         - title: "11:30am - 12am"
           speaker: Jorge Juan Fernandez Garcia
           language: en
@@ -622,9 +626,9 @@ schedules:
           language: en
           description: "5 Canadian health startups successfully breaking the barriers down"
         - title: "2:45pm - 3:15pm"
-          speaker: Pierre-Paul Vidal
+          speaker: Anne Roos Weil
           language: fr
-          description: "Quantify human behaviour "
+          description: Un téléphone et une balance peuvent sauver des vies !
         - title: "3:15pm - 3:45pm"
           description: Break
         - title: "3:45pm - 4:15pm"
@@ -705,8 +709,8 @@ schedules:
           description: "It's All About Data: IoT, A New Playground for the Digital Health"
           abstract: "Internet of Things (IoT) make our world digital, gathering data on everything around us: air quality, activity, biological parameters etc. SAMI provides a unified, secured, and open cloud platform to collect, transport and massage the data regardless of their source. Once the data is all in the cloud, data-driven applications are needed to do cross silos fertilization, using machine learning and analytics. We need you to create those data-driven applications and services to improve healthcare, prevention and medical monitoring."
           speaker2: "Mathilde Cavalier"
-          description2: ""
-          abstract2: ""
+          description2: "Le Dossier Pharmaceutique (DP) : un outil professionnel au service des patients et des autorités sanitaires"
+          abstract2: "Le Dossier Pharmaceutique (DP) existe depuis 2007 et est aujourd'hui le premier dossier de santé européen avec plus de 36 millions de DP créés. Cette réussite a permis à l'Ordre National des Pharmaciens de faire émerger de nombreux autres services et notamment de constituer une base de données anonymes utilisées à des fins statistiques pour les autorités sanitaires."
         - title: "2pm - 2:30pm"
           speaker: "Werner Bachmann"
           description: "“Can’t see the forest for the trees? What App Developers need to know about Healthcare Data Management in Germany”"
@@ -795,7 +799,7 @@ schedules:
         - title: "12am"
           description: "Lunch and coachs meetings"
         - title: "1pm"
-          description: "BPI France (conference) - Financial support program to startup"
+          description: "BPI France (30mn conference) - Financial support program to startup"
           speaker: "Rosalie Maurisse"
           image: "bpifrance"
         - title: "2:30pm"
@@ -844,7 +848,7 @@ question_and_answers:
     - question: "How many attendees will be there ?"
       answer: "500 during full event, 300 on Future of Health, 300 on Health Data Day and Hackathon"
     - question: "Don't find your answer ?"
-      answer: "<a href='mailto:s.letelie@hackinghealth.ca' target='_blank'>Contact us</a>"
+      answer: "<a href='mailto:sebastien.letelie@gmail.com' target='_blank'>Contact us</a>"
 
 hardwaresoftware:
   - image: "monami"
