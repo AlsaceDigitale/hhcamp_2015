@@ -341,6 +341,10 @@ people:
           description: CEO [MaSanté](http://www.masante.fr)
           twitter:
           linkedin: profile/view?id=122789762
+        - name: Anne Roos Weil
+          description: "Co-fondatrice et directrice générale de l'ONG Djantoli.Djantoli a inventé une méthode simple de suivi, d'alerte et d'accès aux soins pour lutter contre la mortalité évitable des jeunes enfants en Afrique de l'Ouest.  Anne a porté le montage et le développement de Djantoli depuis 2007. Elle dirige actuellement la structure depuis Ouagadougou, au Burkina Faso, après avoir lancé puis piloté les activités de l’association à Bamako, au Mali, pendant les 4 dernières années. Diplomée de Sciences-Po, de l'ESSEC et d'un Master en Santé publique, Anne est également mère d'une petite fille."
+          twitter:
+          linkedin: in/anneroosweil
   health-pitch-challenge:
     - name: "Startups"
       list:
@@ -594,17 +598,17 @@ schedules:
           speaker: "Sébastien Letélié"
           speakerBis: "Luc Sirois"
         - title: "10am - 10:30am"
-          speaker:
-          language:
-          description: "To be announced soon"
+          speaker: Béatrice Falise-Mirat
+          language: fr
+          description: "Médecine personnalisée : du parcours de soins au big data"
         - title: "10:30am - 11am"
           speaker: Robert Riener
           language: en
           description: "The Olympic Games for Augmented Humans"
         - title: "11am - 11:30am"
-          speaker: Béatrice Falise-Mirat
+          speaker: Pierre-Paul Vidal
           language: fr
-          description: "Médecine personnalisée : du parcours de soins au big data"
+          description: "Quantify human behaviour "
         - title: "11:30am - 12am"
           speaker: Jorge Juan Fernandez Garcia
           language: en
@@ -621,9 +625,9 @@ schedules:
           language: en
           description: "5 Canadian health startups successfully breaking the barriers down"
         - title: "2:45pm - 3:15pm"
-          speaker: Pierre-Paul Vidal
+          speaker: Anne Roos Weil
           language: fr
-          description: "Quantify human behaviour "
+          description: Un téléphone et une balance peuvent sauver des vies !
         - title: "3:15pm - 3:45pm"
           description: Break
         - title: "3:45pm - 4:15pm"
