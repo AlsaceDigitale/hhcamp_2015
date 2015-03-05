@@ -369,6 +369,8 @@ people:
           website: www.sant.ee/
         - name: Pharmao
           website: www.pharmao.fr/
+        - name: telemed
+          website: http://www.telemed.fr/
         - name: To be announced soon
   health-data-day:
     - name: "Speakers"
