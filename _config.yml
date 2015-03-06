@@ -1273,6 +1273,18 @@ blogPost:
   - name: Alsacreations
     title: "Hacking Health Camp du 19 au 22 mars à Strasbourg"
     url: http://www.alsacreations.com/actu/lire/1664-hacking-health-camp-du-19-au-22-mars-strasbourg.html
+  - name: IHU
+    title: "Hacking Health Camp du 19 au 22 mars 2015, Strasbourg"
+    url: http://www.ihu-strasbourg.eu/ihu/hacking-health-camp-du-19-au-22-mars-2015-strasbourg/
+  - name: BPIFrance
+    title: "Hacking Health Camp 2015"
+    url: http://www.bpifrance.fr/Vivez-Bpifrance/Agenda/Hacking-Health-Camp-2015-13074
+  - name: ANAP
+    title: "Hacking Health Camp - Créer le futur de la santé"
+    url: http://www.anap.fr/actualites/agenda/detail/actualites/hacking-health-camp-creer-le-futur-de-la-sante/
+  - name: SoftServe
+    title: "SoftServe's Healthcare Team to Tackle Medication Adherence at the Hacking Health Camp"
+    url: http://www.softserveinc.com/en-us/news/tackle-medication-adherence/
 
 atelier:
   show: false
