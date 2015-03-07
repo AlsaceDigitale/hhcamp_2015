@@ -591,6 +591,11 @@ people:
           linkedin: profile/view?id=20809634
         - name: Denis Raison
           description: "Chargé de développement pour ACCRO, il travaille à la mise en oeuvre des actions de formation pour les entreprises et sur le suivi de projets. Présent ce week-end pour vous aider à prioriser vos solutions, ou carrémment à en trouver de nouvelles, et à les pitcher!"
+        - name: Anna Kamenskaya
+          description: "Anna Kamenskaya, MSc is a Director of Operations at Living Labs Global, a non-profit company based in Copenhagen, Denmark. Anna oversees product development as well as business development and marketing activities. Anna has been actively involved in over seventy clinical trials of innovative drugs and devices in the following therapeutic areas: oncology, CNS, cardiology and infectious diseases. Working within the framework of BIOS, a multidisciplinary centre for research into contemporary developments in the life sciences, biomedicine and biotechnology, Anna has participated in the evaluation of social and economic impact of personalized medicine. During her engagement with Whiteshield Partners, a venture capital consultancy, Anna has contributed to the success of several projects focused on R&D and commercialization of innovative biomedical products in Europe and North America. Anna is a graduate from the London School of Economics (MSc) in Sociology and the University of Toronto (Honours BSc) in Molecular Biology."
+          linkedin: in/annalyfenko
+        - name: Ella Cooper
+          description: "Ella Cooper is a Researcher at Living Labs Global. She has studied at the University of Copenhagen (Applied Cultural Analysis, MA) and the American University of Paris (Global Communications, BA, Hons.) Ella is trained in ethnography and applied anthropology. In her role at Living Labs Global, Ella has worked with defining and formulating healthcare challenges through workshops at healthcare institutions around Europe. Ella has also recently done research for the European Commission on the social requirements of emerging digital healthcare technologies."
 schedules:
   future-of-health:
     - title: "19th"
