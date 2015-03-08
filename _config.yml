@@ -342,10 +342,6 @@ people:
           description: CEO [MaSanté](http://www.masante.fr)
           twitter:
           linkedin: profile/view?id=122789762
-        - name: Anne Roos Weil
-          description: "Co-fondatrice et directrice générale de l'ONG Djantoli.Djantoli a inventé une méthode simple de suivi, d'alerte et d'accès aux soins pour lutter contre la mortalité évitable des jeunes enfants en Afrique de l'Ouest.  Anne a porté le montage et le développement de Djantoli depuis 2007. Elle dirige actuellement la structure depuis Ouagadougou, au Burkina Faso, après avoir lancé puis piloté les activités de l’association à Bamako, au Mali, pendant les 4 dernières années. Diplomée de Sciences-Po, de l'ESSEC et d'un Master en Santé publique, Anne est également mère d'une petite fille."
-          twitter:
-          linkedin: in/anneroosweil
   health-pitch-challenge:
     - name: "Startups"
       list:
@@ -626,29 +622,25 @@ schedules:
           //abstract: Traditionally, we have expected innovation in healthcare to come from research centers (through scientific advances) and/or technological centers (through technological advances). That model follows a scheme of “a solution looking for a problem to solve”. Studies show that this approach has a high failure rate. There is another model, which starts with the unmet or undermet needs and tries to find a solution (scientific and/or technological). In this alternative model, the best place to start innovation is not universities or research/technological centers, but care delivery organizations. Moebio, which according to media is 'probably the most impressive accelerator/fellowship program we've seen emerge in Europe' (Health Startup Europe), aims to accelerate healthcare entrepreneurship through a need-driven approach. Its flagship program is d·HEALTH Barcelona, a 9-month postgraduate fellowship based on the successful Stanford Biodesign program, where interdisciplinary teams experience a full cycle of need identification, invention and early-stage implementation, performing a 2-month clinical immersion at top hospitals. Jorge will share the experience and the results of d·HEALTH Barcelona, and other Biodesign-like programs around the world.
         - title: "12am - 2pm"
           description: " Lunch at [La Bourse restaurant](http://www.restaurant-de-la-bourse.fr/), don't forget to subscribe to the lunch when you register (limited to 200)"
-        - title: "1:45pm - 2:15pm"
+        - title: "2pm - 2:30pm"
           speaker: Cedric O'Neil
           language: fr
           description: "Comment les officines françaises vont devoir utiliser le digital pour se réinventer ?"
-        - title: "2:15pm - 2:45pm"
+        - title: "2:30pm - 3pm"
           speaker: Zayna Khayat
           language: en
           description: "5 Canadian health startups successfully breaking the barriers down"
-        - title: "2:45pm - 3:15pm"
-          speaker: Anne Roos Weil
-          language: fr
-          description: Un téléphone et une balance peuvent sauver des vies !
-        - title: "3:15pm - 3:45pm"
+        - title: "3pm - 3:30pm"
           description: Break
-        - title: "3:45pm - 4:15pm"
+        - title: "3:30pm - 4:00pm"
           speaker: Uwe Diegel
           language: en
           description: "Is the 1000 year old man already born?"
-        - title: "4:15pm - 4:45pm"
+        - title: "4:00pm - 4:30pm"
           speaker: Nicolas Colin
           language: fr
           description: "Rebooting national health insurances"
-        - title: "4:45pm - 5pm"
+        - title: "4:30pm - 4:45pm"
           speaker: Alexandre DeJonge
           language: en
           description: "Closing Keynote"
