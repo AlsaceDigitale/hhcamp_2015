@@ -700,6 +700,7 @@ schedules:
           description: "Turn health and well-being fun and engaging with big data and m-health<br/><br/>- Inactivity and sedentary lifestyle are a global issue<br/>- Information doesn’t change behaviors<br/>- Apply technology, gamification, collaboration und Big Data analytics to emotionally touch individuals<br/>- If you can measure it, you can manage it: Health Score with scientific base and real-time indicator or your current health & wellness"
           speaker2: "Louie Lyu"
           description2: "Workshop (1h) : iHealth API - read data from connected objects"
+          abstract2: "Learn how to use iHealth API and SDK via [http://developer.ihealthlabs.com](http://developer.ihealthlabs.com)"
         - title: "12am - 12:30am"
           speaker: "Nicolas Vayatis"
           description: "Data-driven medecine: future paradigms for healthcare"
