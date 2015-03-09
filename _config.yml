@@ -690,6 +690,7 @@ schedules:
           speaker2: "Nicolas Cauvet"
           speaker2bis: "Florent Biville"
           description2: "Workshop (1h) : Accessing drug information and Decision Support Module through the VIDAL API"
+          abstract2: "We will show you services you may use to enrich your future applications and how to use the VIDAL API. Searching for drugs, medical devices, hygiene or homeopathy products, etc. by name, indications, therapeutic classifications... and get the description of the product (economic data, therapeutic characteristics like indications, contraindications, side effects...). Secure the prescription of drugs : Drug drug interactions, patient related risks, dosage adaptations... Find foreign equivalences of a drug in over 35 countries. Use the API to deduce and code the diagnoses of a patient through his medications. Keep your users updated (professional or general audience) on the latests medical news."
         - title: "11am - 11:30am"
           speaker: "Sofie Van Der Meulen"
           description: "Data protection in the Netherlands' or 'Health data & data protection in the Netherlands, a legal perspective"
