@@ -595,6 +595,8 @@ people:
         - name: Béranger LEKENS
           description: "Responsable des données de la Direction des Technologies en Santé (DTS) du CNOP.<br/>Chargé de la production des études sanitaires à partir de la base de données anonymes du Dossier Pharmaceutique. Responsable de la qualité et de la cohérence des données.<br/>10 années d'expérience en dataming et en exploitation de différentes bases de données médicales."
           linkedin: in/blekens
+        - name: Alison Munro
+          description: "Née à Bristol, diplômée en Lettres de l’Université de Reading - Grande Bretagne, Alison est consultante et experte en formation et communication.<br/> Basée à Strasbourg, elle travaille en Europe et aux Etats-Unis."
 schedules:
   future-of-health:
     - title: "19th"
