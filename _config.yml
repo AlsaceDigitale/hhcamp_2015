@@ -308,30 +308,30 @@ people:
     - name: "Speakers"
       list:
         - name: Uwe Diegel
-          description: President of iHealth Labs Europe, established in 2013 in Pars. He is the horder of several patents pertaining to temperature and blood pressure measurement and is considered as a specialist in the oscillometrc measurement of and in various other forms of medical diagnostics.
+          description: "President of iHealth Labs Europe, established in 2013 in Paris. He is the holder several patents pertaining to temperature and blood pressure measurement and is considered as a specialist in the oscillometric measurement of and in various other forms of medical diagnostics."
           twitter: uwe
           linkedin: in/uwediegel
         - name: Pierre-Paul Vidal
-          description: MD PhD, Head of Department [COGNAC-G (COGNition and ACtion Group)](http://www.biomedicale.parisdescartes.fr/~cognac/cognac/) - Université Paris Descartes - CNRS UMR-MD - SSA.
+          description: "Médecin et docteur en sciences Pierre Paul Vidal a créé le Laboratoire de Neurobiologie des Réseaux Sensorimoteurs (UMR 7060) en 1997, le Centre d’Etude de la Sensorimotricité (CeSeM UMR 8194) en 2010 et le [Cognition and Action Group](http://www.biomedicale.parisdescartes.fr/~cognac/cognac/) en 2014. Depuis le début de sa carrière Pierre-Paul Vidal a été cité dans plus de 140 articles scientifiques. Il a participé à la co-édition d’une trentaine d’ouvrages. Dans le cadre des applications mises en place au sein du CeSeM, a été réalisé un robot permettant d’entraîner les lignes avant de l’équipe de France de Rugby en collaboration avec Thales Industry."
           linkedin: profile/view?id=151969844
         - name: Jorge Juan Fernandez Garcia
           description: "Jorge is Director of E-Health and Health 2.0 at [Hospital Sant Joan de Déu (Barcelona)](www.hsjdbcn.org), one of the largest children’s hospitals in Europe. He has over 15 years of experience in life sciences and healthcare, working on projects throughout Europe, with a strong focus on technology, innovation and entrepreneurship. He regularly acts as advisor and mentor to various healthcare startups and entrepreneurial acceleration programs. Jorge is also the Head of Academics of [Moebio](www.moebio.org), where he leads the d·HEALTH Barcelona program, a 9-month postgraduate fellowship to accelerate healthcare entrepreneurship. Jorge is a graduate in European Political Economy from the London School of Economics (LSE). He also holds a GMP from IESE Business School (Barcelona) and a GSP from Singularity University (Silicon Valley).  Jorge is a 2014 European Young Leader [“40 Under 40”](http://40under40.eu)."
           twitter: jorgejuan
           linkedin: profile/view?id=2277954
         - name: Zayna Khayat
-          description: "At MaRS, Zayna and her rockstar team help smooth the path to adoption of health innovation by healthcare systems in Ontario and around the world. She is also an adjunct faculty with the Rotman School of Management in the Health Sector Strategy stream."
+          description: "At MaRS, Zayna and her rockstar team help smoothing the path to adoption of health innovation by healthcare systems in Ontario and around the world. She is also an adjunct faculty with the Rotman School of Management in the Health Sector Strategy stream. Zayna was previously director of development at the Ivey International Centre for Health Innovation, where she is also currently an adjunct faculty member. Zayna is also an adjunct professor in the Health Sector Strategy stream at the University of Toronto’s Rotman School of Management, as well as a senior advisor on Rotman’s Health Leadership Advisory Board. She holds a PhD in biochemistry from the University of Toronto and the Hospital for Sick Children, with a focus on insulin action and diabetes."
           twitter: ZaynaKhayat
           linkedin: in/zkhayat
         - name: Béatrice Falise-Mirat
-          description: "Director of Public and Regulatory Affairs at Orange Healthcare."
+          description: "Dr. Béatrice Falise-Mirat is Director of Government Relations and Regulatory Affairs. She is responsible for defining and directing Orange Healthcare’s techno-regulatory strategy along with identifying market entry strategies across the healthcare ecosystem. As an expert on Information Communications Technologies (ICTs) and a broad range of healthcare issues, she is responsible for representing Orange Healthcare and promoting Orange’s role as a telecoms operator within the eHealth value chain."
           twitter:
           linkedin: pub/beatrice-falise-mirat/93/5b/733
         - name: Cédric O'Neill
-          description: "Cedric is Pharmacist with a Master's Degree in Economics. He first worked in a biotech startup in the Silicon Valley,then he decided to return to France to start his own business. Passionate about entrepreneurship and digital, he co-founded [1001Pharmacies.com](http://1001Pharmacies.com) with Sabine Safi, which has quickly become the leader of online sales for health products. 1001Pharmacies.com is a marketplace which enables pharmacists to easily sell their products on Internet. With over 600 pharmacies partners across France, the young startup plans € 22M sales in 2015 and already has 35 employees"
+          description: "Cédric O’NEILL is a young pharmacist passionate about entrepreneurship and new technologies. He also holds a master degree in Entrepreneurship. He has worked for several pharmacies as well as the pharmaceutical industry, that is where he got aware of the changes that the internet was to bring to the medicines industry. He decided that he had to do something to help French pharmacies adapt to those... Cédric is an ever-creative and enthusiast entrepreneur."
           twitter:
           linkedin: in/cedriconeill
         - name: Robert Riener
-          description: "Professor at ETH and University of Zurich."
+          description: "Robert Riener is Full Professor for Sensory-Motor Systems at the Department of Health Sciences and Technology, ETH Zurich. As he holds a Double-Professorship with the University of Zurich, he is also active in the Spinal Cord Injury Center of the Balgrist University Hospital (Medical Faculty of the University of Zurich). Robert Riener studied mechanical engineering at TU München and University of Maryland, USA, from 1988 till 1993. He received the Dipl.-Ing. degree and the Dr. degree from the TU München in 1993 and 1997, respectively. His current research interests involve human motion synthesis, biomechanics, virtual reality, man-ma- chine interaction, and rehabilitation robotics. He authored and co-authored more than 400 peer-reviewed journal and conference articles and 20 patents."
           twitter:
           linkedin: pub/riener-robert/28/434/316
         - name: Nicolas Colin
@@ -447,12 +447,12 @@ people:
           twitter:
           linkedin: "pub/clément-troesch/a2/342/331/fr"
         - name: Julien Lamy
-          description: "Julien Lamy is a research engineer at [Icube](http://icube.unistra.fr/) (University of Strasbourg, France). He has been involved in medical imaging for over a decade and is currently working on imaging workflows for clinical and pre-clinical trials."
+          description: "Julien Lamy is a research engineer at [ICube](http://icube.unistra.fr/) (University of Strasbourg, France). He has been involved in medical imaging for over a decade and is currently working on imaging workflows for clinical and pre-clinical trials."
           label: "technical"
           twitter:
           linkedin: in/lamyj
         - name: Sebastien Jodogne
-          description: "Medical Imaging Engineer, Open-source Developer. [Know more.]( http://www.montefiore.ulg.ac.be/~jodogne/)"
+          description: "Licencié en informatique et docteur en sciences informatiques de l’Université de Liège (Belgique). Ses travaux de recherches ont été récompensés par le Prix IBM Belgium d’Informatique en 2002. Depuis 2011, il travaille en tant qu’ingénieur en imagerie médicale au sein du Centre Hospitalier Universitaire de Liège. Ses domaines de recherches comprennent notamment l’imagerie médicale, la vision par ordinateur et l’apprentissage automatique."
           label: "technical"
           twitter: sjodogne
           linkedin: in/jodogne
@@ -467,7 +467,7 @@ people:
           twitter:
           linkedin: profile/view?id=127011518
         - name: Nicolas Canu
-          description: "Nicolas CANU is Phast’s Research & Development Manager since 2006. He has contributed to the implementation of the national standard used for messages in the medication workflow at the hospital and to the creation of HL7 France. He is President of HL7 France, and also CDA and RIM-certified. "
+          description: "Nicolas CANU is Phast’s Research & Development Manager since 2006. He has contributed to the implementation of the national standard used for messages in the medication workflow at the hospital and to the creation of HL7 France. He is President of HL7 France, and also CDA and RIM-certified."
           label: "technical"
           twitter:
           linkedin:
@@ -477,29 +477,29 @@ people:
           twitter: emmanuelchazard
           linkedin: in/emmanuelchazard
         - name: Elalami Lafkih
-          description: Pretotyping expert
+          description: "Consultant senior chez Valtech, Elalami Lafkih s’intéresse aux défis et aux problé- matiques d’innovation au sein des entreprises et plus précisément aux outils et méthodologies de validation des idées. Il mène des missions autour de la collabo- ration entre l’IT et le Marketing. Elalami intervient également lors de conférences européennes et anime le mouvement de prétotyping en France."
           label: "design"
           twitter: e_lalami
         - name: Mathilde Cavalier
           description: "Mathilde Cavalier est responsable du développement et responsable du pôle Institutions et Etablissements de Santé de la Direction des Technologies en Santé (DTS) du CNOP. A ce titre, elle s'occupe du déploiement du DP en établissements de santé, des services auprès des Institutions et de la mise en place de partenariats industriels et institutionnels."
           label: "technical"
         - name: Gilles Mazars
-          description: "Director of Engineering - SAMI platform at Samsung Strategy and Innovation Center"
+          description: "Director of Engineering - SAMI platform at Samsung Strategy and Innovation Center. SAMI is a data-exchange platform up for developers (www.samsungsami.io). By doing so, Samsung and all developers will get deeper insights into the types of data that is useful for digital health."
           label: "technical"
           linkedin: in/gmazars
   health-hackathon:
     - name: "Jury"
       list:
         - name: Gilles Bontemps
-          description: Doctor and associate director at ANAP. [Learn More](http://www.anap.fr/).
+          description: "Médecin et directeur associé de l’ANAP, l’Agence nationale d’appui à la performance des établissements de santé et médico-sociaux. [Learn More](http://www.anap.fr/)"
         - name: Israel Nisand
-          description: Gynécologue obstétricien, professeur des universités.<br/>[Learn More.](http://fr.wikipedia.org/wiki/Isra%C3%ABl_Nisand)
+          description: "Professeur de gynécologie obstétrique à l’université de Strasbourg et chef du pôle de gynécologie obstétrique au CHU de Strasbourg. Spécialiste du diagnostic préimplantatoire (DPI), il est membre de la Commission Nationale de la Naissance. Il est également fondateur et vice président du Forum Européen de Bioéthique, qui se tient annuellement à Strasbourg. [Learn More.](http://fr.wikipedia.org/wiki/Isra%C3%ABl_Nisand)"
         - name: Oussama Ammar
           description: Oussama has always been an entrepreneur. At the age of 12 hi had his first experience in the stratup world when he created one of the first web agencies in France. A few spinoffs and independant platforms later - among them one of the first antique shops online - he earned his spurs on the web. At 21, Oussama launched Hypios which became in less than 3 years an established leader of open online innovation. Business angel for more than 3 years, he holds 21 active investments mostly located in Silicon Valley. Oussama later cofounded [TheFamily](http://www.thefamily.co) in the hope of creating a true springboard for local startups.
         - name: Agnes Fournaise
           description: "Directrice en charge des prestations Soins tant en Santé Individuelle que Collective chez Allianz France. Parcours diversifié avec des postes de management au sein de la Direction Vie par exemple. Ces différentes fonctions m'ont permis de nombreuses rencontres, de développer de nouvelles compétences, d'intégrer le changement comme une évidence. Le domaine de la Santé me passionne parce que je considère que c'est le bien le plus précieux qui nous permet le Bien Etre et le Bien Vivre. J'adore découvrir les nouveautés et suis donc très branchée Innovation et si le Hackathon nous permet de trouver ne serait-ce qu'une solution nouvelle qui puisse aider des patients ce serait super !!"
         - name: Elisabeth Luporsi
-          description: "MD, PhD, HDR, Oncologue médical, Biostatisticien, Généticien"
+          description: "MD, PhD, HDR, Oncologue médical, Biostatisticien, Généticien, Centre Alexis Vautrin, Nancy"
 
     - name: "Mentors"
       list:
