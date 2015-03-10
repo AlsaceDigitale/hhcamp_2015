@@ -597,6 +597,9 @@ people:
           linkedin: in/blekens
         - name: Alison Munro
           description: "Née à Bristol, diplômée en Lettres de l’Université de Reading - Grande Bretagne, Alison est consultante et experte en formation et communication.<br/> Basée à Strasbourg, elle travaille en Europe et aux Etats-Unis."
+        - name: Asma Lammari
+          description: "Responsable du Pôle Industrie à la Direction des Technologies en Santé (DTS) du CNOP.<br/>Chargée de la mise en place d'outils de sécurisation de la chaîne du médicament à destination des laboratoires pharmaceutiques.<br/>Responsable de la conformité des services mis à disposition au regard des exigences réglementaires, des bonnes pratiques (de fabrication et de distribution) et des contraintes techniques du Dossier Pharmaceutique en tant que réseau."
+          linkedin: in/asmalammari 
 schedules:
   future-of-health:
     - title: "19th"
@@ -1135,6 +1138,8 @@ secondary_partners:
       url: http://www.fastforwardadvisors.com/
     - name: cnop
       url: http://www.ordre.pharmacien.fr
+    - name: awabot
+      url: http://www.awabot.com/
   media:
     - name: BUZZ-ESANTE
       url: http://buzz-esante.com/
