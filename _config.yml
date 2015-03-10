@@ -326,7 +326,7 @@ people:
           description: "Director of Public and Regulatory Affairs at Orange Healthcare."
           twitter:
           linkedin: pub/beatrice-falise-mirat/93/5b/733
-        - name: Cédric O'Neil
+        - name: Cédric O'Neill
           description: "Cedric is Pharmacist with a Master's Degree in Economics. He first worked in a biotech startup in the Silicon Valley,then he decided to return to France to start his own business. Passionate about entrepreneurship and digital, he co-founded [1001Pharmacies.com](http://1001Pharmacies.com) with Sabine Safi, which has quickly become the leader of online sales for health products. 1001Pharmacies.com is a marketplace which enables pharmacists to easily sell their products on Internet. With over 600 pharmacies partners across France, the young startup plans € 22M sales in 2015 and already has 35 employees"
           twitter:
           linkedin: in/cedriconeill
@@ -623,7 +623,7 @@ schedules:
         - title: "12am - 2pm"
           description: " Lunch at [La Bourse restaurant](http://www.restaurant-de-la-bourse.fr/), don't forget to subscribe to the lunch when you register (limited to 200)"
         - title: "2pm - 2:30pm"
-          speaker: Cedric O'Neil
+          speaker: Cedric O'Neill
           language: fr
           description: "Comment les officines françaises vont devoir utiliser le digital pour se réinventer ?"
         - title: "2:30pm - 3pm"
