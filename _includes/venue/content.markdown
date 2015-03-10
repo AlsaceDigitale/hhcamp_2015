@@ -38,6 +38,7 @@
 <p><a href="http://www.ibis.com/fr/hotel-1428-ibis-strasbourg-centre-ponts-couverts/index.shtml" target="_blank">Hôtel ibis Strasbourg Centre Ponts Couverts ***</a></p>
 <p>7 RUE DE MOLSHEIM - 67000 - STRASBOURG</p>
 <p>Tél. : +33 (0)3 90 22 48 70</p>
+<p>IMPORTANT : ask to Virginie or Diane for discount</p>
 
 <p><a href="http://www.les-haras-hotel.com/" target="_blank">Hôtel Les Haras ****</a></p>
 <p>23, rue des Glacières - 67000 - STRASBOURG</p>
