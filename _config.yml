@@ -592,6 +592,11 @@ people:
           linkedin: in/annalyfenko
         - name: Ella Cooper
           description: "Ella Cooper is a Researcher at Living Labs Global. She has studied at the University of Copenhagen (Applied Cultural Analysis, MA) and the American University of Paris (Global Communications, BA, Hons.) Ella is trained in ethnography and applied anthropology. In her role at Living Labs Global, Ella has worked with defining and formulating healthcare challenges through workshops at healthcare institutions around Europe. Ella has also recently done research for the European Commission on the social requirements of emerging digital healthcare technologies."
+        - name: Béranger LEKENS
+          description: "Responsable des données de la Direction des Technologies en Santé (DTS) du CNOP.<br/>Chargé de la production des études sanitaires à partir de la base de données anonymes du Dossier Pharmaceutique. Responsable de la qualité et de la cohérence des données.<br/>10 années d'expérience en dataming et en exploitation de différentes bases de données médicales."
+          linkedin: in/blekens
+        - name: Alison Munro
+          description: "Née à Bristol, diplômée en Lettres de l’Université de Reading - Grande Bretagne, Alison est consultante et experte en formation et communication.<br/> Basée à Strasbourg, elle travaille en Europe et aux Etats-Unis."
 schedules:
   future-of-health:
     - title: "19th"
