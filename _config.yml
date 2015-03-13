@@ -599,7 +599,7 @@ people:
           description: "Née à Bristol, diplômée en Lettres de l’Université de Reading - Grande Bretagne, Alison est consultante et experte en formation et communication.<br/> Basée à Strasbourg, elle travaille en Europe et aux Etats-Unis."
         - name: Asma Lammari
           description: "Responsable du Pôle Industrie à la Direction des Technologies en Santé (DTS) du CNOP.<br/>Chargée de la mise en place d'outils de sécurisation de la chaîne du médicament à destination des laboratoires pharmaceutiques.<br/>Responsable de la conformité des services mis à disposition au regard des exigences réglementaires, des bonnes pratiques (de fabrication et de distribution) et des contraintes techniques du Dossier Pharmaceutique en tant que réseau."
-          linkedin: in/asmalammari 
+          linkedin: in/asmalammari
 schedules:
   future-of-health:
     - title: "19th"
@@ -657,8 +657,8 @@ schedules:
     - title: "19th"
       subtitle: "THURSDAY, MARCH"
       list:
-        - title: "7pm"
-          description: "Admission"
+        - title: "6:30pm"
+          description: "Welcome cocktail"
         - title: "7:15pm"
           description: "Introduction"
           speaker: "Sébastien Letélié"
@@ -770,7 +770,7 @@ schedules:
       list:
         - title: "5pm"
           description: "Admission"
-        - title: "5pm - 6pm"
+        - title: "5:30pm - 6:30pm"
           description: "Pitch Clinic : pitch session training"
         - title: "7pm - 7:10pm"
           description: "Introduction"
