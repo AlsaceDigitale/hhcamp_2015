@@ -360,14 +360,13 @@ people:
         - name: Collabobeat
           website: www.collabobeat.com/
         - name: MedPics
-          website: https://www.medpics.fr/#!/
+          website: www.medpics.fr/#!/
         - name: santee
           website: www.sant.ee/
         - name: Pharmao
           website: www.pharmao.fr/
         - name: telemed
-          website: http://www.telemed.fr/
-        - name: To be announced soon
+          website: www.telemed.fr/
   health-data-day:
     - name: "Speakers"
       list:
