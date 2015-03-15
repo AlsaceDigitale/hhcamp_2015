@@ -1025,6 +1025,8 @@ sponsors:
       url: http://www.e-media.fr
     - name: arcan
       url: http://www.arcan.fr
+    - name: orange
+      url: http://www.orange.fr/
 main_partners:
   hospital:
     - name: HUS
@@ -1039,8 +1041,6 @@ secondary_partners:
       url: http://www.atelier.net/
     - name: Arrow
       url: http://www.arrowecs.fr/
-    - name: orange
-      url: http://www.orange.fr/
     - name: IRCAD
       url: http://www.ircad.fr
     - name: Alsace Biovalley
