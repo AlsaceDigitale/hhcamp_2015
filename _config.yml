@@ -1294,7 +1294,12 @@ blogPost:
   - name: SoftServe
     title: "SoftServe's Healthcare Team to Tackle Medication Adherence at the Hacking Health Camp"
     url: http://www.softserveinc.com/en-us/news/tackle-medication-adherence/
-
+  - name: proximamobile 
+    title: "France : des hackathons pour concevoir des objets connectés"
+    url: http://www.proximamobile.fr/article/france-des-hackathons-pour-concevoir-des-objets-connectes
+  - name: atelier net 
+    title: "Médecine prédictive : le soignant doit-il devenir un data scientist ?"
+    url: http://www.atelier.net/events/themas/medecine-predictive-soignant-devenir-un-data-scientist_434045
 atelier:
   show: false
   where: "le 19 février à 19h au Nouvel Hôpital Civil"
