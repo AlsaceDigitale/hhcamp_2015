@@ -416,8 +416,8 @@ people:
           label: "technical"
           twitter:
           linkedin: pub/nicolas-vayatis/b/495/510
-        - name: Délia Rahal-Lofskog
-          description: "Chef du service de la santé à la Commission nationale de l’informatique et des libertés ([CNIL](http://www.cnil.fr)): Titulaire du certificat d’aptitude à la profession d’avocat (EFB), de deux DESS (droit de la bioéthique et droit de la santé) et d’un DEA de l’École des hautes études en sciences sociales, Délia Rahal-Löfskog a débuté sa carrière en 2003 à l’Office national d’indemnisation des accidents médicaux (ONIAM). En 2009, elle a rejoint la Commission nationale de l'Informatique et des Libertés (CNIL) où elle occupe actuellement les fonctions de chef du service de la santé à la direction de la conformité. Elle est par ailleurs auteur de plusieurs publications notamment en droit de la santé."
+        - name: Adrien Rousseaux
+          description: "Ingénieur expert au service de l'expertise technologique, Adrien s'y connait très bien sur les questions de privacy by design et d'analyses de risque vie privée."
           label: "legal"
           twitter:
           linkedin:
@@ -526,8 +526,8 @@ people:
         - name: Pascal Bastien
           description: "Team coaching, if you don't where you are and how continue call him ;)"
           linkedin: profile/view?id=11810442
-        - name: Délia Rahal-Lofskog
-          description: "Chef du service de la santé à la Commission nationale de l’informatique et des libertés ([CNIL](http://www.cnil.fr)): Titulaire du certificat d’aptitude à la profession d’avocat (EFB), de deux DESS (droit de la bioéthique et droit de la santé) et d’un DEA de l’École des hautes études en sciences sociales, Délia Rahal-Löfskog a débuté sa carrière en 2003 à l’Office national d’indemnisation des accidents médicaux (ONIAM). En 2009, elle a rejoint la Commission nationale de l'Informatique et des Libertés (CNIL) où elle occupe actuellement les fonctions de chef du service de la santé à la direction de la conformité. Elle est par ailleurs auteur de plusieurs publications notamment en droit de la santé."
+        - name: Adrien Rousseaux
+          description: "Ingénieur expert au service de l'expertise technologique, Adrien s'y connait très bien les questions de privacy by design, d'analyses de risque vie privée."
         - name: Christelle Carrier
           description: À l'origine du projet de [La Fabrique de l'Hospitalité](http://www.lafabriquedelhospitalite.org/).<br/>Historienne de l'architecture et ingénieur en gestion, elle est recrutée par le CHU de Strasbourg en 1999 dans le cadre du programme «Culture à l'hôpital» établi entre le ministère de la Culture et le ministère de la Santé. Elle a développé son action en s'appuyant sur les évolutions à l’œuvre ces dernières années dans notre établissement et les trois piliers d'un CHU, que sont le soin, la recherche et l'enseignement.
           twitter: fabriqueH
@@ -729,9 +729,9 @@ schedules:
           description2: "Workshop (1h) : FHIR for Hackers - Using standards to build it faster"
           abstract2: "[HL7 FHIR](http://www.hl7.org/implement/standards/fhir/) (Fast Healthcare Interoperable Resources) is a new standard for storing and exchanging health data that delivers a modern RESTful approach and puts developers first. FHIR is generating a lot of buzz around the world, and many large health software vendors and governments are now exploring using FHIR to provide access to their data. This presentation will explore how FHIR's robust and extendible data model can be used to rapidly prototype health apps, but also helps prepare your app to integrate with the emerging FHIR data ecosystem."
         - title: "2:30pm - 3pm"
-          speaker: "Délia Rahal-Lofskog"
+          speaker: "Adrien Rousseaux"
           description: "La loi Informatique et Libertés, un facteur d'innovation"
-          abstract: "L'innovation passe par la construction d'un cadre de confiance entre responsables de traitements, utilisateurs et personnes dont on traite les données à caractère personnel. La loi Informatique et Libertés permet de construire ce cadre dont le futur règlement européen scellera les prochaines briques. En matière de santé, compte tenu de la sensibilité de la donnée, cela prend tout son sens. Délia RAHAL-LÖFSKOG, chef du service de la santé à la CNIL, viendra nous dire comment."
+          abstract: "L'innovation passe par la construction d'un cadre de confiance entre responsables de traitements, utilisateurs et personnes dont on traite les données à caractère personnel. La loi Informatique et Libertés permet de construire ce cadre dont le futur règlement européen scellera les prochaines briques. En matière de santé, compte tenu de la sensibilité de la donnée, cela prend tout son sens."
         - title: "3pm - 3:30am"
           speaker: "Pascal Zellner"
           description: "HTrainer système d'aide à l'entrainement, le big data au service des sportifs"
@@ -754,7 +754,7 @@ schedules:
           description2: "Web Services for Medical Imaging<br/><br/>Medical imaging is the first step to the treatment of more and more illnesses, such as cancers or cardiovascular diseases. As a consequence, multiple highly specialized hardware and software from many different manufacturers spread out in hospitals. Simultaneously, a trend towards the pooling of imaging resources across health centers is emerging. This implies great challenge for interoperability in medical imaging, as the DICOM protocol is often limited to the Intranet of a single medical department.<br/><br/>To cope with this challenge, the DICOM working groups have standardized RESTful Web services that enable proprietary ecosystems to communicate on the top of the HTTP/HTTPS protocols. In this talk, I will first present these standards that are known as WADO-RS, STOW-RS and QIDO-RS. Secondly, I will review the custom Web services for DICOM that are built in Orthanc, a free and open-source vendor neutral archive. Finally, I will conclude by proposing a practical implementation of the standard DICOM Web services as plugins to Orthanc."
         - title: "4:30pm - 5pm"
           speaker: "Caroline Zorn"
-          description: "Legal Panel with Pierre Desmarais, Sofie Van der Meulen, Werner Bachmann, Délia Rahal-Lofskog"
+          description: "Legal Panel with Pierre Desmarais, Sofie Van der Meulen, Werner Bachmann, Adrien Rousseaux."
           speaker2: "Julien Lamy"
           description2: "DICOM in clinical trials : challenges and solutions"
           abstract2: "DICOM is now ubiquitous in clinical practice: from storage and query to printing and surgery planning, its usefulness has been proven time and again. In clinical trials, where the focus shifts from the patient to the cohort, new issues start to appear: since most of the softwares are patient-centric and designed to be deployed in hospitals, we have to either coax them into handling clinical trial data or develop new ones. This talk will show our work on those two fronts."
