@@ -93,12 +93,12 @@ fr:
     - name: Health Data Day
       verb: Apprendre
       date: "Vendredi 20 mars 2015, de 9h à 17h"
-      venue: "[Forum de la faculté de médecine - 1 rue Humann - Strasbourg](venue.html)"
+      venue: "[Forum de la faculté de médecine - 4 rue kirschleger - Strasbourg](venue.html)"
       description: "Une journée de conférences et d’ateliers sur la production, la consommation et l’analyse de données de santé sur le plan technique, médical et légal."
     - name: Health Hackathon
       verb: Passer à l'action
       date: "Du vendredi 20 mars 17h au dimanche 22 mars à 17h"
-      venue: "[Forum de la faculté de médecine - 1 rue Humann - Strasbourg](venue.html)"
+      venue: "[Forum de la faculté de médecine - 4 rue kirschleger - Strasbourg](venue.html)"
       description: "Deuxième hackathon annuel du vendredi soir au dimanche soir. Professionnels de santé, développeurs et designers se retrouveront en équipe pour co-créer des prototypes à partir de défis soumis avant l’évènement."
   partners_title:
     platinum: platinum
@@ -192,12 +192,12 @@ en:
     - name: Health Data Day
       verb: Learn
       date: "Friday, March 20th, 9:00 AM - 5:00 PM"
-      venue: "[Forum de la faculté de médecine - 1 rue Humann - Strasbourg](venue.html)"
+      venue: "[Forum de la faculté de médecine - 4 rue kirschleger - Strasbourg](venue.html)"
       description: "A full day of workshops and conferences centered around the technical, medical and legal aspects of producing, consuming and analyse health data. International speakers will come to help you better understand healthcare ecosystem and opportunity. Big Data and API will be demystified with concrete experience."
     - name: Health Hackathon
       verb: "Act"
       date: "Friday, March 20th, 5:00 PM to Sunday, March 8:00 PM"
-      venue: "[Forum de la faculté de médecine - 1 rue Humann - Strasbourg](venue.html)"
+      venue: "[Forum de la faculté de médecine - 4 rue kirschleger - Strasbourg](venue.html)"
       description: "The second annual hackathon will run from Friday evening to Sunday evening. Health professionals, patients, hackers, developers and designers will create prototypes based on challenges submitted before the event."
   partners_title:
     platinum: platinum

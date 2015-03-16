@@ -15,7 +15,7 @@
 
 <p>Faculté de médecine</p>
 
-<p>1, rue Humann</p>
+<p>4, rue kirschleger</p>
 
 <p>67000 Strasbourg</p>
 
@@ -87,7 +87,7 @@
 
         <h1>Faculté de médecine</h1>
 
-        <h2>1, rue Humann <br/>67000 Strasbourg <br/> FRANCE</h2>
+        <h2>4, rue kirschleger <br/>67000 Strasbourg <br/> FRANCE</h2>
 
     </div>
 </div>
