@@ -9,3 +9,5 @@ Nous ne devons pas oublier que l’objectif est de créer des solutions concrèt
 <a href="https://docs.google.com/forms/d/1Ji936xMg1x2D8BV-lpaFQYILoEx8f2PjdWtVbaaskt8/viewform" class="btn btn-primary btn-block">
                   > Je présente ma startup ! <
                 </a>
+
+## Programme de la soirée: [Lien](/img/HEALTHPITCHCHALLENGE.pdf)

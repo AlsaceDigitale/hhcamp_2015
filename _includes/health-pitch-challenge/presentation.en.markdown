@@ -11,3 +11,5 @@ Just like crowdfunding, each member of the audience will be given 3 fake banknot
 <a href="https://docs.google.com/forms/d/1Ji936xMg1x2D8BV-lpaFQYILoEx8f2PjdWtVbaaskt8/viewform" class="btn btn-primary btn-block">
                   > Submit your startup ! <
                 </a>
+
+## Startups description: [Lien](/img/HEALTHPITCHCHALLENGE.pdf)
