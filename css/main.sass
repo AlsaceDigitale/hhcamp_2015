@@ -502,6 +502,10 @@ section.complement
 section.people
   background-color: $brand-primary
   color: white
+  .startup
+    margin-bottom: 40px
+    img
+      height: 120px
   @each $event in $events
     $event-name: nth($event, 1)
     $event-color: nth($event, 2)
@@ -839,6 +843,11 @@ section.atelier
     text-align: center !important
 
   section.people
+    .startup
+      margin-bottom: 20px
+      img
+        max-width: 100%
+        height: auto
     .person
       padding-left: 0
       padding-right: 0

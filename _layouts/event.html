@@ -28,7 +28,11 @@ layout: default
 {% endif %}
 {% endif %}
 {% include shared/ticket.html %}
+{% if page.path == "health-pitch-challenge.html" or page.path == "fr/health-pitch-challenge.html"  %}
+{% include shared/startups.html sectionKey=mnemonic %}
+{% else %}
 {% include shared/people.html sectionKey=mnemonic %}
+{% endif %}
 {% include shared/schedule.html scheduleKey=mnemonic %}
 {% include shared/qa.html qaKey=mnemonic %}
 {{ content }}
