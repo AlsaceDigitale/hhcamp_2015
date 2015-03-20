@@ -24,7 +24,7 @@
             <img src="{{ img_url }}">
           </div>
           <div class="col-xs-9">
-            <h5>{{ person.name }}</h5>
+            <h5>{{ person.name }} - {{ person.country }}</h5>
             <p>{% if page.locale == "fr" %}{{ person.description_fr }}{% else %}{{ person.description_en }}{% endif %}</p>
             <p>
               <a href="http://{{ person.website }}" target="_blank">{{ person.website }}</a>

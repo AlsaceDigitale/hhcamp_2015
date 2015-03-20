@@ -346,47 +346,58 @@ people:
   health-pitch-challenge:
     - name: "Startups"
       list:
-        - name: Andaman7 - Belgium
+        - name: Andaman7
+          country: Belgium
           website: www.andaman7.com
           description_en: "A7 is a mobile app that combines an electronic health record for professionals and a personal health record for patients. Medical records can be shared within a secure circle of users ensuring proper communication and diagnosis."
           description_fr: "A7 est une application mobile qui combine dossier médical informatisé pour les professionnels de la santé, et dossier médical personnel pour les patients. Les dossiers médicaux peuvent être partagés de façon sécurisée et volontaire afin d’ optimiser la communication et le diagnostic médical."
-        - name: Braci - UK
+        - name: Braci
+          country: UK
           website: braci.co
           description_en: "Braci is a wireless solution for detecting selected everyday sounds and emergency alarms. With the aid of a unique app, the smart bracelet is able to alert through vibration and flashing lights. It also shows the current event on the smartphone screen. It is used to alert you of important sounds such as the fire alarm, doorbell, mobile notifications, baby crying, car horn, etc. Perfect for hearing impaired, elderly, parents, heavy sleepers, cyclists, and many more."
           description_fr: "Braci est une solution sans fil pour détecter les sons de tous les jours et les alarmes d'urgence . A l'aide d'une application unique, le bracelet à puce est capable d'alerter par vibrations et lumières clignotantes. L'événement en cours est également diffusé sur l'écran du smartphone. Il est utilisé pour vous avertir de sons importants tels que l'alarme incendie, notifications mobiles, pleurs de bébé, klaxon de voiture, etc. Parfait pour les malentendants, les personnes âgées, les parents,les cyclistes, et bien plus."
-        - name: Dimago Mental Health - Germany
+        - name: Dimago Mental Health
+          country: Germany
           website: www.digital-worx.de/referenzen/dimago/
           description_en: "The objective of Dimago is to support mental patients, their families and physicians in the treatment of depression and bipolar disorder. Dimago provides monitoring indicators such as exercise, sleep and skin conductance. It allows the mentally ill to have in addition to their subjective perception, an objective assessment of their mental health."
           description_fr: "L‘objectif de Dimago est de soutenir les malades mentaux , leurs familles et les médecins dans le traitement de la dépression et les troubles bipolaires. Dimago permet d'obtenir de surveiller des indicateurs tels que l'exercice, le sommeil et la conductance cutanée. Elle permet aux malades mentaux d’avoir en plus de leur perception subjective, une évaluation objective de leur santé mentale"
-        - name: i-Nside - France
+        - name: i-Nside
+          country: France
           website: www.i-nside.com
           description_en: "i-Nside is the first telemedicine tool allowing for remote examination of eardrums, nose and mouth. Attached to a smartphone, it provides the possibility to share images with a doctor who will in most cases be able to make a remote pre-diagnosis."
           description_fr: "i-Nside est le premier instrument de télémédecine permettant d’examiner à distance les tympans, le nez et la bouche. Couplé à un smartphone, il permet de transmettre des photographies à un médecin, lequel pourra, le plus souvent, réaliser un pré-diagnostic à distance."
-        - name: InSimo - France
+        - name: InSimo
+          country: France
           website: www.insimo.fr
           description_en: "InSimo, a medical simulation software publisher, offers a software platform developed, among others, by Inria, which introduces a new generation of medical simulators to the market. These simulators are more accurate and take less time to develop. Furthermore, these simulators will help broaden the scope of application to meet new requirements in terms of assistance in planning and completing increasingly complex surgical operations."
           description_fr: "InSimo est une start-up spécialisée dans la conception et le développement de logiciels interactifs pour la simulation Chirurgicale. Ces logiciels permettent de simuler de manière réaliste et interactive un certain nombre de gestes et opérations chirurgicaux."
-        - name: MedPics - France
+        - name: MedPics
+          country: France
           website: www.medpics.fr
           description_en: "MedPics is the first mobile application for sharing photos and medical discussions for French-speaking health professionals. It enables easy and secure exchange, patient and doctor protection."
           description_fr: "MedPics est la 1ère application mobile de partage de photos médicales et de discussion pour les professionnels de santé francophones. Il permet un échange sécurisé, une protection du patient, du praticien et ceci en toute simplicité."
-        - name: Pharmao - France
+        - name: Pharmao
+          country: France
           website: www.pharmao.fr
           description_en: "Pharmao is a movable drive application that allows you to benefit from a tailored service to the pharmacist to whom you send your order. On the one hand you ensure that the desired pharmaceutical products are available in pharmacies and on the other mobile pharmao grants you the privilege not to queue to get them back."
           description_fr: "Pharmao est est application mobile drive qui vous permet de bénéficier d'un service sur mesure auprès du pharmacien auquel vous avez envoyez votre ordonnance. D'une part vous vous assurez que les produits pharmaceutiques recherchés sont disponibles en pharmacie et d'autre part l'application mobile pharmao vous octroie le privilège de ne pas faire la queue pour les récupérer."
-        - name: santee - France
+        - name: santee
+          country: France
           website: www.sant.ee
           description_en: "1st Health Weather App in your pocket. Do you know that you can reduce by at least 50% the risks of catching common diseases (like Flu, gastro or angina) ? But it takes the right information, at the right moment, with the right action to take. That's what Sant.ee does for Free. The 1st community based application that helps protect your health."
           description_fr: "Sant.ee est la première application mobile communautaire qui transforme votre statut en outil de prévention Santé. Anonyme et gratuite, l’application vous prévient des alertes santé en temps réel sur vos lieux de vie, vous tient informé de l’état de santé de vos proches et vous propose des conseils simples, efficaces et au bon moment.Sant.ee agrège les données de la communauté, vos statuts mis à jour dans l’application, délivrant une information de prévention jusqu’alors inexistant"
-        - name: telemed - France
+        - name: Telemed
+          country: France
           website: www.telemed.fr
           description_en: "Founded in 2013 on the basis of a project launched in 2005, Telemed is defined as a company of global teleservices for health professionals and the company is working on patients. 4 parts:- Website and online calendar- Hospital software: appointment management , medical beds management, care pathways- Medical software with support for exploration and shared medical records- Teleconsultation with connected objects"
           description_fr: "Créée en 2013 sur la base d’un projet lancé en 2005, Telemed se définit comme une entreprise de téléservices globaux pour les professionnels de santé et le patients.La société travaille sur 4 volets:- site web et agenda en ligne- logiciel hospitalier: gestion des rendez-vous, gestions des lits, parcours de soins- logiciel médical avec aide à la prospection et dossier médical partagé- téléconsultation avec objects connectés"
-        - name: Umanlife - France
+        - name: Umanlife
+          country: France
           website: www.umanlife.com
           description_en: "Umanlife is dedicated to the improvement of your wellness. We aim at influencing healthy behaviors through innovation and disruptive user experience. Health is not only about collecting data : it is about tailoring the relevant personal follow-up."
           description_fr: "Umanlife se consacre à l'amélioration de votre bien-être. Notre ambition est de vous donner les clés pour adopter des comportements plus sains grâce à une utilisation originale des nouvelles technologies. Améliorer votre santé ne se résume pas à collecter et analyser des données : il faut surtout y ajouter un accompagnement personnalisé et pertinent."
-        - name: wounddesk - Switzerland
+        - name: Wounddesk
+          country: Switzerland
           website: www.wounddesk.com
           description_en: "A complete mobile solution for professional wound management, that saves time, reduces errors and improves wound healing. Health professionals are overflowed with red tape, which reduces the time spent with patients. They are looking for tools that enable them reduce the time spent on administrative tasks so they can focus more on patient care."
           description_fr: "Une solution mobile complète pour la gestion des accidents professionnels, qui permet d'économiser du temps, réduit les erreurs et améliore la cicatrisation des plaies. Les professionnels de santé sont débordés ce qui réduit le temps passé avec les patients. Ils recherchent des outils qui leur permettent de réduire le temps consacré aux tâches administratives afin qu'ils puissent se concentrer davantage sur les soins aux patients."
