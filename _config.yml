@@ -18,7 +18,7 @@ fr:
   blog: Blog
   know_more: "En savoir plus"
   submit_challenge_link: "Proposez votre défi !"
-  challenge_list_link: "Consultez les défis!"
+  challenge_list_link: "Consultez les défis et les lauréats !"
   cfp_link: "Appel au speakers!"
   submit_startup_link: "Proposez votre startup !"
   partner: "Partenaire"
@@ -60,8 +60,13 @@ fr:
   intro:
     title: "Créer le futur<br/>de la santé"
     ticket_link: Inscrivez-vous !
+    projects_link: Les projets en images !
     newsletter_link: Restons en contact !
-    challenge_link: Consultez les défis !
+    challenge_link: Les lauréats !
+  results:
+    title: "600 participants ! C'est un succès ! Merci pour votre participation !"
+    description: "90+ professionnels de santé, 120+ hackers, 30+ designers, 50+ entrepreneurs, 54 projets présentés, 26 retenus, 11 lauréats <br> Retrouvez bientôt les photos et les vidéos"
+    fistar: "Poursuivez l'aventure en rejoignant la communauté FiStar"
   discover_home:
     title: "Découvrir Hacking Health Camp"
     description: "<strong>Hacking Health Camp</strong> Hacking Health Camp est un évènement international sur 4 jours qui vise à briser les barrières de l’innovation en santé. Chaque jour, un évènement crée un espace collaboratif entre professionnels de santé, designers, hackers, makers et entrepreneurs. Un évènement à destination de toutes les personnes intéressées par l’innovation en santé, inspirant professionnels de santé et professionnels du numérique sur leurs opportunités communes dans l’avenir de la santé."
@@ -117,7 +122,7 @@ en:
   blog: Blog
   know_more: "Know more"
   submit_challenge_link: "Submit your challenge!"
-  challenge_list_link: "Look at challenges!"
+  challenge_list_link: "Look at challenges and winners!"
   cfp_link: "Call for speakers!"
   submit_startup_link: "Submit your startup!"
   partner: "Partner"
@@ -158,9 +163,14 @@ en:
     press: Press
   intro:
     title: "Create the future<br/>of healthcare"
-    ticket_link: Register now !
-    newsletter_link: Keep in touch !
-    challenge_link: Take a look at challenges !
+    ticket_link: Register now!
+    projects_link: Review all projects!
+    newsletter_link: Keep in touch!
+    challenge_link: And the winners are!
+  results:
+    title: "600 attendees ! Big success ! Thanks for your participation !"
+    description: "90+ health professionals, 120+ hackers, 30+ designers, 50+ entrepreneurs, 54 projects posted, 26 selected, 11 winners <br> Stay tuned for photos and videos"
+    fistar: "Follow the adventure with FiStar community"
   discover_home:
     title: "Discover Hacking Health Camp"
     description: "<strong>Hacking Health Camp</strong> is a global event for all people interested in health innovation, inspiring health professionals, patients, developers, hackers, designers and UX researchers about their common amazing possibilities in tomorrow's health."

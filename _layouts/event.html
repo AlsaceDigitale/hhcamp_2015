@@ -19,15 +19,15 @@ layout: default
     </div>
   </div>
 </section>
-{% if page.path == "health-hackathon.html" or page.path == "fr/health-hackathon.html"%}
+<!--{% if page.path == "health-hackathon.html" or page.path == "fr/health-hackathon.html"%}
 {% include shared/last-edition.html %}
-{% endif %}
+{% endif %}-->
 {% include {{ mnemonic }}/hardware-software.html %}
 {% if page.path != "health-hackathon.html" and page.path != "fr/health-hackathon.html"%}
 {% include {{ mnemonic }}/prizes.html %}
 {% endif %}
 {% endif %}
-{% include shared/ticket.html %}
+<!--{% include shared/ticket.html %}-->
 {% if page.path == "health-pitch-challenge.html" or page.path == "fr/health-pitch-challenge.html"  %}
 {% include shared/startups.html sectionKey=mnemonic %}
 {% else %}

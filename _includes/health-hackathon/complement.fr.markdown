@@ -18,10 +18,6 @@ Cette année notre partenaire [GET (Global eHealth Transforming services)](http:
 <a href="http://www.get-ehealth.eu/fill-the-gap/" class="btn btn-primary btn-block">
           Liste des besoins insatisfaits
         </a>
-<a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
-          Je propose mon défi !
-        </a>
-</div>
 
 <div class="col-xs-12 col-md-6" markdown="1">
 ## Rejoindre une équipe
@@ -32,8 +28,5 @@ Pour être informé des prochains atelier, inscrivez-vous sur la [mailing-list](
 
 C’est le vendredi soir après les pitchs des porteurs de défis que les équipes se constitueront officiellement. Mais attention les places sont limitées.
 
-<a href="http://hhcamp.eventbrite.fr" class="btn btn-primary btn-block">
-          Inscrivez-vous maintenant ! les places sont limitées
-        </a>
 
 </div>

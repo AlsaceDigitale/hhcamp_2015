@@ -19,10 +19,6 @@ This year our partner [GET (Global eHealth Transforming services)](http://www.ge
 <a href="http://www.get-ehealth.eu/fill-the-gap/" class="btn btn-primary btn-block">
           List of unmet needs
         </a>
-<a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
-          Submit a challenge !
-        </a>
-</div>
 
 <div class="col-xs-12 col-md-6" markdown="1">
 ## Find your team
@@ -33,8 +29,5 @@ To be informed on next Hacking Health Coffee, subscribe to the [mailing-list](ht
 
 It's on friday evening, after challenge's owners pitch, team will be official
 
-<a href="http://hhcamp.eventbrite.fr" class="btn btn-primary btn-block">
-          Register now ! tickets are limited
-        </a>
 
 </div>
