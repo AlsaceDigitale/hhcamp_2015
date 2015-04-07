@@ -88,7 +88,11 @@
           {% for partner in category[1] %}
             <li>
               <div class="img-container">
-                {% assign partner_name = partner.name | downcase | replace:" ","-" | replace:"é","e" | append:".jpg" %}
+                {% if (partner.img != null) %}
+                  {% assign partner_name = partner.img %}
+                {% else %}
+                  {% assign partner_name = partner.name | downcase | replace:" ","-" | replace:"é","e" | append:".jpg" %}
+                {% endif %}
                 {% assign img_url = "/img/partner/" | append: partner_name | prepend: site.baseurl %}
                 <a href="{{ partner.url }}" target="_blank">
                   <img src="{{ img_url }}" alt="{{ partner.name }}" class="img-responsive" />

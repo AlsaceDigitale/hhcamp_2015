@@ -1217,6 +1217,7 @@ secondary_partners:
       url: http://www.wattwiller.com/
   event:
     - name: eHealth-competition
+      img: ehealthnews.gif
       url: http://www.ehealthcompetition.eu/
     - name: innovation-forum
       url: http://www.inno-forum.org/
