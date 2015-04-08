@@ -1483,6 +1483,42 @@ blogPost:
   - name: TICsante.com
     title: "Le futur de la médecine esquissé au Hacking Health Camp"
     url: http://www.ticsante.com/print_story.php?story=2307
+  - name: DNA
+    title: ""
+    url: https://drive.google.com/file/d/0B21GKI0gFqb8ZWJNQjBzT0Z1X1E/view?usp=sharing
+  - name: Sébastien Pourchaire
+    title: "2 Concepts I bring back from Hacking Health Camp"
+    url: https://www.linkedin.com/pulse/2-concepts-i-bring-back-from-hacking-health-camp-s%C3%A9bastien-pourchaire
+  - name: Journal du Net
+    title: "la médecine se réinvente au Hacking Health Camp"
+    url: http://www.journaldunet.com/economie/expert/60354/la-medecine-se-reinvente-au-hacking-health-camp.shtml
+  - name: Orange
+    title: "imaginer la santé de demain"
+    url: http://healthcare.orange.com/a-la-une/a-la-une/imaginer-la-sante-de-demain
+  - name: Alsace BioValley
+    title: Bilan et palmares de l'édition 2015
+    url: http://www.alsace-biovalley.com/fr/hacking-health-camp-bilan-et-palmares-de-ledition-2015/
+  - name: Doctissimo
+    title: Hacking Health Camp 2015 fait émerger des projets e-santé de grande qualité
+    url: http://news.doctissimo.fr/Sante/Hacking-Health-Camp-2015-fait-emerger-des-projets-e-sante-de-grande-qualite-40464
+  - name: NovoEco
+    title: L’événement connecté confirme sa bonne santé !
+    url: http://alsagora.blogspot.fr/2015/03/hacking-health-camp-2015-hhcamp.html
+  - name: e-Alsace
+    title: "Strasbourg : des lauréats en bonne santé"
+    url: http://www.e-alsace.net/index.php/smallnews/detail?newsId=18223
+  - name: assurbanque
+    title: Le hackathon annuel alsacien aborde la santé digitale
+    url: http://www.assurbanque20.fr/2015/03/24616-le-hackathon-annuel-alsacien-aborde-la-sante-digitale/
+  - name: Decision Santé
+    title: "Deuxième Hackathon en santé à Strasbourg : observance et éducation thérapeutique à l’honneur"
+    url: http://www.decisionsante.com/derniere-minute/article/deuxieme-hackathon-en-sante-a-strasbourg-observance-et-education-therapeutique-a-lhonneur/?tx_ttnews%5BbackPid%5D=548&cHash=2e1370d256
+  - name: buzz esante
+    title: Emergence de solutions d'avenir
+    url: http://buzz-esante.com/2015/03/31/hacking-health-camp-2015-emergence-de-solutions-davenir/
+  - name: Le Figaro
+    title: Marathon digital pour santé connectée
+    url: http://sante.lefigaro.fr/actualite/2015/04/05/23588-marathon-digital-pour-sante-connectee
 atelier:
   show: false
   where: "le 19 février à 19h au Nouvel Hôpital Civil"
