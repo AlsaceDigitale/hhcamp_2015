@@ -65,7 +65,7 @@ fr:
     challenge_link: Les lauréats !
   results:
     title: "600 participants ! C'est un succès ! Merci pour votre participation !"
-    description: "90+ professionnels de santé, 120+ hackers, 30+ designers, 50+ entrepreneurs, 54 projets présentés, 26 retenus, 11 lauréats <br> Retrouvez bientôt les photos et les vidéos"
+    description: "90+ professionnels de santé, 120+ hackers, 30+ designers, 50+ entrepreneurs, 54 projets présentés, 26 retenus, 11 lauréats"
     fistar: "Poursuivez l'aventure en rejoignant la communauté FiStar"
   discover_home:
     title: "Découvrir Hacking Health Camp"
@@ -169,7 +169,7 @@ en:
     challenge_link: And the winners are!
   results:
     title: "600 attendees ! Big success ! Thanks for your participation !"
-    description: "90+ health professionals, 120+ hackers, 30+ designers, 50+ entrepreneurs, 54 projects posted, 26 selected, 11 winners <br> Stay tuned for photos and videos"
+    description: "90+ health professionals, 120+ hackers, 30+ designers, 50+ entrepreneurs, 54 projects posted, 26 selected, 11 winners"
     fistar: "Follow the adventure with FiStar community"
   discover_home:
     title: "Discover Hacking Health Camp"
