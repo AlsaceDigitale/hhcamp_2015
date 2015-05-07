@@ -48,6 +48,7 @@ Tel. +33 (0)6 24 72 04 96
   <div class="container">
       <div class="row category">
         <div class="col-xs-12">
+          <h3>Les retombées du Hacking Health</h3>
           <ul class="list-inline">
 	   {% for blogPost in site.blogPostAfterEvent %}
             <li>
@@ -63,8 +64,13 @@ Tel. +33 (0)6 24 72 04 96
           </ul>
         </div>
       </div>
+  </div>
+</section>
+<section class="press">
+  <div class="container">
       <div class="row category">
         <div class="col-xs-12">
+          <h3>Rendez-vous pour le Hacking Health</h3>
           <ul class="list-inline">
      {% for blogPost in site.blogPostBeforeEvent %}
             <li>

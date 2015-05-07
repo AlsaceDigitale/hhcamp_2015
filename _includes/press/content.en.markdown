@@ -47,6 +47,7 @@ Tel. +33 (0)6 24 72 04 96
   <div class="container">
       <div class="row category">
         <div class="col-xs-12">
+          <h3>Hacking Health's media impacts</h3>
           <ul class="list-inline">
      {% for blogPost in site.blogPostAfterEvent %}
             <li>
@@ -62,22 +63,27 @@ Tel. +33 (0)6 24 72 04 96
           </ul>
         </div>
       </div>
-      <div class="row category">
-        <div class="col-xs-12">
-          <ul class="list-inline">
-	   {% for blogPost in site.blogPostBeforeEvent %}
-            <li>
-              <div class="img-container">
-	      	{% assign blogpost_name = blogPost.name | downcase | replace:" ","-" | replace:"é","e" | remove:"!" | split:"-" | join:"-" | append:".jpg" %}
-		{% assign img_url= "/img/partner/" | append: blogpost_name | prepend: site.baseurl %}
-                <a href="{{ blogPost.url }}" target="_blank">
-                  <img src="{{ img_url }}" alt="{{ blogPost.title }}" class="img-responsive" />
-                </a>
-              </div>
-            </li>
-          {% endfor %}
-          </ul>
-        </div>
+  </div>
+</section>
+<section class="press">
+  <div class="container">
+    <div class="row category">
+      <div class="col-xs-12">
+        <h3>Meet us at the Hacking Health</h3>
+        <ul class="list-inline">
+   {% for blogPost in site.blogPostBeforeEvent %}
+          <li>
+            <div class="img-container">
+        {% assign blogpost_name = blogPost.name | downcase | replace:" ","-" | replace:"é","e" | remove:"!" | split:"-" | join:"-" | append:".jpg" %}
+  {% assign img_url= "/img/partner/" | append: blogpost_name | prepend: site.baseurl %}
+              <a href="{{ blogPost.url }}" target="_blank">
+                <img src="{{ img_url }}" alt="{{ blogPost.title }}" class="img-responsive" />
+              </a>
+            </div>
+          </li>
+        {% endfor %}
+        </ul>
       </div>
+    </div>
   </div>
 </section>
