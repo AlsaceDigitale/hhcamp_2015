@@ -1520,6 +1520,9 @@ blogPostAfterEvent:
   - name: Le Figaro
     title: Marathon digital pour santé connectée
     url: http://sante.lefigaro.fr/actualite/2015/04/05/23588-marathon-digital-pour-sante-connectee
+  - name: Vox Pop
+    title: Le magazine d'investigation
+    url: http://www.arte.tv/guide/fr/emissions/VOX/vox-pop
 atelier:
   show: false
   where: "le 19 février à 19h au Nouvel Hôpital Civil"
