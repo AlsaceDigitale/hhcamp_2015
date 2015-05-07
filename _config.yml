@@ -1224,7 +1224,7 @@ secondary_partners:
 
 last_event_playlist_id: PLKHIK5minrP6NXwHfUF3lD5SbmlbclGhK
 
-blogPost:
+blogPostBeforeEvent:
   - name: TIC sante
     title: "Hacking Health Camp: le hackathon français en santé se dote de deux journées de conférences"
     url: http://www.ticsante.com/Hacking-Health-Camp-le-hackathon-francais-en-sante-se-dote-de-deux-journees-de-conferences-NS_2121.html
@@ -1474,6 +1474,7 @@ blogPost:
   - name: Etiam
     title: "ETIAM au Hacking Health Camp 2015"
     url: http://www.etiam.fr/etiam-au-hacking-health-camp-2015/
+blogPostAfterEvent:
   - name: Quantmetry
     title: "Prix de l’Innovation et de la BPI France #HHCAMP"
     url: http://www.quantmetry.com/prix-de-linnovation-et-de-la-bpi-france-hhcamp/

@@ -48,7 +48,24 @@ Tel. +33 (0)6 24 72 04 96
       <div class="row category">
         <div class="col-xs-12">
           <ul class="list-inline">
-	   {% for blogPost in site.blogPost %}
+     {% for blogPost in site.blogPostAfterEvent %}
+            <li>
+              <div class="img-container">
+          {% assign blogpost_name = blogPost.name | downcase | replace:" ","-" | replace:"é","e" | remove:"!" | split:"-" | join:"-" | append:".jpg" %}
+    {% assign img_url= "/img/partner/" | append: blogpost_name | prepend: site.baseurl %}
+                <a href="{{ blogPost.url }}" target="_blank">
+                  <img src="{{ img_url }}" alt="{{ blogPost.title }}" class="img-responsive" />
+                </a>
+              </div>
+            </li>
+          {% endfor %}
+          </ul>
+        </div>
+      </div>
+      <div class="row category">
+        <div class="col-xs-12">
+          <ul class="list-inline">
+	   {% for blogPost in site.blogPostBeforeEvent %}
             <li>
               <div class="img-container">
 	      	{% assign blogpost_name = blogPost.name | downcase | replace:" ","-" | replace:"é","e" | remove:"!" | split:"-" | join:"-" | append:".jpg" %}
