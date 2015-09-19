@@ -29,41 +29,41 @@ Some of this projects is now early stage startups.
 
 This year join a team and create innovation in health with us
 
-Attend Hacking Health Camp 2015, largest european hackathon in healthcare
+Attend Hacking Health Camp 2016, largest european hackathon in healthcare
 
-<a href="http://hhcamp.eventbrite.fr" class="btn btn-primary btn-block">
+<!--<a href="http://hhcamp.eventbrite.fr" class="btn btn-primary btn-block">
           Register now !
         </a>
 
-</div>
+</div>-->
 
 <div class="col-xs-12 col-md-6" markdown="1">
 ## How ?
 
-Hacking Health Camp 2015, 4 days in 3 steps : inspire, learn, act
+Hacking Health Camp 2016, 4 days in 3 steps : inspire, learn, act
 
 ### Inspire
 
-#### [Future of Health](future-of-health.html) (thursday)
+#### [Future of Health]() (thursday)
 
 A entire day of inspiring and forward-thinking conferences on the future of health by a line up of internationally-recognized health mentors. It will help you understand future ways in healthcare and give you support to choose your team.
 Health Pitch Challenge (thursday evening)
 
-#### [Health Pitch Challenge](health-pitch-challenge.html) (thursday evening)
+#### [Health Pitch Challenge]() (thursday evening)
 
 Take a look at health startup already at work and choose your favorite.
 
 ### Learn
 
-#### [Health Data Day](health-data-day.html) (friday)
+#### [Health Data Day]() (friday)
 
 Produce or consume health data needs knowledge in legal, medical and technical aspects.
 Understand strategic challenges by attending conferences and workshop on health data privacy, health APIs manipulation, datastore presentation
-For example this year speakers are : Louis LYU (iHealth API), Pierre Desmarais (French lawyer in healthcare) ...
+For example previous edition speakers were : Louis LYU (iHealth API), Pierre Desmarais (French lawyer in healthcare) ...
 
 ### Act
 
-#### [Hackathon](health-hackathon.html) : lets’ create (from friday to sunday evening)
+#### [Hackathon]() : lets’ create (from friday to sunday evening)
 
 - listen to pitches and choose your project
 - meet project owner, be recruited
@@ -81,10 +81,10 @@ During this 50h hackathon, we provide the best environment ever for your team to
 
 To join a team:
 
-Follow [sparkboard](http://hhcamp.sparkboard.com) activity and find the project you want. Get in touch with project owner to know more about him and his project.
+Follow [our activities](http://eepurl.com/Gbes1) and find the project you want. Get in touch with project owner to know more about him and his project.
 
-<a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
+<!--<a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
           Join a team !
-        </a>
+        </a>-->
 
 </div>

@@ -19,27 +19,27 @@
 
 ##Cet évènement est conçu pour répondre aux principes suivants : s’inspirer, apprendre, passer à l’action
 
-###[The Future of Health](future-of-health.html)
+###[The Future of Health]()
 
-#####9:30 - 17:00,  Jeudi 19 mars, 2015
+#####9:30 - 17:00,  Jeudi 18 mars, 2016
 
 Une journée inspirante de conférences visionnaires sur le futur de la santé par des personnalités internationalement reconnues.
 
-###[Health Pitch Challenge](health-pitch-challenge.html) : soirée de compétition de pitch de startups santé
+###[Health Pitch Challenge]() : soirée de compétition de pitch de startups santé
 
-#####19:00 - 22:00, Jeudi soir 19 mars, 2015
+#####19:00 - 22:00, Jeudi soir 18 mars, 2016
 
 Soirée dédiée aux startups du domaine de la santé en présence d’investisseurs. Une sélection de startups présenteront leurs idées sous forme de pitch. Le public pourra voter avec des billets de banque virtuels. Le gagnant étant celui qui aura levé le plus d’argent.
 
-###[Health Data Day](health-data-day.html) : le Big Data en santé est là, comment l’utiliser ?
+###[Health Data Day]() : le Big Data en santé est là, comment l’utiliser ?
 
-#####9:00 - 17:00, Vendredi 20 mars, 2015
+#####9:00 - 17:00, Vendredi 19 mars, 2016
 
 Une journée de conférences et d’ateliers sur la production, la consommation et l’analyse de données de santé sur le plan technique, médical et légal.
 
-###[Health Hackathon](health-hackathon.html) : weekend de prototypage
+###[Health Hackathon]() : weekend de prototypage
 
-#####Vendredi 20 mars 17:00 au Dimanche 22 mars 22:00, 2015
+#####Vendredi 19 mars 17:00 au Dimanche 20 mars 22:00, 2016
 
 L’idée est simple : l’inspiration étant l’essence même de la création, quoi de mieux que d’écouter des médecins, entrepreneurs et philosophes visionnaires et de rencontrer des startups qui ont déjà commencé à innover. Puis continuer sur un échange sur les données de santé et apprendre à identifier les opportunités tant techniques que médicales sur le sujet de la santé. Au final transformer tout cela en action en travaillant ensemble pour créer des innovations et inventer le futur.
 
@@ -54,9 +54,9 @@ Hacking Health Camp est le lieu de l’**innovation par l’action** et ambition
 ###Évènements précédents et retours
 <img src="/img/health-hackathon-2.jpg" width="220">
 
-Plus de 12 hackathons et une douzaine d’évènements en santé au Canada et dans le monde déjà réalisés, premier hackathon en france en mars 2014 à Strasbourg “**[Hacking Health @ DigitalHealthCamp](http://digitalhealthcamp.eu)**”, et plusieurs autres hackathons programmés partout dans le monde  (Hong Kong, Saskatoon, New York, Berlin, ...).
+Plus d'une 30aine d'hackathons et une 20aine d’évènements en santé au Canada et dans le monde déjà réalisés% et plusieurs autres hackathons programmés partout dans le monde  (Hong Kong, Saskatoon, New York, Berlin, ...).
 
-A propos de l’énergie créative du **[Hacking Health @ DigitalHealthCamp](http://digitalhealthcamp.eu)** :
+A propos de l’énergie créative du **[Hacking Health Strasbourg](http://hackinghealth.camp)** :
 
 > “On a tous regretté de ne pas avoir été dans le garage de Steve Job dans les années 70, mais dans 30 ans on pourra dire qu'on était à Strasbourg aujourd'hui...”
 
@@ -70,15 +70,15 @@ Uwe Diegel, président de iHealth, 30 mars 2014
 
 C’était le premier évènement de ce type en France !
 
-La première édition **[Hacking Health @ DigitalHealthCamp](http://digitalhealthcamp.eu)** a été un énorme succès. À l’évidence c’était une réponse à un besoin des professionnels de santé
+Les éditions précédentes ont été d'énorme succès. À l’évidence c’était une réponse à un besoin des professionnels de santé
 
- - participation : 200 personnes venues de toute la France. Parmi eux :  45 professionnels de santé  (infirmiers, pharmaciens, psychiatres, physiotherapistes,...) et environ 100 hackers.
- - pour 35 défis soumis,19 prototypes de qualité ont été créés, ex: Flashmed, MedMatch, ContAAct, Lifealth, ... (certains sont actuellement des startups).
+ - participation : 600 personnes venues du monde entier. Parmi eux :  90 professionnels de santé  (infirmiers, pharmaciens, psychiatres, physiotherapistes,...) et environ 200 hackers et designers.
+ - pour 54 défis soumis, 27 prototypes de qualité ont été créés, ex: Flashmed, MedMatch, LigoMed, LudHopital, PhysioConnect, iPiPi, ... (certains sont actuellement des startups).
    - “Ça marche, c’est incroyable ...” à propos de  MedMatch, Uwe Diegel, fondateur d’iHealth
    - 10 d’entre eux ont reçus des récompenses
-   - vous pouvez revoir tous **[les projets](http://projects.digitalhealthcamp.eu/)**
-   - et regarder la **[video récapitulative de l'édition précédente](https://www.youtube.com/watch?v=EFhyYTip72E&list=PLKHIK5minrP6NXwHfUF3lD5SbmlbclGhK)**
- - pour la première fois en France, un hackathon a généré un intérêt médiatique national (presse généraliste et spécialisée): Le Figaro, M6, iTélé, Le quotidien du médecin, DNA, Rue89 Strasbourg, ,... (**[consulter tous les articles de presse](http://digitalhealthacamp.eu/#presse)**)
+   - vous pouvez revoir tous **[les projets](http://projects.hackinghealth.camp/)**
+   - et regarder la **[video récapitulative de l'édition précédente](https://www.youtube.com/playlist?list=PLuHrDYWB7wjtGk-aavRKHBVVDto14nPgX)**
+ - pour la première fois en France, un hackathon a généré un intérêt médiatique national (presse généraliste et spécialisée): Le Figaro, M6, iTélé, Le quotidien du médecin, DNA, Rue89 Strasbourg, ,... (**[consulter tous les articles de presse](http://hackinghealth.camp/fr/press.html)**)
 
 Les participants ont eu l’opportunité de créer dans un environnement exceptionnel, accompagné d’experts internationaux, qui croient en l’importance de ce hackathon et sont venus partager leurs compétences avec les participants :
  - experts en droit de la santé : Caroline Zorn, Pierre Desmarais,....

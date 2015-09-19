@@ -14,7 +14,7 @@ github_username:  jekyll
 markdown: kramdown
 
 fr:
-  subtitle: du <span class="day">19</span> au <span class="day">22</span> mars 2015
+  subtitle: du <span class="day">17</span> au <span class="day">20</span> mars 2016
   blog: Blog
   know_more: "En savoir plus"
   submit_challenge_link: "Proposez votre défi !"
@@ -61,8 +61,9 @@ fr:
     title: "Créer le futur<br/>de la santé"
     ticket_link: Inscrivez-vous !
     projects_link: Les projets en images !
-    newsletter_link: Restons en contact !
+    newsletter_link: Prévenez-moi de l'ouverture des inscriptions !
     challenge_link: Les lauréats !
+    sponsor_link: Je soutiens l'évènement !
   results:
     title: "600 participants ! C'est un succès ! Merci pour votre participation !"
     description: "90+ professionnels de santé, 120+ hackers, 30+ designers, 50+ entrepreneurs, 54 projets présentés, 26 retenus, 11 lauréats"
@@ -87,22 +88,22 @@ fr:
   events:
     - name: Future of Health
       verb: Inspirer
-      date: "Jeudi 19 mars 2015, de 9h30 à 17h"
+      date: "Jeudi 17 mars 2016, de 9h30 à 17h"
       venue: "[Auditorium du conservatoire de musique - 1 place Dauphine (à côté de la place de l'étoile) - Strasbourg](venue.html)"
       description: "Une journée inspirante de conférences visionnaires sur le futur de la santé par des personnalités internationalement reconnues. Jacques Marescaux (premier chirurgien ayant opéré avec un robot), Uwe Diegel (president de iHealth Labs), Jorge Juan Fernandez Garcia (Médecin et directeur du programme Moebio à l'hôpital San Juan de Deu à Barcelone) et bien d'autres vous donneront leur vision du futur en santé. Si vous aimez les conférences TED vous aimerez assister à ces conférences."
     - name: Health Pitch Challenge
       verb: Bonus
-      date: "Jeudi 19 mars 2015, de 19h à 22h"
+      date: "Jeudi 17 mars 2016, de 19h à 22h"
       venue: "[Auditorium du conservatoire de musique - 1 place Dauphine (à côté de la place de l'étoile) - Strasbourg](venue.html)"
       description: "Soirée dédiée aux startups du domaine de la santé en présence d’investisseurs. Une sélection de startups présenteront leurs idées sous forme de pitch. Le public pourra voter avec des billets de banque virtuels. Le gagnant étant celui qui aura levé le plus d’argent."
     - name: Health Data Day
       verb: Apprendre
-      date: "Vendredi 20 mars 2015, de 9h à 17h"
+      date: "Vendredi 18 mars 2016, de 9h à 17h"
       venue: "[Forum de la faculté de médecine - 4 rue kirschleger - Strasbourg](venue.html)"
       description: "Une journée de conférences et d’ateliers sur la production, la consommation et l’analyse de données de santé sur le plan technique, médical et légal."
     - name: Health Hackathon
       verb: Passer à l'action
-      date: "Du vendredi 20 mars 17h au dimanche 22 mars à 17h"
+      date: "Du vendredi 18 mars 17h au dimanche 20 mars à 17h"
       venue: "[Forum de la faculté de médecine - 4 rue kirschleger - Strasbourg](venue.html)"
       description: "Deuxième hackathon annuel du vendredi soir au dimanche soir. Professionnels de santé, développeurs et designers se retrouveront en équipe pour co-créer des prototypes à partir de défis soumis avant l’évènement."
   partners_title:
@@ -118,7 +119,7 @@ fr:
 
 
 en:
-  subtitle: March <span class="day">19</span><sup>th</sup> to <span class="day">22</span><sup>nd</sup> 2015
+  subtitle: March <span class="day">17</span><sup>th</sup> to <span class="day">20</span><sup>th</sup> 2016
   blog: Blog
   know_more: "Know more"
   submit_challenge_link: "Submit your challenge!"
@@ -165,8 +166,9 @@ en:
     title: "Create the future<br/>of healthcare"
     ticket_link: Register now!
     projects_link: Review all projects!
-    newsletter_link: Keep in touch!
+    newsletter_link: Notify me when registration open!
     challenge_link: And the winners are!
+    sponsor_link: I become a sponsor !
   results:
     title: "600 attendees ! Big success ! Thanks for your participation !"
     description: "90+ health professionals, 120+ hackers, 30+ designers, 50+ entrepreneurs, 54 projects posted, 26 selected, 11 winners"
@@ -191,12 +193,12 @@ en:
   events:
     - name: Future of Health
       verb: Inspire
-      date: "Thursday, March 19th, 9:30 AM - 5 PM"
+      date: "Thursday, March 17th, 9:30 AM - 5 PM"
       venue: "[Auditorium du conservatoire de musique - 1 place Dauphine (near Place de l'étoile) - Strasbourg](venue.html)"
       description: "A entire day of inspiring and forward-thinking conferences on the future of health by a line up of internationally-recognized health mentors. Jacques Marescaux (first surgeon apply remote surgery with robot), Uwe Diegel (president of iHealth Labs), Jorge Juan Fernandez Garcia (leading Spanish children's hospital in Spain) and many more will give their vision on future of healthcare. If you like TED conference you will like to come there especially if you're interested in healthcare."
     - name: Health Pitch Challenge
       verb: Bonus
-      date: "Thursday, March 19th, 7:00 PM - 10:00 PM"
+      date: "Thursday, March 17th, 7:00 PM - 10:00 PM"
       venue: "[Auditorium du conservatoire de musique - 1 place Dauphine (near Place de l'étoile) - Strasbourg](venue.html)"
       description: "A festive event dedicated to health startups, complete with the presence of investors. Early-stage startups will pitch; attendees will vote by investing in their favorite startups with fake banknotes. The winner will be the one who raises the most money."
     - name: Health Data Day
@@ -647,7 +649,7 @@ people:
           description: "Médecin passionné par l’innovation pour aider.<br/>Marketing pharma / Communication / Médical opérationnel / Formation."
 schedules:
   future-of-health:
-    - title: "19th"
+    - title: "17th"
       subtitle: "THURSDAY, MARCH"
       list:
         - title: "8:30am - 9:30am"
@@ -699,7 +701,7 @@ schedules:
           description: "Closing Keynote"
           image: "masante"
   health-pitch-challenge:
-    - title: "19th"
+    - title: "17th"
       subtitle: "THURSDAY, MARCH"
       list:
         - title: "6:30pm"
@@ -715,7 +717,7 @@ schedules:
         - title: "9:30pm"
           description: "Results"
   health-data-day:
-    - title: "20th"
+    - title: "18th"
       subtitle: "FRIDAY, MARCH"
       list:
         - title: "8:30am - 9:30am"
@@ -729,7 +731,7 @@ schedules:
           image: sanofi
           speaker: "Gilles Litman"
           description: "Sanofi France, l’innovation ouverte au service des patients"
-          abstract: "En 2015, les défis d’innovation dans la santé mobilisent de plus en plus de personnes et de nouvelles expertises. Cela ouvre un champ des possibles d’une richesse enthousiasmante. Pionnière dans la santé, Sanofi souhaite continuer à avancer avec ceux qui partagent notre espoir d’un soin toujours meilleur."
+          abstract: "En 2016, les défis d’innovation dans la santé mobilisent de plus en plus de personnes et de nouvelles expertises. Cela ouvre un champ des possibles d’une richesse enthousiasmante. Pionnière dans la santé, Sanofi souhaite continuer à avancer avec ceux qui partagent notre espoir d’un soin toujours meilleur."
         - title: "10am - 10:30am"
           speaker: "Dr Emmanuel Chazard"
           description: "Data reuse of data from medical devices and hospital databases"
@@ -810,7 +812,7 @@ schedules:
           speaker2: "Sébastien Lambour"
           description2: "DATA : cornerstone of value creation<br/><br/>When I see the word “DATA”, everyone promptly talks about “BIG DATA”. The central issue is not “How Big your Data is?”, but creating new value chains based on DATA. Certainly, data storage and data analysis have to be scalable, secure and ethical. It is a technological challenge at the service of a bigger issue.<br/><br/>We have entered a new era in which many professions and systems will be rebooted in the next decade. In many cases, creating value from sensor data is indeed driving innovation, the reboot. Health professions have to be at the heart of innovation as the needs are huge. Analysis of health data will be the cornerstone of a more efficient medicine to the patient, more economical for the health care system, generating value while strengthening patient-practitioner relationship"
   health-hackathon:
-    - title: "20th"
+    - title: "18th"
       subtitle: "FRIDAY, MARCH"
       list:
         - title: "5pm"
@@ -834,7 +836,7 @@ schedules:
           description: "Diner, team building, start working"
         - title: "9:30pm"
           description: "First crazy night"
-    - title: "21st"
+    - title: "19th"
       subtitle: "SATURDAY, MARCH"
       list:
         - title: "8am"
@@ -847,7 +849,7 @@ schedules:
           description: "Diner"
         - title: "10pm"
           description: "Second crazy night"
-    - title: "22nd"
+    - title: "20th"
       subtitle: "SUNDAY, MARCH"
       list:
         - title: "8am"
@@ -1088,7 +1090,7 @@ secondary_partners:
     - name: Alsace Biovalley
       url: http://www.alsace-biovalley.com/
     - name: Health 2.0
-      url: http://www.health2con.com/events/conferences/spring-fling-barcelona-2015/
+      url: http://www.health2con.com/events/conferences/spring-fling-barcelona-2016/
     - name: Epitech
       url: http://www.epitech.eu/
     - name: Hack your phd
@@ -1223,6 +1225,7 @@ secondary_partners:
       url: http://www.inno-forum.org/
 
 last_event_playlist_id: PLKHIK5minrP6NXwHfUF3lD5SbmlbclGhK
+last_event_playlist_id2: UCviq99fD7Pu5kuNItesUfEg
 
 blogPostBeforeEvent:
   - name: TIC sante

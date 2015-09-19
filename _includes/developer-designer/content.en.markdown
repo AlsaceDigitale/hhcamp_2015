@@ -31,9 +31,9 @@ This year join a team and create innovation in health with us
 
 Attend Hacking Health Camp 2015, largest european hackathon in healthcare
 
-<a href="http://hhcamp.eventbrite.fr" class="btn btn-primary btn-block">
+<!--<a href="http://hhcamp.eventbrite.fr" class="btn btn-primary btn-block">
           Register now !
-        </a>
+        </a>-->
 
 </div>
 
@@ -44,25 +44,25 @@ Hacking Health Camp 2015, 4 days in 3 steps : inspire, learn, act
 
 ### Inspire
 
-#### [Future of Health](future-of-health.html) (thursday)
+#### [Future of Health]() (thursday)
 
 A entire day of inspiring and forward-thinking conferences on the future of health by a line up of internationally-recognized health mentors. It will help you understand future ways in healthcare and give you support to choose your team.
 
-#### [Health Pitch Challenge](health-pitch-challenge.html) (thursday evening)
+#### [Health Pitch Challenge]() (thursday evening)
 
 Take a look at health startup already at work and choose your favorite.
 
 ### Learn
 
-#### [Health Data Day](health-data-day.html) (friday)
+#### [Health Data Day]() (friday)
 
 Produce or consume health data needs knowledge in legal, medical and technical aspects.
 Understand strategic challenges by attending conferences and workshop on health data privacy, health APIs manipulation, datastore presentation
-For example this year speakers are : Louis LYU (iHealth API), Pierre Desmarais (French lawyer in healthcare) ...
+For example last year speakers were : Louis LYU (iHealth API), Pierre Desmarais (French lawyer in healthcare) ...
 
 ### Act
 
-#### [Hackathon](health-hackathon.html) : lets’ create (from friday to sunday evening)
+#### [Hackathon]() : lets’ create (from friday to sunday evening)
 
 - listen to pitches and choose your project
 - meet project owner, be recruited
@@ -80,10 +80,10 @@ During this 50h hackathon, we provide the best environment ever for your team to
 
 To join a team:
 
-follow [sparkboard](http://hhcamp.sparkboard.com) activity and find the project you want. Get in touch with project owner to know more about him and his project.
+follow [sparkboard](http://hhcamp2016.sparkboard.com) activity and find the project you want. Get in touch with project owner to know more about him and his project.
 
-<a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
+<!--<a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
           Join a team !
-        </a>
+        </a>-->
 
 </div>

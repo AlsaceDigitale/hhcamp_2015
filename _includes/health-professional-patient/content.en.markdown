@@ -25,12 +25,12 @@ and for project owner
 - meet people involved with skills you need
 - create prototype together with the best environment you need
 
-<a href="http://hhcamp.eventbrite.fr" class="btn btn-primary btn-block">
+<!--<a href="http://hhcamp.eventbrite.fr" class="btn btn-primary btn-block">
           Register now !
         </a>
 <a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
                   Promote your idea !
-                </a>
+                </a>-->
 
 
 </div>
@@ -42,29 +42,29 @@ Hacking Health Camp 2015, 4 days in 3 steps : inspire, learn, act
 
 ### Inspire
 
-#### [Future of Health](future-of-health.html) (thursday)
+#### [Future of Health]() (thursday)
 
 A entire day of inspiring and forward-thinking conferences on the future of health by a line up of internationally-recognized health mentors. It will help you understand future ways in healthcare and give you support to choose your team.
 
-For example this year speaker are : Uwe Diegel (iHealth), Juan Fernandez Garcia (Médecin Hopital St Juan de Déu à Barcelone), Jacques Marescaux (IRCAD), Cédric O'Neil (1001pharmacies), Nicolas Colin (The Family), Zayna Khayat (Médecin MaRS EXCITE Toronto)...
+For example last year speaker were : Uwe Diegel (iHealth), Juan Fernandez Garcia (Médecin Hopital St Juan de Déu à Barcelone), Jacques Marescaux (IRCAD), Cédric O'Neil (1001pharmacies), Nicolas Colin (The Family), Zayna Khayat (Médecin MaRS EXCITE Toronto)...
 
-#### [Health Pitch Challenge](health-pitch-challenge.html) (thursday evening)
+#### [Health Pitch Challenge]() (thursday evening)
 
 Take a look at health startup already at work and choose your favorite.
 
 ### Learn
 
-#### [Health Data Day](health-data-day.html) (friday)
+#### [Health Data Day]() (friday)
 
 Produce or consume health data needs knowledge in legal, medical and technical aspects.
 
 Understand strategic challenges by attending conferences and workshop on health data privacy, health APIs manipulation, datastore presentation
 
-For example this year speakers are : Louis LYU (iHealth API), Pierre Desmarais (Avocat en santé), Nicolas Cauvet (VIDAL), Pascal Zellner (Médecin Ugentiste et geek), Pete Ohnemus (entrepreneur en santé), Mike Amundsen (API evangelist), Nicolas Vayatis (Machine Learning), Délia Drahal-Lofskog (CNIL), Rodolphe Thiébaut (Médecin de santé publique)...
+For example last year speakers were : Louis LYU (iHealth API), Pierre Desmarais (Avocat en santé), Nicolas Cauvet (VIDAL), Pascal Zellner (Médecin Ugentiste et geek), Pete Ohnemus (entrepreneur en santé), Mike Amundsen (API evangelist), Nicolas Vayatis (Machine Learning), Délia Drahal-Lofskog (CNIL), Rodolphe Thiébaut (Médecin de santé publique)...
 
 ### Act
 
-#### [Hackathon](health-hackathon.html) : let’s create (from friday to sunday evening)
+#### [Hackathon]() : let’s create (from friday to sunday evening)
 
 - pitch your idea, be persuasive !!
 - meet developers, designers, build your team
@@ -88,7 +88,7 @@ During this 50h hackathon, we provide the best environment ever for your team to
 
 #### You are a project owner :
 
-Describe your project on [sparkboard](http://hhcamp.sparkboard.com) as soon as possible. Your project have to be known. Start exchange with people interested.
+Describe your project on [sparkboard](http://hhcamp2016.sparkboard.com) as soon as possible. Your project have to be known. Start exchange with people interested.
 
 Attend a preparation workshop. You will find better understanding of skills presents during the hackathon (designer, developers). Identify skills you need and precise your project to fit the hackathon.
 
@@ -96,12 +96,12 @@ Attend a preparation workshop. You will find better understanding of skills pres
 
 Follow sparkboard activity and find the project you want. Get in touch with project owner to know more about him and his project.
 
-<a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
+<!--<a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
           Join a team !
         </a>
 <a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
           Submit your problem / idea !
-        </a>
+        </a>-->
 <a href="http://www.get-ehealth.eu/fill-the-gap" class="btn btn-primary btn-block">
           Be focus on unmet needs in healthcare
         </a>

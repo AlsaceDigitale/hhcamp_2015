@@ -30,11 +30,11 @@ Certains projets sont en train de devenir des startups prometteuses.
 
 Cette année, intégrez une équipe à votre tour ..... Et créez de l’innovation en santé avec nous !
 
-Participez à Hacking Health Camp 2015, le plus grand événement européen d'innovation en e-santé.
+Participez à Hacking Health Camp 2016, le plus grand événement européen d'innovation en e-santé.
 
-<a href="http://hhcamp.eventbrite.fr" class="btn btn-primary btn-block">
+<!--<a href="http://hhcamp.eventbrite.fr" class="btn btn-primary btn-block">
           Inscrivez-vous maintenant !
-        </a>
+        </a>-->
 <br><br><br>
 
 
@@ -48,42 +48,42 @@ Participez à Hacking Health Camp 2015, le plus grand événement européen d'in
 <div class="col-xs-12 col-md-6" markdown="1">
 ## Comment ?
 
-Hacking Health Camp 2015, 4 jours et 3 étapes : s'inspirer, apprendre, passer à l'action
+Hacking Health Camp 2016, 4 jours et 3 étapes : s'inspirer, apprendre, passer à l'action
 
 ### S'inspirer
 
-#### [Future of Health](future-of-health.html) (jeudi)
+#### [Future of Health]() (jeudi)
 
 Les conférences sur la santé de demain : ces personnalités mondialement reconnues vous apporteront leur regard visionnaire sur la santé numérique de demain.
 Pour comprendre dans quelle direction avance la santé en pleine mutation. Ainsi, vous aurez les cartes en main pour choisir l'équipe qui vous inspire.
 
 Parmi les intervenants cette année : Uwe Diegel (iHealth), Juan Fernandez Garcia (Médecin Hopital St Juan de Déu à Barcelone), Jacques Marescaux (IRCAD), Cédric O'Neil (1001pharmacies), Nicolas Colin (The Family), Zayna Khayat (Médecin MaRS EXCITE Toronto)...
 
-#### [Health Pitch Challenge](health-pitch-challenge.html) (jeudi soir)
+#### [Health Pitch Challenge]() (jeudi soir)
 
 Découvrez des startups santé et évaluez-les, sous les yeux attentifs d' investisseurs.
 (Écoutez bien les pitchs, car 24h plus tard, ce sera votre tour de pitcher votre projet au Hackathon....)
 
 ### Apprendre
 
-#### [Health Data Day](health-data-day.html) (vendredi)
+#### [Health Data Day]() (vendredi)
 
 Générer ou utiliser des données de santé, nécessite des connaissances fondamentales, tant éthiques que juridiques ou techniques.
 Comprenez les finesses de votre projet.
 
 Faites-vous votre propre opinion en assistant aux conférences : la protection des données de santé, l'aspect légal, l'open data.
 
-Parmi les intervenants cette année : Louis LYU (iHealth API), Pierre Desmarais (Avocat en santé), Nicolas Cauvet (VIDAL), Pascal Zellner (Médecin Urgentiste et geek), Pete Ohnemus (entrepreneur en santé), Mike Amundsen (API evangelist), Nicolas Vayatis (Machine Learning), Délia Drahal-Lofskog (CNIL), Rodolphe Thiébaut (Médecin de santé publique)...
+Parmi les intervenants des éditions précédentes : Louis LYU (iHealth API), Pierre Desmarais (Avocat en santé), Nicolas Cauvet (VIDAL), Pascal Zellner (Médecin Urgentiste et geek), Pete Ohnemus (entrepreneur en santé), Mike Amundsen (API evangelist), Nicolas Vayatis (Machine Learning), Délia Drahal-Lofskog (CNIL), Rodolphe Thiébaut (Médecin de santé publique)...
 
 ### Passer à l'action
 
-#### "[Hackathon](health-hackathon.html)" (du vendredi soir au dimanche) : vous avez 2 jours pour créer un prototype fonctionnel de votre solution !
+#### "[Hackathon]()" (du vendredi soir au dimanche) : vous avez 2 jours pour créer un prototype fonctionnel de votre solution !
 
  - Écoutez les pitchs et choisissez LE projet qui vous intéresse
  - Rencontrez le porteur de projet et soyez convaincant pour qu'il vous fasse intégrer son équipe
  - Créez !
 
-Pendant ces 54 h de hackathon : nous mettons à la disposition de votre équipe un environnement exceptionnellement pointu pour vous guider et vous conseiller dans votre processus :
+Pendant ces 50 h de hackathon : nous mettons à la disposition de votre équipe un environnement exceptionnellement pointu pour vous guider et vous conseiller dans votre processus :
 
  - des avocats spécialisés en droit de la santé,
  - des experts du pretotyping
@@ -95,9 +95,9 @@ Pendant ces 54 h de hackathon : nous mettons à la disposition de votre équipe 
 
 Pour intégrer une équipe:
 
-Suivez l’activité du [sparkboard](http://hhcamp.spaskboard.com) pour trouver LE projet qui vous fait vibrer. Dès que vous l’avez, entrez en contact avec le porteur de projet pour en savoir plus et aussi mieux connaître la personne  (l’aspect humain est important)
+Suivez [notre activité](http://eepurl.com/Gbes1) pour trouver LE projet qui vous fait vibrer. Dès que vous l’avez, entrez en contact avec le porteur de projet pour en savoir plus et aussi mieux connaître la personne  (l’aspect humain est important)
 
-<a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
+<!--<a href="http://hhcamp.sparkboard.com" class="btn btn-primary btn-block">
           Rejoignez une équipe !
-        </a>
+        </a>-->
 </div>

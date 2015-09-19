@@ -72,7 +72,7 @@
             </li>
           </ul>
         </li>
-        <li class="dropdown">
+        <!--<li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ site[page.locale].nav.agenda }}</a>
           <ul class="dropdown-menu" role="menu">
             {% for event in site[page.locale].events %}
@@ -86,7 +86,7 @@
               </li>
             {% endfor %}
           </ul>
-        </li>
+        </li>-->
         <!--{% assign target_url = '/ticket.html' | prepend: site.baseurl %}
         <li><a href="{% if page.locale == "fr" %}/fr{% endif %}{{ target_url }}">{{ site[page.locale].nav.ticket }}</a></li>
         <li class="dropdown">
@@ -102,7 +102,7 @@
             {% endfor %}
           </ul>
         </li>-->
-        {% assign target_url = '/sponsors-partners.html' | prepend: site.baseurl %}
+        {% assign target_url = '/sponsors.html' | prepend: site.baseurl %}
         <li><a href="{% if page.locale == "fr" %}/fr{% endif %}{{ target_url }}">{{ site[page.locale].nav.become_sponsor }}</a></li>
         {% assign target_url = '/venue.html' | prepend: site.baseurl %}
         <li><a href="{% if page.locale == "fr" %}/fr{% endif %}{{ target_url }}">{{ site[page.locale].nav.venue }}</a></li>
