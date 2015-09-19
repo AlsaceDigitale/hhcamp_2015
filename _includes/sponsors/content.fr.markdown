@@ -10,7 +10,7 @@
 
 Nous vous proposons différents niveaux d’implication, [contactez-nous](mailto:sebastien.letelie@gmail.com)
 
-<a href="https://docs.google.com/document/d/1ybPvnpVwCd5mQPr5NACAqjIlWs1ET-Rj6W7hw2iQr3U/edit?usp=sharing" class="btn btn-primary btn-block" target="_blank">
+<a href="http://gmm.hackinghealth.ca/camp-sponsorship" class="btn btn-primary btn-block" target="_blank">
           Nos offres de sponsoring !
         </a>
 
