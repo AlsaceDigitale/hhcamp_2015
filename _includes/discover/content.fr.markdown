@@ -21,25 +21,25 @@
 
 ###[The Future of Health]()
 
-#####9:30 - 17:00,  Jeudi 18 mars, 2016
+#####9:30 - 17:00,  Jeudi 17 mars, 2016
 
 Une journée inspirante de conférences visionnaires sur le futur de la santé par des personnalités internationalement reconnues.
 
 ###[Health Pitch Challenge]() : soirée de compétition de pitch de startups santé
 
-#####19:00 - 22:00, Jeudi soir 18 mars, 2016
+#####19:00 - 22:00, Jeudi soir 17 mars, 2016
 
 Soirée dédiée aux startups du domaine de la santé en présence d’investisseurs. Une sélection de startups présenteront leurs idées sous forme de pitch. Le public pourra voter avec des billets de banque virtuels. Le gagnant étant celui qui aura levé le plus d’argent.
 
 ###[Health Data Day]() : le Big Data en santé est là, comment l’utiliser ?
 
-#####9:00 - 17:00, Vendredi 19 mars, 2016
+#####9:00 - 17:00, Vendredi 18 mars, 2016
 
 Une journée de conférences et d’ateliers sur la production, la consommation et l’analyse de données de santé sur le plan technique, médical et légal.
 
 ###[Health Hackathon]() : weekend de prototypage
 
-#####Vendredi 19 mars 17:00 au Dimanche 20 mars 22:00, 2016
+#####Vendredi 18 mars 17:00 au Dimanche 20 mars 22:00, 2016
 
 L’idée est simple : l’inspiration étant l’essence même de la création, quoi de mieux que d’écouter des médecins, entrepreneurs et philosophes visionnaires et de rencontrer des startups qui ont déjà commencé à innover. Puis continuer sur un échange sur les données de santé et apprendre à identifier les opportunités tant techniques que médicales sur le sujet de la santé. Au final transformer tout cela en action en travaillant ensemble pour créer des innovations et inventer le futur.
 
