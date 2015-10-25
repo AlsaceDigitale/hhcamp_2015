@@ -17,7 +17,7 @@ We suggest different levels of support, please [contact us](mailto:sebastien.let
 > Pour Sanofi France, le HHC à Strasbourg est un formidable rendez-vous qui nous permet d’accélérer nos projets innovants mais aussi d’apprendre avec les autres participants.
 L’Edition 2015 fut pour Sanofi un succès. Nous avons travaillé avec des personnes passionnées et compétentes sur nos sujets et nous avons aussi pu aider certaines équipes sur place : un vrai travail de co-working et d’échanges. Des liens se tissent lors de ce type d’évènements, des liens maintenus encore aujourd’hui .
 
-Emmanuel Capitanue - Sanofi
+Emmanuel Capitaine - Sanofi
 
 > Outstanding organization, enthusiastic project teams and highly inspiring entrepreneurs. A unique blend that makes hackathon a true innovation hot spot.
 
